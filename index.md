@@ -1,4 +1,5 @@
 # May 22, 2020
+- [Three Concepts of Probabilistic Causation in the Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3477977)
 - [Why White Privilege Is Wrong—Part 1](https://quillette.com/2019/08/22/why-white-privilege-is-wrong-part-1/)
 - [Why Racists (and Liberals!) Keep Writing for ‘Quillette’](https://www.thenation.com/article/archive/quillette-fascist-creep/-)
 - [Black American Culture and the Racial Wealth Gap](https://quillette.com/2018/07/19/black-american-culture-and-the-racial-wealth-gap/)
