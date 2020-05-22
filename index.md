@@ -1,5 +1,6 @@
 RWL=Reach Watch Later
 # May 22, 2020
+- (RWL) [Pandemics, Climate Change, and the Fall of Rome](https://youtu.be/t-O90VPUm6M)
 - (RWL)[Three Concepts of Probabilistic Causation in the Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3477977)
 - [Why White Privilege Is Wrong—Part 1](https://quillette.com/2019/08/22/why-white-privilege-is-wrong-part-1/)
 - [Why Racists (and Liberals!) Keep Writing for ‘Quillette’](https://www.thenation.com/article/archive/quillette-fascist-creep/-)
