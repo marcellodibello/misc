@@ -1,5 +1,6 @@
 RWL=Reach Watch Later
 # May 22, 2020
+- [Criminal Law](https://open.lib.umn.edu/criminallaw/)
 - [Il libro insostenibile: breve difesa di La distruzione della ragione](http://www.leparoleelecose.it/?p=37473)
 - (RWL)[Understanding Bayesian Networks
 with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
