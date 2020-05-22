@@ -1,6 +1,6 @@
 RWL=Reach Watch Later
 # May 22, 2020
-- [Il libro insostenibile: breve difesa di La distruzione della ragione](http://www.leparoleelecose.it/?p=37473&fbclid=IwAR3LrTkAGL2Sqx8VWkYbTUJF4X92WB3UhMVuUWPBCKmLXVPQAM-rZ3b_Dio)
+- [Il libro insostenibile: breve difesa di La distruzione della ragione](http://www.leparoleelecose.it/?p=37473)
 - (RWL)[Understanding Bayesian Networks
 with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
 - (RWL) [Pandemics, Climate Change, and the Fall of Rome](https://youtu.be/t-O90VPUm6M)
