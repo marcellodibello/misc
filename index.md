@@ -1,5 +1,7 @@
 RWL=Reach Watch Later
 # May 22, 2020
+- (RWL)[Understanding Bayesian Networks
+with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
 - (RWL) [Pandemics, Climate Change, and the Fall of Rome](https://youtu.be/t-O90VPUm6M)
 - (RWL)[Three Concepts of Probabilistic Causation in the Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3477977)
 - [Why White Privilege Is Wrong—Part 1](https://quillette.com/2019/08/22/why-white-privilege-is-wrong-part-1/)
