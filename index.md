@@ -1,5 +1,8 @@
 RWL=Reach Watch Later
 # May 23, 2020
+
+- [The Race between Education and Technology](https://www.hup.harvard.edu/catalog.php?content=reviews&isbn=9780674035300)
+  - (RWL) [video](https://www.youtube.com/watch?v=uHbAoIrToco)
 - [A New Model for the American Research University](https://issues.org/a-new-model-for-the-american-research-university/)
 
   > Unable or unwilling to accommodate our nation’s need to deliver superior higher education to millions of new students, most major research universities, both public and private, appear content to maintain the status quo and seek prestige through ever-increasing exclusivity. But success in maintaining excellence in a small number of elite institutions does little to advance our society or ensure continued national competitiveness. The issue of broad accessibility to research-grade academic platforms is far more urgent than policymakers realize, even those on the national stage charged with advancing higher education policy. Our national discussion on higher education must not simply focus on the production of more college graduates. Mere access for greater numbers to rudimentary forms of instruction will not deliver desired societal outcomes ... The imperative is to ensure that far more students —an order of magnitude more—have access to research-grade academic platforms that deliver advanced skills commensurate with the demands of the knowledge economy.
@@ -12,7 +15,7 @@ RWL=Reach Watch Later
 - (RWL)[Understanding Bayesian Networks
 with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
 - (RWL) [Pandemics, Climate Change, and the Fall of Rome](https://youtu.be/t-O90VPUm6M)
-- (RWL)[Three Concepts of Probabilistic Causation in the Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3477977)
+- (RWL) [Three Concepts of Probabilistic Causation in the Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3477977)
 - [Why White Privilege Is Wrong—Part 1](https://quillette.com/2019/08/22/why-white-privilege-is-wrong-part-1/)
 - [Why Racists (and Liberals!) Keep Writing for ‘Quillette’](https://www.thenation.com/article/archive/quillette-fascist-creep/-)
 - [Black American Culture and the Racial Wealth Gap](https://quillette.com/2018/07/19/black-american-culture-and-the-racial-wealth-gap/)
