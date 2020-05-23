@@ -1,4 +1,6 @@
 RWL=Reach Watch Later
+# May 23, 2020
+- [Reimagining the Public University](https://www.nationalaffairs.com/publications/detail/reimagining-the-public-university)
 # May 22, 2020
 - [Criminal Law](https://open.lib.umn.edu/criminallaw/)
 - [Il libro insostenibile: breve difesa di La distruzione della ragione](http://www.leparoleelecose.it/?p=37473)
