@@ -1,6 +1,6 @@
 RWL=Reach Watch Later
 # May 23, 2020
-
+- [ASU New curriculum will focus on philosophy of artificial intelligence](https://asunow.asu.edu/20190723-creativity-new-curriculum-will-focus-philosophy-artificial-intelligence)
 - [The Race between Education and Technology](https://www.hup.harvard.edu/catalog.php?content=reviews&isbn=9780674035300)
   - (RWL) [video](https://www.youtube.com/watch?v=uHbAoIrToco)
 - [A New Model for the American Research University](https://issues.org/a-new-model-for-the-american-research-university/)
