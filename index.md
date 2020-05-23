@@ -10,6 +10,7 @@ RWL=Reach Watch Later
 - [Reimagining the Public University](https://www.nationalaffairs.com/publications/detail/reimagining-the-public-university)
 
 # May 22, 2020
+- [CUNY budget operation](http://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/budget-and-finance/resources/CUNY-Operating-Budget-Overview.pdf)
 - [Criminal Law](https://open.lib.umn.edu/criminallaw/)
 - [Il libro insostenibile: breve difesa di La distruzione della ragione](http://www.leparoleelecose.it/?p=37473)
 - (RWL) [Understanding Bayesian Networks
