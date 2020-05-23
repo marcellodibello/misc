@@ -1,5 +1,6 @@
 RWL=Reach Watch Later
 # May 23, 2020
+- [Two Coasts. One Virus. How New York Suffered Nearly 10 Times the Number of Deaths as California.](https://www.propublica.org/article/two-coasts-one-virus-how-new-york-suffered-nearly-10-times-the-number-of-deaths-as-california)
 - [ASU New curriculum will focus on philosophy of artificial intelligence](https://asunow.asu.edu/20190723-creativity-new-curriculum-will-focus-philosophy-artificial-intelligence)
 - [The Race between Education and Technology](https://www.hup.harvard.edu/catalog.php?content=reviews&isbn=9780674035300)
   - (RWL) [video](https://www.youtube.com/watch?v=uHbAoIrToco)
