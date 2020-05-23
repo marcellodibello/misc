@@ -12,8 +12,9 @@ RWL=Reach Watch Later
 # May 22, 2020
 - [Criminal Law](https://open.lib.umn.edu/criminallaw/)
 - [Il libro insostenibile: breve difesa di La distruzione della ragione](http://www.leparoleelecose.it/?p=37473)
-- (RWL)[Understanding Bayesian Networks
+- (RWL) [Understanding Bayesian Networks
 with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
+    - prognostic v. diagnostic networks can be equivalent inferentialy (pp. 23-24)
 - (RWL) [Pandemics, Climate Change, and the Fall of Rome](https://youtu.be/t-O90VPUm6M)
 - (RWL) [Three Concepts of Probabilistic Causation in the Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3477977)
 - [Why White Privilege Is Wrong—Part 1](https://quillette.com/2019/08/22/why-white-privilege-is-wrong-part-1/)
@@ -28,11 +29,11 @@ with Examples in R](https://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
 - [Ten Cheap Stocks to buy](https://www.nasdaq.com/articles/10-cheap-stocks-to-buy-under-%2410-2020-05-12)
 - (RWL)[The School of Life](https://www.theschooloflife.com/london/)
 # May 20, 2020
-- (RWL)[Power laws, Pareto distributions and Zipf's law](https://arxiv.org/abs/cond-mat/0412004)
+- (RWL) [Power laws, Pareto distributions and Zipf's law](https://arxiv.org/abs/cond-mat/0412004)
 - [The Racism Treadmill](https://quillette.com/2018/05/14/the-racism-treadmill/)
 - [Racial Disparities and the High Cost of Low Debates](https://quillette.com/2018/05/07/racial-disparities-high-cost-low-debates/)
 - [How Real Is Systemic Racism Today?](https://quillette.com/2019/01/25/how-real-is-systemic-racism-today/)
-  - (RWL)[The Race Discrimination System](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-071811-145508)[(pdf)](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-071811-145508)
-  - (RWL)[How Stifling Debate Around Race, Genes and IQ Can Do Harm](https://link.springer.com/article/10.1007/s40806-018-0152-x)
-- (RWL)[What is Systemic Racism? Videos](https://www.raceforward.org/videos/systemic-racism)
+  - (RWL) [The Race Discrimination System](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-071811-145508)[(pdf)](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-071811-145508)
+  - (RWL) [How Stifling Debate Around Race, Genes and IQ Can Do Harm](https://link.springer.com/article/10.1007/s40806-018-0152-x)
+- (RWL) [What is Systemic Racism? Videos](https://www.raceforward.org/videos/systemic-racism)
 - Donald Davidson on [Meaning and Truth (SEP)](https://plato.stanford.edu/entries/davidson/#MeanTrut)
