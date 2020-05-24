@@ -1,5 +1,6 @@
 RWL=Reach Watch Later
 # May23, 2020
+- [Beware the Trolley Zealots](https://sociologica.unibo.it/article/view/10842/10957)
 - [Dopo la democrazia](https://www.milanodigitalweek.com/dopo-la-democrazia)
 - [Leaving academia for the private sector: Seven years later](https://medium.com/@zacernst/leaving-academia-for-the-private-sector-seven-years-later-fbb7849182f6)
 - [Agamben Sul vero e sul falso](https://www.quodlibet.it/giorgio-agamben-sul-vero-e-sul-falso)
