@@ -1,5 +1,6 @@
 RWL=Reach Watch Later
 # May23, 2020
+- [Sally Haslanger, What is a (social) structural explanation?](http://sallyhaslanger.weebly.com/uploads/1/8/2/7/18272031/haslangerwhatissocialstucturalexpanation.pdf)
 - [Beware the Trolley Zealots](https://sociologica.unibo.it/article/view/10842/10957)
     > How do we act morally at a time of immense collective uncertainty, without pretending that we know how to transform this uncertainty into calculable odds? Trolley-like trade-off arguments prevent us from facing these questions. When they warn about “deaths of despair,” for example, they sneak in ipso facto precisely what needs to be changed about the American status quo; indeed, what the pandemic could serve as a lever for changing — namely the casualization and systemic precarity of the labor force (Griesbach, 2020), the dismantling of social services and community support, the declining trust in institutions. These are the “rails” on which their trade-off argument proceeds. 
  
