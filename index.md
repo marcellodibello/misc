@@ -1,6 +1,13 @@
 RWL=Reach Watch Later
 # May23, 2020
 - [Beware the Trolley Zealots](https://sociologica.unibo.it/article/view/10842/10957)
+    > How do we act morally at a time of immense collective uncertainty, without pretending that we know how to transform this uncertainty into calculable odds? Trolley-like trade-off arguments prevent us from facing these questions. When they warn about “deaths of despair,” for example, they sneak in ipso facto precisely what needs to be changed about the American status quo; indeed, what the pandemic could serve as a lever for changing — namely the casualization and systemic precarity of the labor force (Griesbach, 2020), the dismantling of social services and community support, the declining trust in institutions. These are the “rails” on which their trade-off argument proceeds. 
+ 
+   > In the Judeo-Christian tradition there is a counter-fable. This is the famous Rabbinical story, of which the Church Fathers were fond as well, about Moses and the lamb. While herding a flock of sheep through the desert, so the story goes, Moses noticed that a single little lamb was lost. Risking the safety of the whole herd, he sets out on his own to find and save the single lamb. Seeing this, God selects him to be the leader of his people because, God says, he has the quality of mercy.
+ 
+  > The only criterion that should guide their deliberations is an assessment — which doctors make routinely even in the best of times — of who is more likely to be saved by being given a ventilator, while carefully watching for potential biases that may sneak into such uncertain assessments 
+ 
+ > (isn't this the Trolley-type thinking being attacked?)
 - [Dopo la democrazia](https://www.milanodigitalweek.com/dopo-la-democrazia)
 - [Leaving academia for the private sector: Seven years later](https://medium.com/@zacernst/leaving-academia-for-the-private-sector-seven-years-later-fbb7849182f6)
 - [Agamben Sul vero e sul falso](https://www.quodlibet.it/giorgio-agamben-sul-vero-e-sul-falso)
