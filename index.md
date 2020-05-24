@@ -1,5 +1,9 @@
 RWL=Reach Watch Later
 # May 23, 2020
+- [Agamben Sul vero e sul falso](https://www.quodlibet.it/giorgio-agamben-sul-vero-e-sul-falso)
+- [Agamben, La medicina come religione](https://www.quodlibet.it/giorgio-agamben-la-medicina-come-religione)
+- [Tempêtes microbiennes. Essai sur la politique de sécurité sanitaire dans le monde transatlantique](http://www.gallimard.fr/Catalogue/GALLIMARD/NRF-Essais/Tempetes-microbiennes)
+- [Agamben, L'invenzione di un'epidemia](https://www.quodlibet.it/giorgio-agamben-l-invenzione-di-un-epidemia)
 - [Spark + AI Summit 2020](https://databricks.com/sparkaisummit/north-america-2020)
 - [Two Coasts. One Virus. How New York Suffered Nearly 10 Times the Number of Deaths as California.](https://www.propublica.org/article/two-coasts-one-virus-how-new-york-suffered-nearly-10-times-the-number-of-deaths-as-california)
 - [ASU New curriculum will focus on philosophy of artificial intelligence](https://asunow.asu.edu/20190723-creativity-new-curriculum-will-focus-philosophy-artificial-intelligence)
