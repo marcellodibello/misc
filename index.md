@@ -7,7 +7,7 @@ RWL=Reach Watch Later
  
   > The only criterion that should guide their deliberations is an assessment — which doctors make routinely even in the best of times — of who is more likely to be saved by being given a ventilator, while carefully watching for potential biases that may sneak into such uncertain assessments 
  
- > (isn't this the Trolley-type thinking being attacked?)
+    > (isn't this the Trolley-type thinking being attacked?)
 - [Dopo la democrazia](https://www.milanodigitalweek.com/dopo-la-democrazia)
 - [Leaving academia for the private sector: Seven years later](https://medium.com/@zacernst/leaving-academia-for-the-private-sector-seven-years-later-fbb7849182f6)
 - [Agamben Sul vero e sul falso](https://www.quodlibet.it/giorgio-agamben-sul-vero-e-sul-falso)
