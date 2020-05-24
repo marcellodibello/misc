@@ -1,5 +1,6 @@
 RWL=Reach Watch Later
 # May 23, 2020
+- [https://medium.com/@zacernst/leaving-academia-for-the-private-sector-seven-years-later-fbb7849182f6](https://medium.com/@zacernst/leaving-academia-for-the-private-sector-seven-years-later-fbb7849182f6)
 - [Agamben Sul vero e sul falso](https://www.quodlibet.it/giorgio-agamben-sul-vero-e-sul-falso)
 - [Agamben, La medicina come religione](https://www.quodlibet.it/giorgio-agamben-la-medicina-come-religione)
 - [Tempêtes microbiennes. Essai sur la politique de sécurité sanitaire dans le monde transatlantique](http://www.gallimard.fr/Catalogue/GALLIMARD/NRF-Essais/Tempetes-microbiennes)
