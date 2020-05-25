@@ -1,5 +1,7 @@
 RWL=Reach Watch Later
 # May 24, 2020
+- (RWL)[We’re Sleepwalking Into a World of Mass Surveillance](https://www.barrons.com/articles/your-consent-to-contact-tracing-apps-is-meaningless-51588250580)
+- (RWL)[Contact tracing apps are vital tools in the fight against coronavirus. But who decides how they work?](https://theconversation.com/contact-tracing-apps-are-vital-tools-in-the-fight-against-coronavirus-but-who-decides-how-they-work-138206)
 - (RWL)[https://www.stephaniedinkins.com/about.html]
 - (RWL)[Learning How to Live](http://www.onhumanenterprise.com/learning-how-to-live)
 # May23, 2020
