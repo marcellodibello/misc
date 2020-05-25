@@ -1,4 +1,7 @@
 RWL=Reach Watch Later
+# May 24, 2020
+- (RWL)[https://www.stephaniedinkins.com/about.html]
+- (RWL)[Learning How to Live](http://www.onhumanenterprise.com/learning-how-to-live)
 # May23, 2020
 - [Sally Haslanger, What is a (social) structural explanation?](http://sallyhaslanger.weebly.com/uploads/1/8/2/7/18272031/haslangerwhatissocialstucturalexpanation.pdf)
 - [Beware the Trolley Zealots](https://sociologica.unibo.it/article/view/10842/10957)
