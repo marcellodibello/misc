@@ -1,9 +1,10 @@
 RWL=Reach Watch Later
 # May 24, 2020
-- (RWL)[We’re Sleepwalking Into a World of Mass Surveillance](https://www.barrons.com/articles/your-consent-to-contact-tracing-apps-is-meaningless-51588250580)
-- (RWL)[Contact tracing apps are vital tools in the fight against coronavirus. But who decides how they work?](https://theconversation.com/contact-tracing-apps-are-vital-tools-in-the-fight-against-coronavirus-but-who-decides-how-they-work-138206)
-- (RWL)[https://www.stephaniedinkins.com/about.html]
-- (RWL)[Learning How to Live](http://www.onhumanenterprise.com/learning-how-to-live)
+- (RWL) [Bart Verheij, Artificial intelligence as law](https://rdcu.be/b4b3d)
+- (RWL) [We’re Sleepwalking Into a World of Mass Surveillance](https://www.barrons.com/articles/your-consent-to-contact-tracing-apps-is-meaningless-51588250580)
+- (RWL) [Contact tracing apps are vital tools in the fight against coronavirus. But who decides how they work?](https://theconversation.com/contact-tracing-apps-are-vital-tools-in-the-fight-against-coronavirus-but-who-decides-how-they-work-138206)
+- (RWL) [https://www.stephaniedinkins.com/about.html]
+- (RWL) [Learning How to Live](http://www.onhumanenterprise.com/learning-how-to-live)
 # May23, 2020
 - [Sally Haslanger, What is a (social) structural explanation?](http://sallyhaslanger.weebly.com/uploads/1/8/2/7/18272031/haslangerwhatissocialstucturalexpanation.pdf)
 - [Beware the Trolley Zealots](https://sociologica.unibo.it/article/view/10842/10957)
