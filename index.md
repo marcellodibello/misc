@@ -1,4 +1,7 @@
 RWL=Reach Watch Later
+# May 26, 2020
+- [The Results of Europe’s Lockdown Experiment Are In](https://www.bloomberg.com/graphics/2020-opinion-coronavirus-europe-lockdown-excess-deaths-recession/?fbclid=IwAR1RlabLbbt5Ntu6njW93CKyHZS33ZOPmPb4SIJiuMvUHGyk4yURj1Ud9b8)
+# May 25, 2020
 # May 24, 2020
 - (RWL) [Bart Verheij, Artificial intelligence as law](https://rdcu.be/b4b3d)
 - (RWL) [We’re Sleepwalking Into a World of Mass Surveillance](https://www.barrons.com/articles/your-consent-to-contact-tracing-apps-is-meaningless-51588250580)
