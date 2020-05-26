@@ -1,6 +1,8 @@
 RWL=Reach Watch Later
 # May 26, 2020
-- (Palestrina Choral Music Beautiful Choral)[https://www.youtube.com/watch?v=VBEwP95zNGk]
+- [Damien Hirst: Treasures from the Wreck of the Unbelievable review – a titanic return](https://www.theguardian.com/artanddesign/2017/apr/06/damien-hirst-treasures-from-the-wreck-of-the-unbelievable-review-titanic-return)
+- [The Black-White Test Score Gap: Why It Persists and What Can Be Done](https://www.brookings.edu/articles/the-black-white-test-score-gap-why-it-persists-and-what-can-be-done/)
+- [Palestrina Choral Music Beautiful Choral](https://www.youtube.com/watch?v=VBEwP95zNGk)
 - (RWl) [Simposon's Paradox in COVID-19 Fatality Rates](https://arxiv.org/pdf/2005.07180.pdf)
 - (RWL) [Michael Gazzaniga - Free Yet Determined and Constrained - video](https://www.youtube.com/watch?v=aGtZek7RPts)
 - (RWL) [Who's in Charge? Free Will and the Science of the Brain](https://www.harpercollins.com/9780061906114/whos-in-charge/)  [(video)](https://www.youtube.com/watch?v=s4IgZUUe5dc)
