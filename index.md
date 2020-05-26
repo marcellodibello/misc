@@ -1,5 +1,8 @@
 RWL=Reach Watch Later
 # May 26, 2020
+- (RWl) [Simposon's Paradox in COVID-19 Fatality Rates](https://arxiv.org/pdf/2005.07180.pdf)
+- (RWL) [Michael Gazzaniga - Free Yet Determined and Constrained - video](https://www.youtube.com/watch?v=aGtZek7RPts)
+- (RWL) [Who's in Charge? Free Will and the Science of the Brain](https://www.harpercollins.com/9780061906114/whos-in-charge/)  [(video)](https://www.youtube.com/watch?v=s4IgZUUe5dc)
 - (RWL) [Simpson’s Paradox: The riddle that would not die](http://causality.cs.ucla.edu/blog/index.php/2016/08/24/simpsons-paradox-the-riddle-that-would-not-die-comments-on-four-recent-papers/)
 - (RWL) [Confirmation, Causation, and Simpson’s Paradox](http://web.cs.ucla.edu/~kaoru/fitelson-2017.pdf)
 - (RWL) [Epidemics and Society: From the Black Death to the Present](https://yalebooks.yale.edu/book/9780300192216/epidemics-and-society)
