@@ -1,5 +1,7 @@
 RWL=Reach Watch Later
 # May 26, 2020
+- (RWL) [Simpson’s Paradox: The riddle that would not die](http://causality.cs.ucla.edu/blog/index.php/2016/08/24/simpsons-paradox-the-riddle-that-would-not-die-comments-on-four-recent-papers/)
+- (RWL) [Confirmation, Causation, and Simpson’s Paradox](http://web.cs.ucla.edu/~kaoru/fitelson-2017.pdf)
 - (RWL) [Epidemics and Society: From the Black Death to the Present](https://yalebooks.yale.edu/book/9780300192216/epidemics-and-society)
 - [The Results of Europe’s Lockdown Experiment Are In](https://www.bloomberg.com/graphics/2020-opinion-coronavirus-europe-lockdown-excess-deaths-recession/?fbclid=IwAR1RlabLbbt5Ntu6njW93CKyHZS33ZOPmPb4SIJiuMvUHGyk4yURj1Ud9b8)
 # May 25, 2020
