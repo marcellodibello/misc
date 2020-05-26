@@ -1,5 +1,6 @@
 RWL=Reach Watch Later
 # May 26, 2020
+- (Palestrina Choral Music Beautiful Choral)[https://www.youtube.com/watch?v=VBEwP95zNGk]
 - (RWl) [Simposon's Paradox in COVID-19 Fatality Rates](https://arxiv.org/pdf/2005.07180.pdf)
 - (RWL) [Michael Gazzaniga - Free Yet Determined and Constrained - video](https://www.youtube.com/watch?v=aGtZek7RPts)
 - (RWL) [Who's in Charge? Free Will and the Science of the Brain](https://www.harpercollins.com/9780061906114/whos-in-charge/)  [(video)](https://www.youtube.com/watch?v=s4IgZUUe5dc)
