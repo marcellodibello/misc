@@ -1,4 +1,8 @@
 RWL=Reach Watch Later
+# May 27, 2020
+ - [We’ve wasted enough time. We must figure out how to reopen schools this fall](https://www.washingtonpost.com/opinions/weve-wasted-enough-time-we-must-figure-out-how-to-reopen-schools-this-fall/2020/05/14/2ac9392e-960e-11ea-91d7-cf4423d47683_story.html#click=https://t.co/CX3qzcU6IT)
+- [Apple and Google are building a virus-tracking system. Health officials say it will be practically useless](https://www.washingtonpost.com/technology/2020/05/15/app-apple-google-virus/)
+- [Justifying Lockdown](https://www.ethicsandinternationalaffairs.org/2020/justifying-lockdown/)
 # May 26, 2020
 - [Damien Hirst: Treasures from the Wreck of the Unbelievable review – a titanic return](https://www.theguardian.com/artanddesign/2017/apr/06/damien-hirst-treasures-from-the-wreck-of-the-unbelievable-review-titanic-return)
 - [The Black-White Test Score Gap: Why It Persists and What Can Be Done](https://www.brookings.edu/articles/the-black-white-test-score-gap-why-it-persists-and-what-can-be-done/)
