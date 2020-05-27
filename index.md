@@ -1,5 +1,6 @@
 RWL=Reach Watch Later
 # May 27, 2020
+- [Reconciling Results on Racial Differences in Police Shootings](https://scholar.harvard.edu/files/fryer/files/fryer_police_aer.pdf)
  - [We’ve wasted enough time. We must figure out how to reopen schools this fall](https://www.washingtonpost.com/opinions/weve-wasted-enough-time-we-must-figure-out-how-to-reopen-schools-this-fall/2020/05/14/2ac9392e-960e-11ea-91d7-cf4423d47683_story.html#click=https://t.co/CX3qzcU6IT)
 - [Apple and Google are building a virus-tracking system. Health officials say it will be practically useless](https://www.washingtonpost.com/technology/2020/05/15/app-apple-google-virus/)
 - [Justifying Lockdown](https://www.ethicsandinternationalaffairs.org/2020/justifying-lockdown/)
