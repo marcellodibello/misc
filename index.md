@@ -1,4 +1,9 @@
 RWL=Reach Watch Later
+# May 28, 2020
+- (RWL) [Algorithms as Prosecutors](https://users.nber.org/~dlchen/papers/Algorithms_as_Prosecutors.pdf)
+- (RWL) [Zimmermann, Algorithmic Fairness and Decision Landscapes](https://www.youtube.com/watch?v=NiLXvpmcvzg)
+- (RWL) [Fazelpour & Lipton, Algorithmic Fairness from a Non-ideal Perspective](https://www.youtube.com/watch?v=-Er5DXnw0mg)
+- [Vredenburgh, Against Model-Based Counterfactual Explanations](https://www.youtube.com/watch?v=NBrnY6zcm3U)
 # May 27, 2020
 - (RWL) [Updating Beliefs when Evidence is Open to Interpretation: Implications for Bias and Polarization](https://scholar.harvard.edu/fryer/publications/updating-beliefs-when-evidence-open-interpretation-implications-bias-and)
 - [Reconciling Results on Racial Differences in Police Shootings](https://scholar.harvard.edu/files/fryer/files/fryer_police_aer.pdf)
