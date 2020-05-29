@@ -1,6 +1,20 @@
 RWL=Reach Watch Later
 # May 29, 2020
 
+- [A Prosecutor's Use of Inconsistent Factual Theories of a Crime](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=3607&context=flr)
+
+    > Prosecutors face a dilemma when two people engage in criminal
+activity, but only one of the perpetrators commits the most serious
+offense. In some cases, the evidence clearly establishes that the most
+serious offense, oftentimes murder, was committed by only one
+person. The evidence frequently does not, however, confirm which of
+the suspects committed this offense. Moreover, circumstantial
+evidence often suggests that either suspect could have committed the
+offense. Thus, knowing that one of the two suspects committed the
+offense, prosecutors face a difficult choice: they can choose not to
+charge either suspect, charge only one of the suspects, or charge both
+suspects with the same criminal act.
+
 - [The Heritage of Giotto's Geometry: Art and Science on the Eve of Scientific Revolution](https://www.amazon.com/Heritage-Giottos-Geometry-Scientific-Revolution/dp/0801481988)
 
 - [Glasgow, Racism as Disrespect, Ethics](https://www.journals.uchicago.edu/doi/full/10.1086/648588)
