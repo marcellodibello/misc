@@ -1,4 +1,77 @@
 RWL=Reach Watch Later
+# May 29, 2020
+
+- [The Heritage of Giotto's Geometry: Art and Science on the Eve of Scientific Revolution](https://www.amazon.com/Heritage-Giottos-Geometry-Scientific-Revolution/dp/0801481988)
+
+- [Glasgow, Racism as Disrespect, Ethics](https://www.journals.uchicago.edu/doi/full/10.1086/648588)
+
+  > Real Estate. For centuries, members of R1 systematically targeted the
+economic resources of members of R2 for (unjust) suppression, first
+through a state-supported system of slavery, then through a statesupported system of segregation. Eventually, there was a racial rapprochement, where all state-supported means of R2’s economic repression (including criminal laws, voting rights, and tax-and-transfer schemes) were abolished. However, the rapprochement was not complete in the sense that no reparations were made to members of R2, and therefore the postrapprochement era begins with R1s uniformly
+having more wealth than R2s. Two hundred years later, there are no
+longer any attitudes, behaviors, or beliefs, among either R1s or R2s,
+which we would ordinarily identify as racist. However, there also is
+no change in mortgage policies, which ensures that more, and more
+beneficial, mortgages go to those with better credit ratings, and better
+credit ratings are assigned to those with greater assets. As a direct
+result of this state of affairs, R2s still have fewer good homes, less
+wealth, and a weaker sense of economic security than R1s have. (p. 72-73)
+
+  >  The institutional forces at work in Real Estate can apparently be
+legitimately described as racist: because the two races do not start, even
+after the rapprochement, at just relative starting points, and because
+the relevant credit institutions perpetuate existing inequality, those institutions perpetuate (indeed, exacerbate) a socioeconomic structure in
+which members of R1 systematically and unjustly have greater access to
+housing, to a comparatively accessible vehicle for growing personal
+wealth, and not least to a source of perceived security and well-being
+than do members of R2. Thus, while, by hypothesis, the mortgage industry has policies that are, other things being equal, just, other things
+are not equal, because of the society’s racist past. Further, imagine that
+everyone is well aware of the problem and wants to fix it, and at the
+moment they are just waiting to vote in a referendum that will select
+policies aimed at solving the problem, perhaps to determine the exact
+monetary amount that should be paid to each R2 in order for their
+society to have a racially just economic distribution. So, despite the fact
+that no one agent is racist at this moment, a troubled past means that
+their otherwise just institutions perpetuate an unjust racial inequity. This
+seems to qualify those institutions as racist. (p. 73)
+
+- [Structural Racism, Institutional Agency, and Disrespect](https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1090&context=rel_fac)
+
+  > The Toxic Doughnut Hole: On the outskirts of a major U.S. city, a predominately black
+community is literally surrounded by landfills, sewage plants, chemical refineries, and
+toxic dumps. The air, water, and soil are polluted at levels three to four times what is
+considered safe. Rates of cancer, asthma, and emphysema, among other illnesses, are
+more than double that of the general population. Furthermore, the industries surrounding
+this community are inspected and cited less frequently by regulatory bodies than
+comparable industries in white communities, and when they are cited for regulatory
+infractions, the fines levied are consistently less than those imposed for comparable
+violations in white communities. Let us suppose that the directors of these industries lack
+any beliefs, attitudes, or behaviors that we would normally consider racist. The
+motivation for locating their facilities here is purely economic: lower real estate prices,
+lower taxes, favorable zoning regulations, and etc. Let us suppose further that in locating
+their facilities here, these industries actually sought out the input and consent of the
+neighboring community, thus extending them due respect. And let us suppose that, as an
+economically depressed community desperate for jobs and tax revenue, the community
+consented to the construction and location of the facilities. (p. 9)
+
+  > Why are zoning regulations so lax? Perhaps because
+impoverished communities are also frequently politically disenfranchised, and so
+raise fewer effective complaints than better-situated communities. When one
+begins to ask these questions, what emerges is a picture of some populations
+systematically disadvantaged by various interrelated barriers, and other
+populations systematically advantaged by those same barriers. That toxic waste,
+landfills, and etc. are disproportionately located in poor, minority communities
+means that they are disproportionately absent from well-off white communities,
+who also probably benefit more from the products and processes that produce
+such waste ... Put simply, when dealing with finite
+resources, a disadvantage for one group creates an advantage for everyone else.
+This principle is straightforward, but frequently those who are willing to admit
+that racial minorities face significant disadvantages resist making the logical step
+of acknowledging that non-minorities thus enjoy significant advantages. That
+these advantages and disadvantages track along racial lines means that they are
+not based on merit, just transfer, or any other plausible criteria for distributive
+justice. In short, they are undeserved. This is why they represent an injustice. (p. 11)
+
 # May 28, 2020
 - (RWL) [Algorithms as Prosecutors](https://users.nber.org/~dlchen/papers/Algorithms_as_Prosecutors.pdf)
 - (RWL) [Zimmermann, Algorithmic Fairness and Decision Landscapes](https://www.youtube.com/watch?v=NiLXvpmcvzg)
