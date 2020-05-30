@@ -1,6 +1,20 @@
 RWL=Reach Watch Later
 # May 29, 2020
 
+- [The Anti-Lockdown Protests Prove Police Know How to Treat Protesters Fairly](https://slate.com/news-and-politics/2020/05/police-response-george-floyd-minneapolis-shutdowns.html)
+
+Comparison is hard to follow, but ...
+
+   > When faced with angry, predominantly white crowds, police agencies have proven that they are capable of discipline and a reasonable reaction to a perceived threat. It’s not crazy to wonder, had the police shown up to the anti–police brutality protests with the same level of restraint, might the escalation have been avoided? Riots are an inevitable consequence of systematic instability, or, as Martin Luther King Jr. called them, “the language of the unheard.” It’s not hard to see how meeting protesters who have come to stand against excessive use of force with an excessive use of force would lead to nowhere good.
+
+- [Examining the Black-white wealth gap](https://www.brookings.edu/blog/up-front/2020/02/27/examining-the-black-white-wealth-gap/)
+        
+     > Why are high- and middle-income white families so much wealthier than Black families with the same incomes? We note a few reasons. White families receive much larger inheritances on average than Black families. Economists Darrick Hamilton and Sandy Darity conclude that inheritances and other intergenerational transfers “account for more of the racial wealth gap than any other demographic and socioeconomic indicators.”
+        
+    > The solutions to the Black-white wealth gap—and the policies that address racial inequity more generally—are largely outside the scope of this post. But the analysis above points to at least one type of reform: taxation of income from wealth. The income from inheritances, and from wealth more generally, is taxed at an inequitably low rate, especially when compared to earnings.
+        
+        
+
 - [A Prosecutor's Use of Inconsistent Factual Theories of a Crime](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=3607&context=flr)
 
     > Prosecutors face a dilemma when two people engage in criminal
