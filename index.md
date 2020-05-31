@@ -1,4 +1,8 @@
 RWL=Reach Watch Later
+
+# May 30,2020
+- [Robert Margo: The Persistence of Racial Inequality](https://www.youtube.com/watch?v=SviRNRdywxo)
+
 # May 29, 2020
 
 - [The Anti-Lockdown Protests Prove Police Know How to Treat Protesters Fairly](https://slate.com/news-and-politics/2020/05/police-response-george-floyd-minneapolis-shutdowns.html)
