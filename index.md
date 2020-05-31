@@ -1,13 +1,32 @@
 RWL=Reach Watch Later
 
+# May 30, 2020
+
+- [Criminal Victimization, 2018](https://www.bjs.gov/content/pub/pdf/cv18.pdf)
+   - Table 14: 
+      - 3,581,360*15.3%=547,948 (black on white violent incidents)
+      - 3,581,360*62.1%=2,224,024  (white on white)
+      - 563,940*10.6%=59,778 (white on black)
+      - 563,940*70.3%=396,449 (black on black)
+   - Numbers are misleading since population proportions by race are not uniform across races
+   
+- [What is BitChute? Characterizing the “Free Speech” Alternative
+to YouTube](https://arxiv.org/pdf/2004.01984.pdf)
+
+- Police/citizens interactions
+   - [Video Released Of Police Officer Shooting Van Filled With Kids](https://www.youtube.com/watch?v=hBnmYgjqoM8&feature=youtu.be)
+   - [Police Traffic Stop - "I can't breathe"](https://www.bitchute.com/video/dd8xZAtMVpPT/)
+
 # May 30,2020
 - [Robert Margo: The Persistence of Racial Inequality](https://www.youtube.com/watch?v=SviRNRdywxo)
+
+- [The Race between Education and Technology](https://www.hup.harvard.edu/catalog.php?content=reviews&isbn=9780674035300)
+  - (RWL) [video](https://www.youtube.com/watch?v=uHbAoIrToco)
 
 # May 29, 2020
 
 - [The Anti-Lockdown Protests Prove Police Know How to Treat Protesters Fairly](https://slate.com/news-and-politics/2020/05/police-response-george-floyd-minneapolis-shutdowns.html)
 
-Comparison is hard to follow, but ...
 
    > When faced with angry, predominantly white crowds, police agencies have proven that they are capable of discipline and a reasonable reaction to a perceived threat. It’s not crazy to wonder, had the police shown up to the anti–police brutality protests with the same level of restraint, might the escalation have been avoided? Riots are an inevitable consequence of systematic instability, or, as Martin Luther King Jr. called them, “the language of the unheard.” It’s not hard to see how meeting protesters who have come to stand against excessive use of force with an excessive use of force would lead to nowhere good.
 
@@ -152,8 +171,6 @@ justice. In short, they are undeserved. This is why they represent an injustice.
 - [Spark + AI Summit 2020](https://databricks.com/sparkaisummit/north-america-2020)
 - [Two Coasts. One Virus. How New York Suffered Nearly 10 Times the Number of Deaths as California.](https://www.propublica.org/article/two-coasts-one-virus-how-new-york-suffered-nearly-10-times-the-number-of-deaths-as-california)
 - [ASU New curriculum will focus on philosophy of artificial intelligence](https://asunow.asu.edu/20190723-creativity-new-curriculum-will-focus-philosophy-artificial-intelligence)
-- [The Race between Education and Technology](https://www.hup.harvard.edu/catalog.php?content=reviews&isbn=9780674035300)
-  - (RWL) [video](https://www.youtube.com/watch?v=uHbAoIrToco)
 - [A New Model for the American Research University](https://issues.org/a-new-model-for-the-american-research-university/)
 
   > Unable or unwilling to accommodate our nation’s need to deliver superior higher education to millions of new students, most major research universities, both public and private, appear content to maintain the status quo and seek prestige through ever-increasing exclusivity. But success in maintaining excellence in a small number of elite institutions does little to advance our society or ensure continued national competitiveness. The issue of broad accessibility to research-grade academic platforms is far more urgent than policymakers realize, even those on the national stage charged with advancing higher education policy. Our national discussion on higher education must not simply focus on the production of more college graduates. Mere access for greater numbers to rudimentary forms of instruction will not deliver desired societal outcomes ... The imperative is to ensure that far more students —an order of magnitude more—have access to research-grade academic platforms that deliver advanced skills commensurate with the demands of the knowledge economy.
