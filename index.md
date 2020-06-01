@@ -2,6 +2,8 @@ RWL=Reach Watch Later
 
 # May 30, 2020
 
+- [COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020](https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article)
+
 - [Criminal Victimization, 2018](https://www.bjs.gov/content/pub/pdf/cv18.pdf)
    - Table 14: 
       - 3,581,360*15.3%=547,948 (black on white violent incidents)
