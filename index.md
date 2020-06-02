@@ -1,5 +1,9 @@
 RWL=Reach Watch Later
 
+# June 2, 2020
+
+- [My White Friend Asked Me on Facebook to Explain White Privilege. I Decided to Be Honest](https://www.yesmagazine.org/opinion/2017/09/08/my-white-friend-asked-me-on-facebook-to-explain-white-privilege-i-decided-to-be-honest/)
+
 # May 30, 2020
 
 - [COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020](https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article)
