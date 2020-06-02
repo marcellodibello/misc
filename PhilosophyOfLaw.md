@@ -1,6 +1,7 @@
 0. Sources/forms of law
       - statues, codes (Hammurabi's , NY Penal code)
       - judicial opinions
+      - [Intro to Law](https://www.youtube.com/watch?v=FiOiBFHNxRQ)
   
 1. Positivism
     - Hart
@@ -32,6 +33,10 @@
       - Calabresi, The Costs of Accidents
       - [Calabresi, Some Thoughts on Risk Distribution and the Law of Torts](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=3035&context=fss_papers&sei-redir=1)
       - [Coleman, The Costs of The Costs of Accidents](https://core.ac.uk/download/pdf/56358131.pdf)
+      - [Palsgraf v. Long Island Railroad](https://www.youtube.com/watch?v=LK0Z2bWQ1Yk)
+      - [Video Case Brief - Palsgraf v Long Island Rail Road (Torts)](https://www.youtube.com/watch?v=WeQ7oal4M0M)
+      - [Palsgraf v. Long Island Railroad Summary | quimbee.com](https://www.youtube.com/watch?v=G-9cIaMhtUE)
+      - [SEP, Tort Law Theories](https://plato.stanford.edu/entries/tort-theories/)
  8. Wrongful conviction
  
  9. Economic analysis of the law
