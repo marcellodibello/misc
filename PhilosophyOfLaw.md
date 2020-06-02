@@ -15,6 +15,7 @@
       - [NPR, One Man's Case For Regulating Hate Speech](https://www.npr.org/2012/06/03/154150229/one-mans-case-for-regulating-hate-speech)
       - [Hate Speech and Free Speech](https://www.cornell.edu/video/hate-speech-free-speech-nadine-strossen-jeremy-waldron)
       - [Eric Heinze, Nineteen arguments for hate speech bans – and against them](https://freespeechdebate.com/discuss/nineteen-arguments-for-hate-speech-bans-and-against-them/)
+      -  [National Socialist Party of America v. Village of Skokie](https://www.oyez.org/cases/1976/76-1786)
   
  3. Causation and responsibility
  
@@ -22,4 +23,13 @@
        - [Letter from a Birmingham Jail](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
        
  5. Race
+ 
+ 6. Punishment
+ 
+ 7. Risks and torts
+            - Coleman, Risks and Wrongs
+            
+ 8. Wrongful conviction
+ 
+ 9. Economic analysis of the law
       
