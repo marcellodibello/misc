@@ -28,7 +28,10 @@
  
  7. Risks and torts
             - Coleman, Risks and Wrongs
-            
+            - [Fletcher, Corrective Justice for Moderns](https://scholarship.law.columbia.edu/faculty_scholarship/1068/)
+            - [Calabresi, The Costs of Accidents]()
+            - [Calabresi, Some Thoughts on Risk Distribution and the Law of Torts](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=3035&context=fss_papers&sei-redir=1)
+            - [Coleman, The Costs of The Costs of Accidents](https://core.ac.uk/download/pdf/56358131.pdf)
  8. Wrongful conviction
  
  9. Economic analysis of the law
