@@ -12,6 +12,7 @@
       - [Waldron, The harm of hate speech](https://freespeechdebate.com/en/discuss/the-harm-of-hate-speech/)
             - (https://www.hup.harvard.edu/catalog.php?isbn=9780674416864)
       - [Waldron, Dignity and Defamation: The Visibility of Hate](https://harvardlawreview.org/2010/05/dignity-and-defamation-the-visibility-of-hate/)
+      - [NPR, One Man's Case For Regulating Hate Speech](https://www.npr.org/2012/06/03/154150229/one-mans-case-for-regulating-hate-speech)
       - [Hate Speech and Free Speech](https://www.cornell.edu/video/hate-speech-free-speech-nadine-strossen-jeremy-waldron)
       - [Eric Heinze, Nineteen arguments for hate speech bans – and against them](https://freespeechdebate.com/discuss/nineteen-arguments-for-hate-speech-bans-and-against-them/)
   
