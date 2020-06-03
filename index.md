@@ -1,8 +1,12 @@
 RWL=Reach Watch Later
 
 # June 2, 2020
-
+- [Structural Racism](https://www.racialequitytools.org/resourcefiles/Definitions-of%20Racism.pdf)
+- [The Deadly Shootings That Black Lives Matter Ignores](https://www.manhattan-institute.org/html/deadly-shootings-ignored)
+- [San Francisco’s Quality-of-Life Toll](https://www.city-journal.org/san-francisco-crime)
+- [America’s Black Communities Are Suffering. Violent Protests Will Make the Suffering Worse](https://quillette.com/2020/05/30/americas-black-communities-are-suffering-violent-protests-will-make-the-suffering-worse/)
 - [My White Friend Asked Me on Facebook to Explain White Privilege. I Decided to Be Honest](https://www.yesmagazine.org/opinion/2017/09/08/my-white-friend-asked-me-on-facebook-to-explain-white-privilege-i-decided-to-be-honest/)
+
 
 # May 30, 2020
 
