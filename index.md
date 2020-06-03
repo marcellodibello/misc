@@ -1,7 +1,9 @@
 RWL=Reach Watch Later
 
-# June 2, 2020
+# June 3, 2020
 - [Structural Racism](https://www.racialequitytools.org/resourcefiles/Definitions-of%20Racism.pdf)
+
+# June 2, 2020
 - [The Deadly Shootings That Black Lives Matter Ignores](https://www.manhattan-institute.org/html/deadly-shootings-ignored)
 - [San Francisco’s Quality-of-Life Toll](https://www.city-journal.org/san-francisco-crime)
 - [America’s Black Communities Are Suffering. Violent Protests Will Make the Suffering Worse](https://quillette.com/2020/05/30/americas-black-communities-are-suffering-violent-protests-will-make-the-suffering-worse/)
