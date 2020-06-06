@@ -1,5 +1,10 @@
 RWL=Reach Watch Later
 
+# June 6, 2020
+
+- [I Must Object: A rebuttal to Brown University’s letter on racism in the United States](https://www.city-journal.org/brown-university-letter-racism)
+- [What to tell young people about the systemic hatred in our society ](https://www.ft.com/content/eb4b2d10-a644-11ea-a27c-b8aa85e36b7e?segmentId=b385c2ad-87ed-d8ff-aaec-0f8435cd42d9)
+
 # June 3, 2020
 - [Structural Racism](https://www.racialequitytools.org/resourcefiles/Definitions-of%20Racism.pdf)
 
