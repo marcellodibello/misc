@@ -1,5 +1,11 @@
 RWL=Reach Watch Later
 
+# June 7, 2020
+
+- [Otto Lehto's Reviews > Radical Uncertainty: Decision-Making Beyond the Numbers](https://www.goodreads.com/review/show/3295062243?book_show_action=true&from_review_page=1)
+      > Interesting Amazon's review (probabilistic models versus narratives, law): "The critique of SEU theory is fair. Their development of an alternative approach to making decisions the face of uncertainty about the future is less well-specified. A lot of material is included on the way people reason by narratives, the use of small groups to exchange opinions, and the use of Taleb's positioning approach of clipping downside risks and being open to upside risks. There is some mention of scenario thinking and trying to make robust and resilient decisions in the face of uncertainty but this discussion is not well-developed as a practical proposition. I think the authors need to find out more about scenario methods beyond those of Schoemaker. There is a lot of recent stuff about combining decision analysis ( SMART) with scenarios and a lot about developing causality in scenario storylines, etc. The new Wiley journal "Futures & Foresight Science" is a good way into this developing area."
+- [What Happened to the Public Health Emergency?](https://reason.com/2020/06/03/what-happened-to-the-public-health-emergency/)
+
 # June 6, 2020
 
 - [The Mass Psychology of Fascism](https://en.wikipedia.org/wiki/The_Mass_Psychology_of_Fascism)
