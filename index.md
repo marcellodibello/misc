@@ -1,9 +1,19 @@
 RWL=Reach Watch Later
 
+# June 8, 2020
+
+- [A large-scale analysis of racial disparities in police stops across the United States](https://5harad.com/papers/100M-stops.pdf)
+
+     > We assessed racial disparities in policing in the United States by compiling and analysing a dataset detailing nearly 100 million traffic stops conducted across the country. We found that black drivers were less likely to be stopped after sunset, when a ‘veil of darkness’ masks one’s race, suggesting bias in stop decisions. Furthermore, by examining the rate at which stopped drivers were searched and the likelihood that searches turned up contraband, we found evidence that the bar for searching black and Hispanic drivers was lower than that for searching white drivers. Finally, we found that legalization of recreational marijuana reduced the number of searches of white, black and Hispanic drivers—but the bar for searching black and Hispanic drivers was still lower than that for white drivers post-legalization. Our results indicate that police stops and search decisions suffer from persistent racial bias and point to the value of policy interventions to mitigate these disparities.
+     
+ - [Stereotyping Vs. Black Lives Matter](http://www.thecritique.com/articles/stereotyping-vs-black-lives-matter-moral-frames-for-understanding-the-police-killings/)
+ 
+ - [Political Rioting: A Moral Assessment](https://onlinelibrary.wiley.com/doi/abs/10.1111/papa.12132)
+
 # June 7, 2020
 
 - [Otto Lehto's Reviews > Radical Uncertainty: Decision-Making Beyond the Numbers](https://www.goodreads.com/review/show/3295062243?book_show_action=true&from_review_page=1)
-      > Interesting Amazon's review (probabilistic models versus narratives, law): "The critique of SEU theory is fair. Their development of an alternative approach to making decisions the face of uncertainty about the future is less well-specified. A lot of material is included on the way people reason by narratives, the use of small groups to exchange opinions, and the use of Taleb's positioning approach of clipping downside risks and being open to upside risks. There is some mention of scenario thinking and trying to make robust and resilient decisions in the face of uncertainty but this discussion is not well-developed as a practical proposition. I think the authors need to find out more about scenario methods beyond those of Schoemaker. There is a lot of recent stuff about combining decision analysis ( SMART) with scenarios and a lot about developing causality in scenario storylines, etc. The new Wiley journal "Futures & Foresight Science" is a good way into this developing area."
+       > Interesting Amazon's review (probabilistic models versus narratives, law): "The critique of SEU theory is fair. Their development of an alternative approach to making decisions the face of uncertainty about the future is less well-specified. A lot of material is included on the way people reason by narratives, the use of small groups to exchange opinions, and the use of Taleb's positioning approach of clipping downside risks and being open to upside risks. There is some mention of scenario thinking and trying to make robust and resilient decisions in the face of uncertainty but this discussion is not well-developed as a practical proposition. I think the authors need to find out more about scenario methods beyond those of Schoemaker. There is a lot of recent stuff about combining decision analysis ( SMART) with scenarios and a lot about developing causality in scenario storylines, etc. The new Wiley journal "Futures & Foresight Science" is a good way into this developing area."
 - [What Happened to the Public Health Emergency?](https://reason.com/2020/06/03/what-happened-to-the-public-health-emergency/)
 
 # June 6, 2020
