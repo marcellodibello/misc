@@ -1,5 +1,17 @@
 RWL=Reach Watch Later
 
+# June 11, 2020
+
+- [Tricia Rose, How Systemic Racism Works: COVID-19](https://www.youtube.com/watch?v=mpfCkawO2RY)
+
+- (RWL) [How Structural Racism Works: Tricia Rose](https://www.youtube.com/watch?v=KT1vsOJctMk)
+
+- (RWL) [Staggering Loss of Black Wealth Due to Subprime Scandal Continues Unabated](https://prospect.org/justice/staggering-loss-black-wealth-due-subprime-scandal-continues-unabated/)
+     
+ - [Dallas Police body cameras show moment Tony Timpa stopped breathing](https://www.youtube.com/watch?v=_c-E_i8Q5G0)
+     
+- (RWL) [The Effects of DNA databases on crime](https://justicetechlab.github.io/jdoleac-website/research/Doleac_DNA_databases.pdf)
+
 # June 8, 2020
 
 - [Images From a Worldwide Protest Movement](https://www.theatlantic.com/photo/2020/06/images-worldwide-protest-movement/612811/)
