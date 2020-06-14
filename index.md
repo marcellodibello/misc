@@ -1,5 +1,26 @@
 RWL=Reach Watch Later
 
+
+# June 14, 2020
+
+- [Principal Fairness for Human and Algorithmic Decision-Making](https://arxiv.org/pdf/2005.10400.pdf)
+
+- [Black Communities and the Police: On the Meaning of Ferguson](https://www.youtube.com/watch?v=QxO6uxZcPGw)
+     >  A discussion -- helpful summary [here](https://watson.brown.edu/news/recaps/2015/FergusonRecap) -- with Glenn Loury and Tricia Rose and others on police killing, structural racism and related topics. Disappointing exchange. Glenn and Tricia seem unable to have a reasoned conversation. Other speakers tried to create more common grounds. Glenn's main criticism of Tricia's structural racism SR approach is centered on the idea that SR is not a sophisticated enough theory to explain.  Another point he made is that--politically and moving foward--SR has little to offer. It is easy to get into polarities, such as individual responsibility vs. community responsability. Tricia adn Glenn suggest we overcome polarities.
+     
+     > This discussion was a follow-up to a piece that Glenn write along with a commentary by others:
+     
+     - [Ferguson Won't Change Anything. What Will?](http://bostonreview.net/forum/glenn-c-loury-ferguson-wont-change-anything-what-will)
+
+- [Mapping Police Violence](https://mappingpoliceviolence.org/)
+     - downward trend: 291 killings of blacks in 2013 to 259 in 2019 - all
+     - downward trend: 50 killings of blacks in 2013 to 18 in 2019 - unarmed
+     - downward trend: 64 killings of whites in 2013 to 51 in 2019 -unarmed
+     - stable trend: 426 killings of whites in 2013 to 51 in 4006 - all
+     - state trends: rates of police killings are low in NY or NJ, also AL, SC, but higher in AZ, NM.
+          - do police in states with larger black populations usually kill people less often?
+
+
 # June 11, 2020
 
 - [Tricia Rose, How Systemic Racism Works: COVID-19](https://www.youtube.com/watch?v=mpfCkawO2RY)
