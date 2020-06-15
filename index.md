@@ -3,6 +3,13 @@ RWL=Reach Watch Later
 
 # June 14, 2020
 
+- [COVID death by race](https://www.apmresearchlab.org/covid/deaths-by-race)
+
+- [Crime in Chicago: Beyond the Headlines](https://www.cityclub-chicago.org/video/1261/crime-in-chicago-beyond-the-headlines)
+
+     > Claim is that lowring of homicide rates is based, partly, on data driven policing (not just more policing)
+     - [U Chicago - Crime Lab](https://urbanlabs.uchicago.edu/labs/crime)
+
 - [Principal Fairness for Human and Algorithmic Decision-Making](https://arxiv.org/pdf/2005.10400.pdf)
 
 - [Black Communities and the Police: On the Meaning of Ferguson](https://www.youtube.com/watch?v=QxO6uxZcPGw)
