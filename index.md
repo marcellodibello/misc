@@ -1,6 +1,15 @@
 RWL=Reach Watch Later
 
 
+# June 16, 2020
+
+-[Textualism and Purposivism in Today's Supreme Court Decision on Discrimination Against Gays, Lesbians, and Transsexuals](https://reason.com/2020/06/15/textualism-and-purposivism-in-todays-supreme-court-decision-on-discrimination-against-gays-lesbians-and-transsexuals/)
+
+  Interesting Gorsuch's argument that Title VII CRA 1968 prohibits discrimination by sexual orientation b/c it prohibits discrimination by race
+    
+   >  it is impossible to discriminate against a person for being homosexual or transgender without discriminating against that individual based on sex. Consider, for example, an employer with two employees, both of whom are attracted to men. The two individuals are, to the employer's mind, materially identical in all respects, except that one is a man and the other a woman. If the employer fires the male employee for no reason other than the fact he is attracted to men, the employer discriminates against him for traits or actions it tolerates in his female colleague….
+
+
 # June 14, 2020
 
 - [COVID death by race](https://www.apmresearchlab.org/covid/deaths-by-race)
