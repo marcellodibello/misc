@@ -1,6 +1,22 @@
 RWL=Reach Watch Later
 
 
+# June 23, 2020
+
+- (RWL) [Andrew Ferguson Publications](http://www.profandrewferguson.com/publications/)
+
+    > Writes a lot about big data and the law. See also piece below on big data and prosecution. And also piece further below about police surveillance and big data. 
+
+- (RWL) [Big Data Prosecution and Brady](https://shows.acast.com/ipse-dixit/episodes/andrew-ferguson-on-big-data-prosecution-and-brady)
+
+- (RWL) [Police Use of High-Tech Surveillance Amplifies Bias and Overreach](https://undark.org/2020/06/16/police-surveillance-bias/)
+
+- (RWL) [Does ‘Big Data’ Threaten Due Process?](https://lawoptics.com/2019/06/15/does-big-data-threaten-due-process/)
+
+- (RWL) [Law and Society Association: 2020 Annual Meeting](https://cdn.ymaws.com/lawandsociety.site-ym.com/resource/resmgr/2020_program_book__2_.pdf)
+
+- (RWL) [L’invenzione dell’uomo bianco](https://medium.com/@CesareAlemanni/linvenzione-dell-uomo-bianco-dc8c20f71d9a)
+
 # June 16, 2020
 
 -[Textualism and Purposivism in Today's Supreme Court Decision on Discrimination Against Gays, Lesbians, and Transsexuals](https://reason.com/2020/06/15/textualism-and-purposivism-in-todays-supreme-court-decision-on-discrimination-against-gays-lesbians-and-transsexuals/)
