@@ -1,3 +1,30 @@
+- possible course structure
+      - w1: rules and interpretation
+            - Hammurabi and other codes
+            - Rules and rationales behind rules
+            - Can a murderer inherit?
+            - Scalia Breyer debate
+            - Specluncan explorers
+            - homework: court opinion analysis
+      - w2: what is the law?
+            - aquinas
+            - kelsen
+            - austin
+            - hart
+      - w3: punishment
+            - Mackie/Kant
+            - Didier
+      - w4: civil disobedience
+            - Antigone
+            - Socrates
+            - King
+            - Rawls
+      - w5: state of exception
+            - Agamben
+       - w6: law and morality
+            - Hart
+            - Fuller
+
 0. Sources/forms of law
       - statues, codes (Hammurabi's , NY Penal code)
       - judicial opinions
@@ -9,6 +36,7 @@
     - Kelsen
     
  2. Hate speech Bans
+      - [Executive Order on Preventing Online Censorship](https://www.whitehouse.gov/presidential-actions/executive-order-preventing-online-censorship/)
       - [Opinion: ASU's 'green light' rating for free speech is justified](https://www.statepress.com/article/2018/09/spmagazine-asu-receives-green-light-rating-for-university-free-speech-policies)
       - [Waldron, The harm of hate speech](https://freespeechdebate.com/en/discuss/the-harm-of-hate-speech/)
             - (https://www.hup.harvard.edu/catalog.php?isbn=9780674416864)
