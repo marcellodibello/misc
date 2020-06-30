@@ -1,5 +1,11 @@
 RWL=Reach Watch Later
 
+# June 30, 2020
+
+- [FIRE](https://playingwithfire.co/) - Retire Ind Retire Early
+- [Index Fund 2020](https://www.bankrate.com/investing/best-index-funds/)
+- (RWL)[Catalyst Journal](https://catalyst-journal.com/)
+- [Legal Realism as a Theory of Law](https://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=1299&context=wmlr)
 
 # June 23, 2020
 
