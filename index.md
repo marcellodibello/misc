@@ -2,6 +2,7 @@ RWL=Reach Watch Later
 
 # June 30, 2020
 
+- [Oxford Seminars in Jurisprudence - Deadline August 10](https://oxjuris.com/call-for-papers/)
 - [FIRE](https://playingwithfire.co/) - Retire Ind Retire Early
 - [Index Fund 2020](https://www.bankrate.com/investing/best-index-funds/)
 - (RWL)[Catalyst Journal](https://catalyst-journal.com/)
