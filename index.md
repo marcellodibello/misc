@@ -1,5 +1,15 @@
 RWL=Reach Watch Later
 
+# July 14, 2020
+
+- (RWL) [Does the COVID-19 pandemic refute probability neglect?](https://www.tandfonline.com/doi/full/10.1080/13669877.2020.1772346)
+- [Palantir confidentially files to go public](https://www.marketwatch.com/story/palantir-confidentially-files-to-go-public-2020-07-06)
+- (RWL) [When the state of exception becomes the norm, democracy is on a tightrope](https://theconversation.com/when-the-state-of-exception-becomes-the-norm-democracy-is-on-a-tightrope-135369)
+- [Yes, There Is Such a Thing as Cancel Culture](https://quillette.com/2020/07/14/yes-there-is-such-a-thing-as-cancel-culture/)
+- [A Declaration of Independence by a Princeton Professor](https://quillette.com/2020/07/08/a-declaration-of-independence-by-a-princeton-professor/)
+- [A Letter on Justice and Open Debate](https://harpers.org/a-letter-on-justice-and-open-debate/)
+- [How Arizona Courts are Organized](https://www.azcourts.gov/guidetoazcourts/How-Arizona-Courts-are-Organized)
+
 # June 30, 2020
 
 - [Oxford Seminars in Jurisprudence - Deadline August 10](https://oxjuris.com/call-for-papers/)
