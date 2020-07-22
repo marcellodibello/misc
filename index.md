@@ -1,5 +1,13 @@
 RWL=Reach Watch Later
 
+# July 22, 2020
+- (RWL) [Six political philosophies in search of a virus: Critical perspectives on the coronavirus pandemic](http://www.lse.ac.uk/european-institute/Assets/Documents/LEQS-Discussion-Papers/LEQSPaper156.pdf)
+- (RWL) [I’m an MLK scholar – and I’ll never be able to view King in the same light](https://theconversation.com/im-an-mlk-scholar-and-ill-never-be-able-to-view-king-in-the-same-light-118015)
+- [How to Make Sense of the Shocking New MLK Documents](https://www.politico.com/magazine/story/2019/06/04/how-to-make-sense-of-the-shocking-new-mlk-documents-227042)
+- (RWL) [Rethink the Interest Convergence Thesis](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1182&context=nulr)
+- [Robert P. George, Natural Law and Civil Rights](https://scholarship.law.edu/cgi/viewcontent.cgi?article=1675&context=lawreview)
+- (RWL) [Modernity, Faith, and Martin Buber](https://www.newyorker.com/magazine/2019/05/06/modernity-faith-and-martin-buber)
+
 # July 14, 2020
 
 - (RWL) [Does the COVID-19 pandemic refute probability neglect?](https://www.tandfonline.com/doi/full/10.1080/13669877.2020.1772346)
