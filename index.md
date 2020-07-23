@@ -2,6 +2,8 @@ RWL=Reach Watch Later
 
 # July 23, 2020
 
+- (RWL) [List of recommended resources for readers of An Introduction to Implicit Bias](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9781138092235/List_of_recommended_resources.pdf)
+
 - (RWL) [Elizabeth Anderson on 'Let's Talk'](http://philosophybites.libsyn.com/elizabeth-anderson-on-lets-talk)
 
 - (RWL) [John Worrall on Evidence-Based Medicine](http://philosophybites.libsyn.com/john-worrall-on-evidence-based-medicine)
