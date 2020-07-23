@@ -2,6 +2,26 @@ RWL=Reach Watch Later
 
 # July 23, 2020
 
+- (RWL) [Elizabeth Anderson on 'Let's Talk'](http://philosophybites.libsyn.com/elizabeth-anderson-on-lets-talk)
+
+- (RWL) [John Worrall on Evidence-Based Medicine](http://philosophybites.libsyn.com/john-worrall-on-evidence-based-medicine)
+
+- (RWL) [Susan James on Foucault and Knowledge](http://philosophybites.libsyn.com/susan-james-on-foucault-and-knowledge)
+
+- (RWL) [Steven Lukes on Power](http://philosophybites.libsyn.com/steven-lukes-on-power)
+
+- (RWL) [Lisa Bortolotti on Irrationality](http://philosophybites.libsyn.com/lisa-bortolotti-on-irrationality)
+
+- (RWL) [Hugh Mellor on Probability](http://philosophybites.libsyn.com/hugh-mellor-on-probability)
+
+- (RWL) [John Dupre on Genomics](http://philosophybites.libsyn.com/john-dupre-on-genomics)
+
+- (RWL) [Tamar Gendler on Why Philosophers Use Examples](http://philosophybites.libsyn.com/tamar-gendler-on-why-philosophers-use-examples)
+
+- (RWL) [Amia Srinivasan on Genealogy](http://philosophybites.libsyn.com/amia-srinivasan-on-genealogy)
+
+- [Rima Basu: The Specter of Normative Conflict: Does Fairness Conflict with Accuracy?](http://peasoup.us/2020/07/rima-basu-the-specter-of-normative-conflict-does-fairness-conflict-with-accuracy/)
+
 - [The Case Against Free Speech](https://www.c-span.org/video/?463545-1/the-case-free-speech)
 
 - [In Defense of Academic Freedom](http://theprincetontory.com/in-defense-of-academic-freedom-princeton-open-campus-coalitions-letter-to-president-eisgruber/)
