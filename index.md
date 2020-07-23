@@ -1,5 +1,18 @@
 RWL=Reach Watch Later
 
+# July 23, 2020
+
+- [In Defense of Academic Freedom](http://theprincetontory.com/in-defense-of-academic-freedom-princeton-open-campus-coalitions-letter-to-president-eisgruber/)
+
+ > *NOTE* about the free speech debate discussed in the articles below. For one thing, this isn't techinically a debate about the constitutionally protected right to free speech. I don't think that right is in jeopardy. I did not see any supreme court case that demands an encroachment of that right. If there is a problam with free speehc, it is about social norms and social sanctions, not about the law or the constitution. Examples: the [Princeton letter](https://www.thecollegefix.com/princeton-faculty-accuse-school-of-rampant-anti-blackness-issue-list-of-48-demands/) and the [letter against Pinker](https://docs.google.com/document/d/17ZqWl5grm_F5Kn_0OarY9Q2jlOnk200PvhM5e3isPvY/edit) (the accusation being that "Dr. Pinker as a public figure has a pattern of drowning out the voices of people suffering from racist and sexist violence, in particular in the immediate aftermath of violent acts and/or protests against the systems that created them.
+"). They signal that certain points of view in academia might not be welcome any longer. 
+
+- [The Chilling Effect of an Attack on a Scholar](https://www.theatlantic.com/ideas/archive/2020/07/steven-pinker-will-be-just-fine/614323/)
+- [J.K. Rowling Writes about Her Reasons for Speaking out on Sex and Gender Issues](https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/)
+- [The “free speech debate” isn’t really about free speech](https://www.vox.com/policy-and-politics/2020/7/22/21325942/free-speech-harpers-letter-bari-weiss-andrew-sullivan)
+    > But for a lot of trans writers and thinkers, having to constantly debate Rowling’s position— that the movement for trans equality is a threat to the safety and status of cisgender women — is a mechanism for excluding them from public discourse.
+        
+
 # July 22, 2020
 - (RWL) [Six political philosophies in search of a virus: Critical perspectives on the coronavirus pandemic](http://www.lse.ac.uk/european-institute/Assets/Documents/LEQS-Discussion-Papers/LEQSPaper156.pdf)
 - (RWL) [I’m an MLK scholar – and I’ll never be able to view King in the same light](https://theconversation.com/im-an-mlk-scholar-and-ill-never-be-able-to-view-king-in-the-same-light-118015)
