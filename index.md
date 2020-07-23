@@ -2,6 +2,8 @@ RWL=Reach Watch Later
 
 # July 23, 2020
 
+- [The Case Against Free Speech](https://www.c-span.org/video/?463545-1/the-case-free-speech)
+
 - [In Defense of Academic Freedom](http://theprincetontory.com/in-defense-of-academic-freedom-princeton-open-campus-coalitions-letter-to-president-eisgruber/)
 
  > *NOTE* about the free speech debate discussed in the articles below. For one thing, this isn't techinically a debate about the constitutionally protected right to free speech. I don't think that right is in jeopardy. I did not see any supreme court case that demands an encroachment of that right. If there is a problam with free speehc, it is about social norms and social sanctions, not about the law or the constitution. Examples: the [Princeton letter](https://www.thecollegefix.com/princeton-faculty-accuse-school-of-rampant-anti-blackness-issue-list-of-48-demands/) and the [letter against Pinker](https://docs.google.com/document/d/17ZqWl5grm_F5Kn_0OarY9Q2jlOnk200PvhM5e3isPvY/edit) (the accusation being that "Dr. Pinker as a public figure has a pattern of drowning out the voices of people suffering from racist and sexist violence, in particular in the immediate aftermath of violent acts and/or protests against the systems that created them.
