@@ -1,5 +1,13 @@
 RWL=Reach Watch Later
 
+# July 24, 2020
+
+- [The Dehumanizing Condescension of White Fragility](https://www.theatlantic.com/ideas/archive/2020/07/dehumanizing-condescension-white-fragility/614146/)
+
+- [Walking, disability rights and embodiment (video feat. Judith Butler & Sanaura Taylor)](https://criticalphysio.net/2015/01/13/walking-disability-rights-and-embodiment-video-feat-judith-butler-sanaura-taylor/)
+
+- (RWL) [Mechanical Choices: The Responsibility of the Human Machine by Michael S. Moore](https://global.oup.com/academic/product/mechanical-choices-9780190863999)
+
 # July 23, 2020
 
 - (RWL) [List of recommended resources for readers of An Introduction to Implicit Bias](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9781138092235/List_of_recommended_resources.pdf)
