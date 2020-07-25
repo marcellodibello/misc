@@ -1,5 +1,32 @@
 RWL=Reach Watch Later
 
+# July 25, 2020
+
+- (RWL) [Income Inequality and the Persistence of Racial Economic Disparities](https://www.sociologicalscience.com/download/vol-5/march/SocSci_v5_182to205.pdf)
+
+  > ABSTRACT: More than 50 years after the Civil Rights Act, black–white family income disparities in the
+United States remain almost exactly the same as what they were in 1968. This article argues that a
+key and underappreciated driver of the racial income gap has been the national trend of rising income
+inequality. From 1968 to 2016, black–white disparities in family income rank narrowed by almost
+one-third. But this relative gain was negated by changes to the national income distribution that
+resulted in rapid income growth for the richest—and most disproportionately white—few percentiles
+of the country combined with income stagnation for the poor and middle class. But for the rise in
+income inequality, the median black–white family income gap would have decreased by about 30
+percent. Conversely, without the partial closing of the rank gap, growing inequality alone would
+have increased the racial income gap by 30 percent
+
+- [Racial Inequality Trends and the Intergenerational Persistence of Income and Family Structure](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4598060/)
+
+  >  Interesting article. It uses computer simulations as methodology. It compares actual data about racial wealth disparities in 2008 with simulated data based on different parameters and hypotheses. 
+  
+  > Two main hypotheses about the persistance of racial wealth/income inequalities from 1968 to 2008. One hypothesis: intergenerational wealth transmission. Rich familites tend to trasmit their wealth down the line. Hypothesis two: changes in family structure and labor market, in particular, more single families and decline of unskilled workfprce and rise of highly technical workforce.  The paper basically argues for hypothesis two. 
+  
+  > Looks like that, if we hold fixed family structure (say, single family or two parent family), racial disaprities in family are not as stark today. Reduction of racial wealth disparities within the same family structure is more marked than if we lookd at disaprities in the aggregate. (Is this another version of Simpson's paradox, i.e. no discriminatory pattern in subgroups, but an overall discriminatory pattern in the aggregate?) 
+  
+  > So the proposed explanation, roughly, is this: (a) income disparities were equalizing from 1968 to today, but family structure was not. Black women were becoming more independent and more black single families appeared compared to white single families (though the pattern seems to affect both racial groups). (b)  Single faimilies tend to be poorer. So, by putting toghether (a) and (b), here you have the explanation. 
+  
+  > Also interesting is that the author looks at the entire wealth/income distribution, not just the median or mean as comonly done. 
+
 # July 24, 2020
 
 - [The Dehumanizing Condescension of White Fragility](https://www.theatlantic.com/ideas/archive/2020/07/dehumanizing-condescension-white-fragility/614146/)
