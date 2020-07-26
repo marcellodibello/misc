@@ -1,5 +1,33 @@
 RWL=Reach Watch Later
 
+
+# July 26, 2020
+
+- (RWL) [Robert Manduca Publication](https://robertmanduca.com/publications/)
+
+- (RWL) [Opportunity in the United States: An Intergenerational Perspective](ttps://www.nber.org/papers/w24441)
+
+- (RWL) [The Opportunity Atlas](https://www.opportunityatlas.org/)
+
+- (Punishing and toxic neighborhood environments independently predict the intergenerational social mobility of black and white children)[https://www.pnas.org/content/116/16/7772]
+
+> *outcome variables*: "Our analysis focuses on the expected outcomes for children with parents at the national 25th percentile. The main outcomes we examine are: individual income rank in 2014–2015 for black boys, when they were aged 31–37 years; the expected fraction of black boys incarcerated on April 1, 2010; and the expected fraction of black girls who had children as teenagers. Each of these outcomes is of fundamental interest to researchers in the social sciences."
+
+> *explanatory variables*: "Our explanatory variables are constructed from the Census; the Community Survey of the PHDCN, which interviewed a representative sample of Chicago residents about their neighborhood social environments in 1995 and 2002 (combined N of ∼12,000); violent crime rates per 100,000 population from 1995 to 2000, derived from offenses reported by citizens to the police; incarceration rates per population from 1995 to 2000, derived from prison admission data; and lead exposure among children from 1995 to 1997, derived from more than 150,000 blood-level tests conducted by Chicago’s health department."
+
+> quotations: "There is considerable variation across the city: among majority African American Census tracts, for instance, the expected income rank for a boy with parents at the 25th percentile varies by more than 19 percentage points."
+  
+ 
+ > "By combining a fuller set of measures of neighborhood context and child outcomes, we have shown that theoretically relevant aspects of the social and physical environment, most notably exposure to violence, lead, and incarceration, directly predict lower intergenerational income mobility, adult incarceration, and teenage birth among children who grow up poor. Although the magnitude of association and the explanatory power of toxicity is similar for blacks and whites, exposure levels, in Chicago at least, are markedly different: the most-exposed white tracts in our sample had levels comparable to the least-exposed black tracts, potentially accounting for racial disparities in social mobility."
+
+- [Arizona Water Facts](http://www.arizonawaterfacts.com/water-your-facts)
+
+- [What's on Tap for Arizona Water in 2020? Five Issues to Watch](https://www.phoenixnewtimes.com/news/water-drought-arizona-southwest-farmers-groundwater-cap-mead-2020-11423832)
+
+- [How rising U.S. income inequality exacerbates racial economic disparities](https://equitablegrowth.org/how-rising-u-s-income-inequality-exacerbates-racial-economic-disparities/)
+
+  > This is a more acessible version of the academic paper below on income inequality. The thesis is pretty interesting. The stagnation between 1960 and 2010 of the racial gap in family income, as measured by the median or mean, can be accounted by two concurrent phenomena: (a) a closing of the racial gap as measured by family income rank toghether with (b) widening economic inequality (i.e. concentration of income to the top percentiles of the income distribution).
+
 # July 25, 2020
 
 - (RWL) [35 Best Philosophy Podcasts](https://medium.com/the-mission/35-best-philosophy-podcasts-28e79725a696)
