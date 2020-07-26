@@ -5,11 +5,11 @@ RWL=Reach Watch Later
 
 - (RWL) [Robert Manduca Publication](https://robertmanduca.com/publications/)
 
-- (RWL) [Opportunity in the United States: An Intergenerational Perspective](ttps://www.nber.org/papers/w24441)
+- (RWL) [Opportunity in the United States: An Intergenerational Perspective](https://www.nber.org/papers/w24441)
 
 - (RWL) [The Opportunity Atlas](https://www.opportunityatlas.org/)
 
-- (Punishing and toxic neighborhood environments independently predict the intergenerational social mobility of black and white children)[https://www.pnas.org/content/116/16/7772]
+- [Punishing and toxic neighborhood environments independently predict the intergenerational social mobility of black and white children](https://www.pnas.org/content/116/16/7772)
 
 > *outcome variables*: "Our analysis focuses on the expected outcomes for children with parents at the national 25th percentile. The main outcomes we examine are: individual income rank in 2014–2015 for black boys, when they were aged 31–37 years; the expected fraction of black boys incarcerated on April 1, 2010; and the expected fraction of black girls who had children as teenagers. Each of these outcomes is of fundamental interest to researchers in the social sciences."
 
