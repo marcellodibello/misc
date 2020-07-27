@@ -1,5 +1,13 @@
 RWL=Reach Watch Later
 
+# July 27, 2020
+
+- (RWL) [William Julius Wilson](https://en.wikipedia.org/wiki/William_Julius_Wilson)
+
+- (RWL) [Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/)
+
+- (RWL) [Norm Manipulation, Norm Evasion: Experimental Evidence](https://pdfs.semanticscholar.org/a2ef/a9cc3bde071dd2b674347256ef9b3629a483.pdf)
+
 
 # July 26, 2020
 
