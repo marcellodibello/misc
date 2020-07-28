@@ -1,5 +1,50 @@
 RWL=Reach Watch Later
 
+# July 28, 2020
+
+- [2. Behavioral Evolution](https://www.youtube.com/watch?v=Y0Oa4Lp5fLE)
+
+  > Premises of natural selection: (1) variability of traits, (2) heritability of traits (applies to behaviour as well), (3) adaptability. 
+  
+  > Challenge: is behaviour heritable? 
+  
+  > Goal is to maximize passing down one's gene, via (building block 1) individual selection (maximization of reproduction), or (building block 2) kin selection (since we share genes with twin brothers, 100%, broters, 1/2, and cousins, 1/8 of genes) by allowing one's of our kin to reproduce instead of us, or via (building block 3) cooperation.
+  
+   > Reciprocal altruism and cooperation. Rock/paper/seazar scenarios. Requires animal who are able to recognize one another over time. But this also hapens with bacteria. There could be cheating during this reciprocal cooperation.  
+   
+   > When do you cooperate and when do you cheat? Game theory. Prisoner's dilemma. Tit for tat strategy is the most optimal (start cooperating, coooperate next if the other cooperated, but cheat if they did not cooperate, and then go back to cooperate if they cooperated before). This strategy drives all the other strategies into extinction.  But this strategy is vulnerable to signal error. Robert Axelrod. 
+   
+   > Better strategy. Forgiving tit for tat. If cheating comes up too for long, forgive in one round (leaving open possibility of signal error, the other cooperated but you mstook for cheating). This prevails over strict tit for tat. 
+   
+   > But forgiving Tit for Tar is vulnerable to exploitation if the other doe snot forgive. 
+   
+   > Even better strategy: start with strict tit for tat, and after a while without being cheated, then switch to forgiving tit for tat (you trust the other).
+   
+   > But Pavlov Tit for Tat could exploit the earlier Tit for Tat. 
+   
+   > "The Optimal Benefit of Perceived Madness" by Ellsberg.
+   
+   > Biologists looked at this formal work. Do animals behave in the way described by game theory?
+   
+   > Example 1: Vampire. System of altruism.  Bats feed everybody's babies with blood they found. Others reciprocate next time. Blood vampire commune.  Tit for Tat. But if there is seeming cheating if one bat (signal error), altruistic behavior is interrupted. 
+   
+   > Example 2: Fish. Tit for tat strategy. 
+   
+   > Example 3: Fish species that would change sex. 
+   
+   > Exceptions: Naked mole rat. Big cooperative colonies. Lots of work. Reciprocities all over. There were one or two animals in the colony that were not doing any work. But no punishment for them. Why? There is another game going on. Those who did no work usually had the job of protecting colonies against floods and water. Work diversification. Multiple games going on.  Real world is complicated.
+   
+   > Further complication. Mutation (stratgey changing). James Holland. 
+   
+   > We can look at animal behaviour and use the three building blocks to understand animal behaviour.  
+   
+   > Higher level of aggresion in males if male body size is bigger than female body. 
+
+- [1. Introduction to Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list)
+
+  > What causes behvaiour? Various categories: genes, natural selection, hormones, brain, stimuli. These are just different ways to describe behaviour, none is ultimate and completely explanatory. 
+
+
 # July 27, 2020
 
 - (RWL) [William Julius Wilson](https://en.wikipedia.org/wiki/William_Julius_Wilson)
