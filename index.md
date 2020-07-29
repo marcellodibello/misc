@@ -1,5 +1,17 @@
 RWL=Reach Watch Later
 
+# July 29, 2020
+
+- (RWL) [The Sexist Algorithm](https://pubmed.ncbi.nlm.nih.gov/30931534/)
+
+- (RWL) [Embedded Ethics](https://embeddedethics.seas.harvard.edu/)
+
+- (RWL) [Manufacturing Consent](https://en.wikipedia.org/wiki/Manufacturing_Consent)
+
+- (RWL) [Chaos: Making a New Science](https://www.youtube.com/watch?v=94Y7Mzit_tI)
+
+- (RWL) [Madman theory](https://en.wikipedia.org/wiki/Madman_theory)
+
 # July 28, 2020
 
 - [Box v. PLANNED PARENTHOOD OF IN & KENTUCKY, INC., 139 S. Ct. 1780 - Supreme Court 2019](https://scholar.google.com/scholar_case?case=14234423931788202116)
@@ -9,6 +21,8 @@ RWL=Reach Watch Later
   > Thomas makes another point. Just as it was wong for eugenists to infer the inferiority of black people from disparate rates of achievement (disparate rates of achievement can after all be due to all sorts of factors, not racial inferiority), similarly it is wrong for us today to infer racism from racially disparate rates of achievemtns. The two forms of reasoning follow the same logic, says Thomas. It is not exactly clear how, but it is an interetsing point nonetheless. Thomas cites Sowell, footnote 4. Denial of the complexity of the human experience is the culprit here. ("Both eugenics and disparate-impact liability rely on the simplistic and often faulty assumption that "some one particular factor is the key or dominant factor behind differences in outcomes" and that one should expect "an even or random distribution of outcomes ... in the absence of such complicating causes as genes or discrimination." Sowell 25, 87. Among other pitfalls, these assumptions tend to collapse the distinction between correlation and causation and shift the analytical focus away from "flesh-and-blood human being[s]" to impersonal statistical groups frozen in time. Id., at 83; see id., at 87-149 (explaining how statistics and linguistics can be used to obscure realities). Just as we should not assume, based on bare statistical disparities, "that the Negro lacks in his germ-plasm excellence of some qualities which the white races possess," Applied Eugenics 285, "[w]e should not automatically presume that any institution with a neutral practice that happens to produce a racial disparity is guilty of discrimination until proved innocent." Texas Dept. of Housing and Community Affairs v. Inclusive Communities Project, Inc., 576 U. S. ___, ___, 135 S.Ct. 2507, 2530, 192 L.Ed.2d 514 (2015) (THOMAS, J., dissenting). Both views "ignore the complexities of human existence." Id., at ___, 135 S.Ct., at 2530.")
 
 - [2. Behavioral Evolution](https://www.youtube.com/watch?v=Y0Oa4Lp5fLE)
+
+  > good [summary](https://www.robertsapolskyrocks.com/behavioral-evolution.html) of the whole lecture
 
   > Premises of natural selection: (1) variability of traits, (2) heritability of traits (applies to behaviour as well), (3) adaptability. 
   
