@@ -38,14 +38,25 @@ RWL=Reach Watch Later
    
    > Example 3: Fish species that would change sex. 
    
+   > So optimal behaviour (tit for that strategy) is selected by natural selection logic 
+   
    > Exceptions: Naked mole rat. Big cooperative colonies. Lots of work. Reciprocities all over. There were one or two animals in the colony that were not doing any work. But no punishment for them. Why? There is another game going on. Those who did no work usually had the job of protecting colonies against floods and water. Work diversification. Multiple games going on.  Real world is complicated.
    
-   > Further complication. Mutation (stratgey changing). James Holland. 
+   > Further complication. Mutation (stratgey changing). James Holland, first PhD in computer science, Michigan.
    
    > We can look at animal behaviour and use the three building blocks to understand animal behaviour.  
    
    > Higher level of aggresion in males if male body size is bigger than female body. 
+   Also, more reproductive variability. 
+   Also, less male parental behaviour. 
+   Also, less able to express emotions.
+   
+   > If body size is the same across genders, females will look for males who are competent at parental behavior, able to to brign food, etc. 
+   More monogamous species
+   
+   > Tuornament species (high variability across genders, e.g. peacook feather) versus parebonding species (similarities across genders)
 
+   > Where do human fit into this? We are i between. 
 - [1. Introduction to Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list)
 
   > What causes behvaiour? Various categories: genes, natural selection, hormones, brain, stimuli. These are just different ways to describe behaviour, none is ultimate and completely explanatory. 
