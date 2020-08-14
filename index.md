@@ -16,11 +16,11 @@ RWL=Reach Watch Later
 
 ## Regulations
 
-    >  The claim here is that (a) Trump has helped low income families by cutting regulations since (b) regulations hurt lower income people the most. These are provocative claims, worth considering. But are they true? Can we empirically assess them?  The author claims he has run some estimates, but should we believe them? To be continued. The author cites this paper (which I should read):
+   > The claim here is that (a) Trump has helped low income families by cutting regulations since (b) regulations hurt lower income people the most. These are provocative claims, worth considering. But are they true? Can we empirically assess them?  The author claims he has run some estimates, but should we believe them? To be continued. The author cites this paper (which I should read):
     
-    - (RWL)[Merit Motives and Government Intervention](https://www.nber.org/papers/w7698.pdf)
+   - (RWL)[Merit Motives and Government Intervention](https://www.nber.org/papers/w7698.pdf)
     
-    - (RWL)[The Regressive Effects of Federal Regulation and a Roadmap for Reform](https://www.mercatus.org/publications/regulation/regressive-effects-federal-regulation-and-roadmap-reform)
+   - (RWL)[The Regressive Effects of Federal Regulation and a Roadmap for Reform](https://www.mercatus.org/publications/regulation/regressive-effects-federal-regulation-and-roadmap-reform)
 
 ## Crime, police
 
