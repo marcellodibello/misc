@@ -32,6 +32,16 @@ RWL=Reach Watch Later
       
  - [1986 Bill Moyers CBS special report]()
  
+ - [Defunding the Police Will Actually Make Us Safer](https://www.aclu.org/news/criminal-law-reform/defunding-the-police-will-actually-make-us-safer/)
+ 
+   > The argument here is simple. State and city budgets spent billions for police, and just a few millions for housing, social services, etc. How about we spend more for social services and less for the police? Perhas, this way we can create safer and better serviced communites ... and crime will go down. The idea is simple. Does it work? Are things so simple? What is undeniable, however, is that too much public resources -- billions of dollars! -- are spent on the police. Why?
+   
+    > I shoud take what I wrote above back. A [closer look](https://www.urban.org/urban-wire/what-police-spending-data-can-and-cannot-explain-amid-calls-defund-police) at state and city budgets shows that they do not spend that much on the police. The data must be aggregated along different lines of spending and if one does that, it seems that police spending makes on average 4-6% of city and state budget, not an a big number. So "defunding the police" is an ovestatement? Perhpas not, but it not so clear-cut as he earlier article made it seem. 
+   
+   - [What Disbanding the Police Really Meant in Camden, New Jersey](https://www.wired.com/story/disbanding-police-really-meant-camden/)
+   
+   > Looks like the defunding of the Camden police meant two things: (a) lower salaries for new police officers and (b) less traditional policing and more softpolicing (AI, surveillance, etc.). Also looks like crime rates dropped because of gentrification and many residents were pushed out of Camden. So this [CNN article](https://www.cnn.com/2020/06/09/us/disband-police-camden-new-jersey-trnd/index.html) is a bit misleading, to say the least!
+ 
  ## US woke scholarship, American cultural hegemony
   
  - [Beyoncé and the Heart of Darkness](https://africasacountry.com/2019/09/beyonces-heart-of-darkness)
