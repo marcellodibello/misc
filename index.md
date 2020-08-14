@@ -1,5 +1,38 @@
 RWL=Reach Watch Later
 
+# August 13, 2020
+
+#Povery, Savings Financial Literarcy#
+
+- (RWL)[The Moral Psychology of Poverty - Jennifer Morton](http://jennifermmorton.com/PHIL869moralpsychofpovertysyllabus_Redacted.pdf)
+
+- (RWL)[The Truly Disadvantaged](https://en.wikipedia.org/wiki/The_Truly_Disadvantaged)
+
+- (RWL)[The financial diaries](https://www.usfinancialdiaries.org/book)
+
+- (RWL)[Financial Acces Initiative - Savings](https://www.financialaccess.org/publications-index/tag/Savings)
+
+# Crime, police#
+
+- [Not So Magnificent: Chicago’s safest neighborhoods start sharing in the Windy City’s crime outbreak](https://www.city-journal.org/chicago-crime)
+
+  - [The lost streets of Chicago-BBC News]()
+      
+      - [Dear BBC: Chicago Doesn’t Need Another Documentary. We Need Solutions](https://chicagounheard.org/blog/dear-bbc-chicago-doesnt-need-another-documentary-need-solutions/)
+      
+ - [1986 Bill Moyers CBS special report]()
+ 
+ # US woke scholarship, American cultural hegemony
+  
+ - [Beyoncé and the Heart of Darkness](https://africasacountry.com/2019/09/beyonces-heart-of-darkness)
+      I think the point of this article, written by an African intellectual, is to say that "woke scholarship" or "woke music" (see Beyonce) is another expression of Western American cultural imperialism. Africa is looked through the lenses of American history, be the history of white people or the history of black Americans.  As the subtitle says "Few black thinkers and creatives in the United States seem able to grapple with the implications of their Americocentrism in relation to Africa."
+      
+     I think this point is well taken.  But the author suggests that we should look at Africans simply as "people". I wonder, isn't this another way to essentialize Africans? Isn't "people" another concept created by European philosophers? Wouldn't that be another way of Americocentrism? After all, the author is saying that we should look at Africans as "individuals" -- another key idea in American society. Perhaps -- and more charitably --  the author is saying that we should look at Africans for who they are, however they are, whatever they are. That's hard. And is it even possible? Does it even make sense? We always look at people through our lenses. Perhpas we should be aware of these lenses as much we can and try to remove them--and Americans writers and creatives do not do that. Yes, perhpas that's what the author meant! 
+     
+           
+ - [Woke Foundations](https://www.city-journal.org/foundations-embrace-radical-politic)
+  
+
 # July 29, 2020
 
 - (RWL) [The Sexist Algorithm](https://pubmed.ncbi.nlm.nih.gov/30931534/)
