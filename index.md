@@ -16,9 +16,10 @@ RWL=Reach Watch Later
 
 ## Regulations
 
-    The claim here is that (a) Trump has helped low income families by cutting regulations since (b) regulations hurt lower income people the most. These are provocative claims, worth considering. But are they true? Can we empirically assess them?  The author claims he has run some estimates, but should we believe them? To be continued. The author cites this paper (which I should read):
+    >  The claim here is that (a) Trump has helped low income families by cutting regulations since (b) regulations hurt lower income people the most. These are provocative claims, worth considering. But are they true? Can we empirically assess them?  The author claims he has run some estimates, but should we believe them? To be continued. The author cites this paper (which I should read):
     
     - (RWL)[Merit Motives and Government Intervention](https://www.nber.org/papers/w7698.pdf)
+    
     - (RWL)[The Regressive Effects of Federal Regulation and a Roadmap for Reform](https://www.mercatus.org/publications/regulation/regressive-effects-federal-regulation-and-roadmap-reform)
 
 ## Crime, police
@@ -34,9 +35,9 @@ RWL=Reach Watch Later
  ## US woke scholarship, American cultural hegemony
   
  - [Beyoncé and the Heart of Darkness](https://africasacountry.com/2019/09/beyonces-heart-of-darkness)
-      I think the point of this article, written by an African intellectual, is to say that "woke scholarship" or "woke music" (see Beyonce) is another expression of Western American cultural imperialism. Africa is looked through the lenses of American history, be the history of white people or the history of black Americans.  As the subtitle says "Few black thinkers and creatives in the United States seem able to grapple with the implications of their Americocentrism in relation to Africa."
+     >  I think the point of this article, written by an African intellectual, is to say that "woke scholarship" or "woke music" (see Beyonce) is another expression of Western American cultural imperialism. Africa is looked through the lenses of American history, be the history of white people or the history of black Americans.  As the subtitle says "Few black thinkers and creatives in the United States seem able to grapple with the implications of their Americocentrism in relation to Africa."
       
-     I think this point is well taken.  But the author suggests that we should look at Africans simply as "people". I wonder, isn't this another way to essentialize Africans? Isn't "people" another concept created by European philosophers? Wouldn't that be another way of Americocentrism? After all, the author is saying that we should look at Africans as "individuals" -- another key idea in American society. Perhaps -- and more charitably --  the author is saying that we should look at Africans for who they are, however they are, whatever they are. That's hard. And is it even possible? Does it even make sense? We always look at people through our lenses. Perhpas we should be aware of these lenses as much we can and try to remove them--and Americans writers and creatives do not do that. Yes, perhpas that's what the author meant! 
+     > I think this point is well taken.  But the author suggests that we should look at Africans simply as "people". I wonder, isn't this another way to essentialize Africans? Isn't "people" another concept created by European philosophers? Wouldn't that be another way of Americocentrism? After all, the author is saying that we should look at Africans as "individuals" -- another key idea in American society. Perhaps -- and more charitably --  the author is saying that we should look at Africans for who they are, however they are, whatever they are. That's hard. And is it even possible? Does it even make sense? We always look at people through our lenses. Perhpas we should be aware of these lenses as much we can and try to remove them--and Americans writers and creatives do not do that. Yes, perhpas that's what the author meant! 
                 
  - [Woke Foundations](https://www.city-journal.org/foundations-embrace-radical-politic)
   
