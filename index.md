@@ -1,5 +1,36 @@
 RWL=Reach Watch Later
 
+# August 15, 2020
+
+## Algorithmic Bias
+
+- [](https://www.newstatesman.com/politics/education/2020/08/level-results-injustice-shows-why-algorithms-are-never-neutral)
+   > Nothing particularly relevlatory here. The claim seems to be that algorithms may entrench disparities as they rely on biased data. But the example is quite interesting. Quotation: "Yesterday (13 August) was A-level results day in England, Wales and Northern Ireland. Owing to the cancellation of A-level and GCSE exams, the English regulator Ofqual’s statistical model determined students’ grades, based on their school’s recent exam history, as well as each student’s prior exam performance. This caused outrage: because Ofqual’s model seemed crude, because some students were cheated out of the opportunity to prove their teachers wrong by exceeding expectations, and because nearly 40 per cent of A-level results were downgraded."
+   
+   > So they are using an algorithm to predict and assign grades to students? That's pretty cool, or awful. 
+   
+   > The big problem for tha author: "Statistical models often pick up on large-scale historical patterns or racial, gender and class inequalities and replicate them as data patterns, while simultaneously endowing these patterns with an air of certainty, neutrality and objectivity. After all, numbers don’t have agendas, right? This is a dangerous illusion. How we choose to use statistical models, which questions we ask (and don’t ask) when we “simply look at the numbers” depends on political assumptions and priorities. If we do not carefully consider who merits the benefit of the doubt – who typically gets given more leeway to prove their potential due to their proximity to prestige, and who is more likely to be considered an inevitable product of a bad environment – then BAME students and working-class students will be further disadvantaged by the use of statistical inference methods."
+   
+   > That's an interesting point. But I feel the argument is not completely worked out. How does the argument work? Is it that disadvantaged students are more likely to be judged by the algorithm worse than they actually perform compared to other students? Or is it that disadvantaged students should be assessed more carefully -- or more leniently? -- than others to give them the benefit of the douhbt and thus more opportunities down the road in life? The assumptions of the argument are not spelled out by the author. This is a journalistic piece, though.  
+   
+ - (RWL) [RSS alerts Ofqual to the statistical issues relating to exam grading and assessment in 2020](https://rss.org.uk/RSS/media/File-library/News/2020/RSS_Ofqual_30042020_SFW_final.pdf)
+   
+## How to Study Racial disparities
+
+- [How to Study Racial Disparities](https://www.scientificamerican.com/article/how-to-study-racial-disparities/)
+   > Interesting piece. *Claim 1*: studies that control for race are meaningless. If race is assigned at birth and influences what comes next (schooling, neighborhood, etc.), it makes no sense to ask whether disaprities in say, income, are due to race v. education. It would like asking whether different mortality rates are due to smoking v. lung cancer. Well smoking (read: race) affects lung cancer (read: education)!
+   
+   > Quotation: "Consider the following analogy: if researchers set out to investigate whether smoking leads to death, but controlled for whether someone gets lung cancer, they might find that smoking doesn’t increase mortality—because they’ve effectively removed an important pathway by which smoking influences health. What’s more, by controlling for lung cancer, they’re now comparing the life spans of smokers who don’t get lung cancer, who are likely to be unusually healthy, to nonsmokers without lung cancer (and comparing nonsmokers who get lung cancer, a highly unusual group, to smokers who get lung cancer)."
+   
+   > This analogy with police killings and Fryer work is not completely clear, though. Quotation:" Similar issues abound in the study of race and policing. Take the recent debate over whether there is evidence of racism in American policing. Roland Fryer, an economist at Harvard, found that police shoot white, Black and Hispanic Americans whom they’ve stopped at equal rates. However, as political scientists Dean Knox, Will Lowe, and Jonathan Mummolo point out, if there is initial discrimination in who gets stopped in the first place, estimating racial disparities in how people are treated once they’ve been stopped becomes much more complicated—especially since police officers are more likely to stop Black and Hispanic people than white people, and more of those stops are unjustified. If Black people are stopped by police for lesser (or nonexistent) offenses, “equal treatment” in terms of the use of force would actually indicate deeply unequal policing overall. Being stopped by the police is “post-treatment” to race, and failing to account for this bias can lead to erroneous conclusions that may mask the extent of racism in American institutions."
+   
+   > That is a different issue, I think. We have two different probabilities here. (a) Probability of x being shot by police if black versus (b) probability of x being shot by police if black AND stopped. Both are interesting. If (b) isn't different for whites and blacks, but (a) is, this suggests that the racial bias in police shootings does not exist after te stop but before the stop (say, in the decision about whom to stop). If so, this seems a pretty interesting piece of information. And Fryer's work helps us to see that. What's wrong with that?
+   
+   > But perhpas the authors have in mind something different. The claim is that whites and blacks are stopped for differenr reasons -- often there are serious reasons for stopping whites, and often there are not so serious reasons for stopping blacks. There are a lot of pretext stops of blacks. Now, if the populations of those who are stopped by the police are so different acrosso races, but we still get an equal probability of police hosting across the two populations, then this is evidence of unequael treatment, not equal treatment. Seems an interesting point. Worth thinkign about! I would expect, however, that Fryer did control for such differences in the populations of those who are stopped. This shoud be checked. 
+   
+   > *Claim 2*: let's think of race as a cluster of microproperties (skin tone, hair, name, accent etc.) and let's study differences in outcome due to those microproperties, leaving the general label "race" aside. This will allow for more fine-grained studies of the causes of racial disparities and we will be able to "fix the problem" more effectively. For example, see the [late Pager](https://en.wikipedia.org/wiki/Devah_Pager)'s research on names and hiring preferences.  She uses names, not race directly. So her result is more accurate. Interestingly, that's also its weakness because some people could say "but a name does not really tell you about someone's race!" So we are in a dilemma here. 
+   
+
 # August 13, 2020
 
 ## Povery, Savings Financial Literarcy
