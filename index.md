@@ -2,6 +2,19 @@ RWL=Reach Watch Later
 
 # August 18, 2020
 
+## Pipielines and Trails -- Are trails Land?
+
+ - [US Forest Service v. Cowpasture River Preservation Association (2020)](https://www.oyez.org/cases/2019/18-1584) -- majority written by Thomas, joined by others, dissent by Sotomayor and Kagan.
+
+> HOLDING (from syllabus): "Because the Department of the Interior’s decision to assign responsibility over the Appalachian Trail to the National Park Service did
+not transform the land over which the Trail passes into land within the National Park System, the Forest Service had the authority to issue the special use permit."
+
+> Decision is not easy to decode. The holding is that the Forest Service can give permission for a pipeline to go through land, including the Appalachian trail, which is administered by the National Park service because the pipeline does not transform the trail itself (though it may transform the land). So the Park Service has no jurisdiction over the land, but only over the trail (which is not land). 
+
+> Dispute about what is a trail and whether a trail is land.  If a trail is land and the pipeline impinges upon the trail/land (as Sotomayor argues), the Park Service has jurisdiction. If the trail is not land and the pipiline does not impinge upon the trail-as-different-from-the-land (as Thomas argues), the Forest service has jurisdiction. 
+
+> Decision is a conceptual analysis of "trail" versus "land". Is this a textualist argument? It's interetsing to compare this decision with an earlier one, also in enviromental law, [TVA v. Hill (1987)](https://www.oyez.org/cases/1977/76-1701). In that decision, we find a textualist argument, but also an argument about economic consequences v. protection of the environment. Have these topics disappeared from the court today?
+
 ## Algorithmic Fairness
 
  - (RWL) Interesting blog called [Algorithmic Fairness: On algorithmic fairness, discrimination, and disparate impact.](http://fairness.haverford.edu/index.html). It contains summaries of papers from the FAT* conference back in February 2019. 
