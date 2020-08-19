@@ -2,6 +2,12 @@ RWL=Reach Watch Later
 
 # August 18, 2020
 
+## Algorithmic Fairness
+
+ - (RWL) Interesting blog called [Algorithmic Fairness: On algorithmic fairness, discrimination, and disparate impact.](http://fairness.haverford.edu/index.html). It contains summaries of papers from the FAT* conference back in February 2019. 
+ 
+ > It also contains an interesting "mathematical translation" of Gorsuch's argument in the Bostock decision (discussed below). 
+
 ## Discrimination because of sex v. sexual orientation
 
  > The recent US Supreme Court decision [Bostock v. Clayton County](https://www.oyez.org/cases/2019/17-1618) makes simple argument. If you cannot discriminate on the basis of sex (see 1964 Civil Right Act), then you cannot discriminate on the basis of sexual orientation either. Why? If you were to discriminate on the basis of sexual orientation, then you would also have to discriminate on the basis of sex (but you cannot do the latter, so you cannot do the former either). I wonder what gender theorists say about this! But this is judge Gorsuch -- a conservative! -- relyng on a textualist based argument. Let's quote him:
