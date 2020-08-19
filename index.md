@@ -2,9 +2,37 @@ RWL=Reach Watch Later
 
 # August 18, 2020
 
+## Discrimination because of sex v. sexual orientation
+
+ > The recent US Supreme Court decision [Bostock v. Clayton County](https://www.oyez.org/cases/2019/17-1618) makes simple argument. If you cannot discriminate on the basis of sex (see 1964 Civil Right Act), then you cannot discriminate on the basis of sexual orientation either. Why? If you were to discriminate on the basis of sexual orientation, then you would also have to discriminate on the basis of sex (but you cannot do the latter, so you cannot do the former either). I wonder what gender theorists say about this! But this is judge Gorsuch -- a conservative! -- relyng on a textualist based argument. Let's quote him:
+ 
+ > "It is impossible to discriminate against a person for being homosexual or transgender without discriminating against that individual based on sex. Consider, for example, an employer with two employees, both of whom are attracted to men. The two individuals are, to the employer’s mind, materially identical in all respects, except that one is a man and the other a woman. If the employer fires the male employee for no other reason than the fact he is attracted to men, the employer discriminates against him for traits or actions it tolerates in his female colleague … The affected employee’s sex is a but-for cause of his discharge."
+ 
+ > It sounds like an argument an analytic philosopher would make! But look at what Alito and Kavanaugh said in response:
+ 
+ > Alito: "In the mind of an employer who does not want to employ individuals who are attracted to members of the same sex, those two employees are not materially identical in every way but sex."
+ 
+ > Kavanaugh: "Few in 1964 (or today) would describe a firing because of sexual orientation as a firing because of sex. As commonly understood, sexual orientation discrimination is distinct from, and not a form of, sex discrimination … In common parlance, Bostock and Zarda were fired because they were gay, not because they were men."
+ 
+ > All three judges -- Alito, Kavanaugh and Gorsuch -- say they are using a textualist argument, but they arrive at such different conclusion. Perhaps, Gorsuch isn't really using a textualist argument. He seems to be doing some form of conceptual analysis or metaphysics. What is going on? This article -- [What ‘Because of Sex’ Really Means] (https://www.theatlantic.com/ideas/archive/2020/06/what-because-of-sex-really-means/613099/) -- gives the broader context.  
+ 
+ > All in all, interesting. It could be part of the disagreement project, as well!
+
+## Statistical Correlates to Crime - Theft
+
+ - (RWL) [Stealing behavior and impulsivity in individuals with kleptomania who have been arrested for shoplifting](https://www.sciencedirect.com/science/article/pii/S0010440X17302304)
+
+## Clinical/Statistical controversy
+
+ - [Comparative Efficiency of Informal (Subjective, Impressionistic) and Formal (Mechanical, Algorithmic) Prediction Procedures: The Clinical–Statistical Controversy]
+ 
+  > From the abstract: "Empirical comparisons of the accuracy of the two methods (136 studies over a wide range of predictands) show that the mechanical method is almost invariably equal to or superior to the clinical method: Common antiactuarial arguments are rebutted, possible causes of widespread resistance to the comparative research are offered, and policy implications of the statistical method’s superiority are discussed."
+  
+  > This is an interesting debate in psychology. It should be discussed in my book. (Did I just say "book"? Ah!) I do, however, believe that the debate does not apply to questions of statistical evidence in the law. Looks like that in psychology the comparaison is between (a) mechanical/formula based decisions versus (b) human-based decisions where both decisions rely on roughly the same information (actually, the human decision relies on more, perhaps subjective, information). So the comparison concerns  two different processses of understanding the same body of information, not two different bodies of information (say statistical versus non-statistical information). But still, the debate is worth exploring. It could be part of the disagreement project too! See below.
+
 ## The Disagreement Project
 
- > The world isn't black and white. Nuance is important, though some say [Fuck nuance!](https://kieranhealy.org/files/papers/fuck-nuance.pdf)  At any rate, this  project would pair academic papers that argue one against the other or reach opposute conclusions about the same issue.  Both papers should be carefully argued, intellectually honest and rigorous. Yet they reach opposite conclusions! This could have pedagogical value, and be also an invitation to humility and respect toward others who may disagree with you. To be continued. Some ideas of great debates: Beccaria v. Mills on the death penalty. Allen v. Langbein on comparative legal scholarship. Allen v. Kaye on legal probabilism. Pryor v. Wright on dogmatism in epistemology. Risinger v. ? on wrongful conviction rate.  This could turn into a website for research, teaching and wider readership. Exciting! Part of it could be about famous dissents in US Supreme Court opinions. What else? 
+ > The world isn't black and white. Nuance is important, though some say [Fuck nuance!](https://kieranhealy.org/files/papers/fuck-nuance.pdf)  At any rate, this  project would pair academic papers that argue one against the other or reach opposute conclusions about the same issue.  Both papers should be carefully argued, intellectually honest and rigorous. Yet they reach opposite conclusions! This could have pedagogical value, and be also an invitation to humility and respect toward others who may disagree with you. To be continued. Some ideas of great debates: Beccaria v. Mills on the death penalty. Allen v. Langbein on comparative legal scholarship. Allen v. Kaye on legal probabilism. Pryor v. Wright on dogmatism in epistemology. Risinger v. ? on wrongful conviction rate.  This could turn into a website for research, teaching and wider readership. Exciting! Part of it could be about famous dissents in US Supreme Court opinions. What else?  Actuarial/clinical methods. 
  
  - (RWL) [Gelman, Disagreement about the strength of the Evidence](http://www.stat.columbia.edu/~gelman/research/published/ChanceEthics12.pdf)
 
