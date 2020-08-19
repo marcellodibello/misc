@@ -1,10 +1,58 @@
 RWL=Reach Watch Later
 
+# August 18, 2020
+
+## The Disagreement Project
+
+ > The world isn't black and white. Nuance is important, though some say [Fuck nuance!](https://kieranhealy.org/files/papers/fuck-nuance.pdf)  At any rate, this  project would pair academic papers that argue one against the other or reach opposute conclusions about the same issue.  Both papers should be carefully argued, intellectually honest and rigorous. Yet they reach opposite conclusions! This could have pedagogical value, and be also an invitation to humility and respect toward others who may disagree with you. To be continued. Some ideas of great debates: Beccaria v. Mills on the death penalty. Allen v. Langbein on comparative legal scholarship. Allen v. Kaye on legal probabilism. Pryor v. Wright on dogmatism in epistemology. Risinger v. ? on wrongful conviction rate.  This could turn into a website for research, teaching and wider readership. Exciting! Part of it could be about famous dissents in US Supreme Court opinions. What else? 
+ 
+ - (RWL) [Gelman, Disagreement about the strength of the Evidence](http://www.stat.columbia.edu/~gelman/research/published/ChanceEthics12.pdf)
+
+## Estimating Wrongful Conviction Rate
+
+- (RWL) [Overstating America 's Wrongful Conviction Rate?](https://dc.law.utah.edu/cgi/viewcontent.cgi?article=1130&context=scholarship)
+
+ > Many seem to think that the wrongful coviction rate is about 3-5%. There is a famous paper by Risinger that comes up with this estimate, using exoneration data. This paper disagrees and argues that the wrongful covncition is much lower, even below 1%. Interesting. 
+
+## Epistemology: Credulism, Dogmatism, Pryor v. Wright
+
+- [Pryor, Problems for Credulism](http://www.jimpryor.net/research/papers/Credulism.pdf)
+
+- [Wright, The Perils of Dogmatism](https://as.nyu.edu/content/dam/nyu-as/philosophy/documents/faculty-documents/wright/Wright-Crispin-dogmatism.pdf)
+
+## Big Data, Reference Class Problem and Inferences about Individuals
+
+- [Big data and the reference class problem: what can we legitimately infer about individuals?](http://eprints.lse.ac.uk/101290/1/Greene_big_data_and_the_reference_class_problem_published.pdf)
+
+> Nice simple paper. It uses Dahlman criteria for assessing the acceptabilitu of generalizations, namely: (1) Is the generalization true? (2) Is the generalization robust in light of counterevidence; (3) Is the reference class homogenous or not? (4) Could reliance on the generalization put certain groups at a disadvantage? It uses these questions to asess teh use of Big Data. Looks loike Big Data do not fare that well. 
+
+> Consider generalization about crime prediction, say about people wiht prior convictions. Generalizaton like "people with prior conviction of X are more likely to commit X than others". Is this true? The authors writes: " what we really
+want to know is whether membership of the target class is higher in the reference
+class than in the population in general. However, not all crimes are discovered,
+reported, or recorded. Particularly for less serious crimes, we do not know the extent
+of criminality in the population at large. This makes generalisations linking reference
+classes with target classes problematic. Any statistical relationship between the
+reference and target classes is likely to be untrue because we will not be sure that
+membership of the target class is higher in the reference class than in the population
+in general. An additional worry is the incidence of false convictions. Any statistical
+relationships based on characteristics shared by convicted criminals will include the
+characteristics of wrongly convicted individuals. By its very nature, the incidence of
+false convictions is difficult to judge.
+Furthermore, in this case, we also need to know how many convicted
+criminals do not have the characteristics defining the reference class. What
+percentage of criminals share characteristics with the reference class? "
+
+## Hitler and the US laws
+
+- [What America Taught the Nazis](https://www.theatlantic.com/magazine/archive/2017/11/what-america-taught-the-nazis/540630/)
+   > This is a review of a book by respected legal historian James Q. Whitman, title "Hitler’s American Model". Quite a title. The basis thesis---but I have not read teh book--is that Nazi jurists took inspiration from the United States system of racists laws. Another [review](https://www.insidehighered.com/views/2017/03/08/review-james-q-whitman-hitlers-american-model-united-states-and-making-nazi-race) of the same book notes how racist laws are not just an incident of US legal system---they are essentila to it:
+   > The error here, as Whitman sees it, comes from treating the U.S. Supreme Court ruling in Plessy v. Ferguson as the primary or quintessential legal component of racial oppression in the United States, and presumably the one Nazi jurists would have looked to in reshaping German policy. But, according to Whitman, “American race law” in the 19th and much of the 20th century: " sprawled over a wide range of technically distinct legal areas … [including] Indian law, anti-Chinese and -Japanese legislation, and disabilities in civil procedure and election law …. Anti-miscegenation laws on the state level featured especially prominently … [as] did immigration and naturalization law on the federal level"
+
 # August 15, 2020
 
 ## Algorithmic Bias
 
-- [](https://www.newstatesman.com/politics/education/2020/08/level-results-injustice-shows-why-algorithms-are-never-neutral)
+- [The A-level results injustice shows why algorithms are never neutral](https://www.newstatesman.com/politics/education/2020/08/level-results-injustice-shows-why-algorithms-are-never-neutral)
    > Nothing particularly relevlatory here. The claim seems to be that algorithms may entrench disparities as they rely on biased data. But the example is quite interesting. Quotation: "Yesterday (13 August) was A-level results day in England, Wales and Northern Ireland. Owing to the cancellation of A-level and GCSE exams, the English regulator Ofqual’s statistical model determined students’ grades, based on their school’s recent exam history, as well as each student’s prior exam performance. This caused outrage: because Ofqual’s model seemed crude, because some students were cheated out of the opportunity to prove their teachers wrong by exceeding expectations, and because nearly 40 per cent of A-level results were downgraded."
    
    > So they are using an algorithm to predict and assign grades to students? That's pretty cool, or awful. 
