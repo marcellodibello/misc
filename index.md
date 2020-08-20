@@ -1,5 +1,48 @@
 RWL=Reach Watch Later
 
+# August 10, 2020
+
+## Racial differences in school discipline
+
+- [Understanding the Racial Discipline Gap in Schools, 2019](https://journals.sagepub.com/doi/full/10.1177/2332858419844613)
+ > Difficult article to fully grasp. Recent: 2019. Authors go through existing explanations, such as differences in behaviour and differences in school discrict practises, say black kids are more unruly and/or go to schools that are more punitive. But the authors point out the data about behavioural differences is hard to get -- what we have might be racially biased, so not a good yardstick for comparison.  
+ 
+ > Two interestiong findings:
+ 
+ > FINDING 1: Nonramdom sorting by race into more/less punitive schools explains part of the racial disparity. "We also identify a key mechanism underlying this disparity: the nonrandom sorting of Black students into school districts with higher suspension/expulsion rates." 
+ 
+ > COUNTERFACTUAL: "Our estimates suggest that if Black students re-sorted into districts predominantly attended by White students in the state and received disciplinary sanctions at the average rates of those districts, the Black-White disciplinary gap would decline by 11% to 25% across grade levels."
+ 
+ > FINDING 2: Hispanic-White disciplinary gaps are much less pronounced than white-black disparities. "Hispanic-White disciplinary gaps ... almost all of the gaps can be explained by school or district fixed effects and student-level control variables."
+  
+ > Authors make two claims (which seem to be in tension with one another):
+ 
+ > CLAIM 1: "our decompositions reveal that about a third of the Black-White discipline gap remains unexplained due to unobserved heterogeneity, even after controlling for multiple student-level characteristics. In other words, if Black students exhibited the same average characteristics as White students (i.e., if Black students were on average as poor and had comparable past disciplinary histories) and were exposed to schools (districts) exhibiting similar average characteristics, the observed Black-White gap would attenuate but would not be eliminated. We argue that this finding provides *suggestive evidence of differential treatment discrimination*, which may be subsumed in omitted variables not captured in the model."
+ 
+ > CLAIM 2: "Despite extensive covariate adjustment, about a third of the observed Black-White discipline gap remains unexplained due to unobserved heterogeneity. One potentially important source of unobserved heterogeneity is student behavior. Unfortunately, *our data do not capture information on student behavior*, and so we are unable to examine whether disciplinary gaps may be attributed to actual differences in student behavior."
+ 
+ > So it looks like that unless we can control for student behaviour, we cannot claim that discrimination explains the racial differences in disciplinary punishment between white and black students, right? Studying differences in behaviour seems what's most needed. But how do you do that in an unbiased way?
+ 
+ 
+ - [Unpacking the Drivers of Racial Disparities in School Suspension and Expulsion, 2018](https://fragilefamilies.princeton.edu/sites/fragilefamilies/files/wp18-04-ff.pdf)
+ 
+ > Interesting paper. Compares three hypotheses: (1) difference between whites and blacks in school punishment are due to school discrict sorting; (2) differences are due to behaviour; (3) differences are due to discrimination. Article claims that they are all operating causes, but (3) accounts for a big part of the differences (39%), then (1), accounting for 15%, and finally (2), accounting for only 9%.
+ 
+ > Paper is discussed in [this podcast](https://watson.brown.edu/research/2019/unpacking-drivers-racial-disparities-school-suspension-and-expulsion). 
+
+ > PUZZLE: Here is an interesting bit of research that could be in the disagreement project: "Existing research provides conflicting evidence about the extent to which student behaviors account for the racial gap in suspension and expulsion, with some studies finding that
+behavior accounts for almost **none** of the gap (Skiba et al. 2014) and other studies finding that it
+accounts for nearly **all** of the gap (Wright et al. 2014)." (Quotation from the paper above) Does behaviour account for all or none at all of the difference in school punishment?
+
+> MODELING ISSUE: Interestingly, these opposite conclusions aren't opposite. The article explains: 
+
+> "Studies that **condition on being referred for sanction** and model the association between the severity of sanctions and suspension/expulsion typically find that differences in behavior account for very little of the racial gap in punishment"
+
+> "Studies that use population-based data and do **not condition on referral** find that student behavior is strongly associated with suspension and expulsion" 
+
+ 
+
+
 # August 18, 2020
 
 ## Pipielines and Trails -- Are trails Land?
