@@ -2,6 +2,14 @@ RWL=Reach Watch Later
 
 # August 10, 2020
 
+## Algorithmic Fairness
+
+- [Video: Clinton Castro - Just Machines](https://www.youtube.com/watch?v=-AsTbPMPfQA&list=PLdn0giYPTOk1bBDFhz047rrZ5t5I_Sju6)
+
+> One claim is that we have formal fairness v. substantive justice (example: to abuse everybody equally is formally fair, but unjust).  Maesures of algorihtmic fairness is like formal fairness , not substantive justice. Clinton thinks that to use algorthms to make decisions about people is a more general question about how we should treat people ethically. He has not general philosophical theory of just treatment. 
+
+- [Student who wrote story about biased algorithm has results downgraded (by the algorithm!)](https://www.theguardian.com/education/2020/aug/18/ashton-a-level-student-predicted-results-fiasco-in-prize-winning-story-jessica-johnson-ashton)
+
 ## Racial differences in school discipline
 
 - [Understanding the Racial Discipline Gap in Schools, 2019](https://journals.sagepub.com/doi/full/10.1177/2332858419844613)
@@ -40,8 +48,19 @@ accounts for nearly **all** of the gap (Wright et al. 2014)." (Quotation from th
 
 > "Studies that use population-based data and do **not condition on referral** find that student behavior is strongly associated with suspension and expulsion" 
 
+ - [Who Misbehaves? Claims that school discipline is unfairly meted out ignore actual classroom behavior](https://www.city-journal.org/html/who-misbehaves-15811.html)
  
+  > Article from Mac Donald. Basic claim is that minority students are more unruly and violent in school and thus get punished more often. But what is the evidence? Both studies discussed above do not find evidence of this. In fact, the second study finds that differences in student behaviour explain very little of the differences in student discipline at school. But Mac Donald points out to interesting data: The Justice and Education Department's annual report [Indicators of School Crime and Safety, 2017](https://nces.ed.gov/pubs2018/2018036.pdf)
+  
+  > She writes: "Black students self-reported being in a **physical fight** at school at over twice the rate of white students in 2015—a data point certainly relevant to the question of racial rates of school discipline.  Schools that were 50 percent minority or more reported weekly **gang activity** at nearly ten times the rate of schools where minorities constituted 5 percent to 20 percent of the population. Reports of **gang violence** in schools with less than 5 percent minority populations were too low to be usable statistically. Widespread weekly **disorder in classrooms** was reported in schools with at least 50 percent minority populations at more than five times the rate as in schools with 5 percent to 20 percent minorities. More than four times as many high-minority schools reported weekly **verbal abuse of teachers** compared with schools with a less than 20 percent minority student body. Widespread disorder and teacher abuse at schools with less than 5 percent minority populations was again too low to be statistically reliable. These facts are also relevant to judging the likelihood of student misbehavior and resulting discipline." 
+  
+  > She is not running a sophisticated statistical analysis, but it is plausible that, given these differences, differences in behaviour would emerge. 
 
+
+ - [If You’re Justifying Higher Suspension Rates for Black Kids Then You’re Not Facing Up to Racism in America](https://educationpost.org/if-youre-justifying-higher-suspension-rates-for-black-kids-then-youre-not-facing-up-to-racism-in-america/)
+ 
+ > This article argues against MaC Donald, who argues that racial difference in punishment are due to behaviour. The author grants that difference in behaviour may exist, but still this does not get at the root of the issue, namely racism, underfunding, poverty, etc. Strange dialectic.
+ 
 
 # August 18, 2020
 
