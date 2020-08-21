@@ -1,6 +1,47 @@
 RWL=Reach Watch Later
 
-# August 10, 2020
+# August 21, 2020
+
+
+## Redlining
+
+ > I am not sure what to think. One needs to get the historical record straight. Could redlinign still be happening today as many claim -- i.e. that banks lend less to blacks than whites? Or is it just becaue lending to blacks is riskier? When/how does one establish racial discrimination in lending? This is a long project. The financial crisis fits squarely into this story. Let's start with some City Journal stuff, then I'll look more closely at redlining lawsuits.  HYPOTHESIS 1: disproportionate rates of lending across races is due to differential risks of lending. HYPOTHESIS 2: If the government intervenes, by forcing lending at equal rates, there will spillover effects (higher rates of foreclosurres) and inequaliies will remerge on the other side. (ASIDE: Didn't the financial crisis disproportionately affect black families? Didn't black homeownership go down after the financial crisis?) 
+ 
+ - (RWL) [The Trillion-Dollar Bank Shakedown That Bodes Ill for Cities](https://www.city-journal.org/html/trillion-dollar-bank-shakedown-bodes-ill-cities-12096.html)
+ 
+ - (RWL) [Obsessive Housing Disorder](https://www.city-journal.org/html/obsessive-housing-disorder-13160.html)
+
+## Structural Racism debubked?
+
+- [Ben Shapiro DEBUNKS Viral 'Systemic Racism Explained' Video](https://www.youtube.com/watch?v=TBDfMQ27Asw)
+
+> I think Shapiro makes good points. I want to try to be as fair minded as possible and see where we can push argument and try to be as honest as possible. There is another [video](https://www.youtube.com/watch?v=HlG6hRNdCT0) that responds to Shapiro's video.
+
+> RED-LINING. Shapiro notes that redlining was abolished in the 1960ies and cites studies showing that banks no longer lend at disproportionate rate across racial groups. The responders Aba and Preach respond by saying that there are studies ([here](https://www.theatlantic.com/politics/archive/2015/10/remember-redlining-its-alive-and-evolving/433065/) and [here](https://www.revealnews.org/blog/we-exposed-modern-day-redlining-in-61-cities-find-out-whats-happened-since/)) shiwing that bank still discrmination. Need to look into that. 
+  
+   > Today's redlining banks: [Wells Fargo](https://www.reuters.com/article/wellsfargo-discrimination/oakland-lawsuit-accuses-wells-fargo-of-mortgage-discrimination-idUSL1N11S0Q120150922),  
+
+> IMPLICIT BIAS. Shapiro says implicit bias studies are hard to quantify. Respondents agree. Maybe some more resources needed here?
+
+> NAMES and HIRING. Shapiro makes the point that historically black names are no less likely to receive hiring call backs that historically white names. Hence, he argues, it's not about race, but about class. He is citing the study -- maybe the Pager study? The respondents comment that this is ridiculous. Shapiro takes "Jefferson" to be a historically black name.  The respondents point out that Jeffesrson does not sound black at all!
+
+> WEALTH TRANSMISSION. Shapiro says that it is not true that most of the wealth is trasmitted across generations. 
+
+
+
+
+## Desegregating schools / tearing the apart the country? / antiracism as a framework
+
+ - [Anti-racist Argument are Tearing Peopla Apart](https://www.theatlantic.com/ideas/archive/2020/08/meta-arguments-about-anti-racism/615424)
+  > Interesting  discussion about what happened in a NYC school board meeting. Parents were discussing various motions, including eliminating screen schools or removing the NYPD designation for school security officers. There are arguments one way or another. The point of this article is (a) that anti-racist supporters are not willing to argue with those who do not subscribe to the anti-racist framework.  The other point of the article is that (b) the attitude described in (a) is wrong or objectionable. 
+     
+  > MY COMMENT: It is easy to agree with (b) if one subscribes to a standard liberal, say Millian framework of freech and open debate. But I think it is important to take (a) seriously. I think many people take (b) seriously and it is at least worth a try taking (a) seriously. Consider analogy with Nazism. It seems reaonable to say "I do not want to argue with a Nazi or a fascist becaue what they say is wrong---period". If we argue about anything, we will not get anywhere. I think this is true. This point is recognized by Aristotle and Aquinas -- contra impugnantes principia non est disputandum. What needs examining is whether *not* being an antiracist -- which for an antiracists means to be a racist, in the sense of Kendi's book "How to be an Antiracist" thought see this critical [piece](https://www.city-journal.org/how-to-be-an-antiracist) -- is as disruptive and inadmisisble as being a Nazi or a fascist. 
+  
+  > This is a point also Rawls emphasized. There are reasonable disagreements and unreasonable ones. Rawls thought that within a democratic society there can be reasonable disagreements. But can there be disagreements about the very principles of a democratic society? Technically, there could be. Perhasp there could be philosophical disagreements about democracy. But disagreement about democracy itsefl cannot be discussed within the institutions of a democratic society. One cannot go to congress and say "I am against democracy". You cannot just do that. At least, this seems the idea. There is a framework that must be shared. Democracy is that framework. Why could anti-racism not be the same sort of framework we should all abide? This in fact seems to be Kendi's idea -- i.e. to add an anti-racist democratic amendement. He is trying to make antiracism a "constitutional essential" in Rawls's terminology. 
+  
+  > SIDE NOTE or CURIOSITY: Some self-declared anti-racist parents accused another parent to be racists by displaying a black child in his lap during the school board meeting. Here is the [video](https://www.youtube.com/watch?v=QgycynFQ_eM&feature=youtu.be&t=11660). 
+  
+# August 20, 2020
 
 ## Algorithmic Fairness
 
