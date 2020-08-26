@@ -1,5 +1,42 @@
 RWL=Reach Watch Later
 
+
+# August 25, 2020
+
+## People as cases v. people as stories
+
+- [Data, AI and Society - The Moral Legibility of Narrative and Case Comparison](https://www.youtube.com/watch?v=6GMUsisUoso&list=PLdn0giYPTOk1bBDFhz047rrZ5t5I_Sju6&index=3&t=0s)
+
+> DISTINCTION: people as case comparisons (compare traits, features, categories to make predictions about how people will behave, whether they will fall sick, etc.) VERSUS people as stories (collect causal informatiom about a single individual over time, what caused what, why they did this or that, their choices. 
+
+> JUSTICE: Cases v. stories enable different sorts of conceptions of justice. Justice as **desert** is more related to stories. Justice as **actuarial fairness** (or comparative justice more generally) is more related to people as cases.
+
+> ALGORITHMS mostly enable justice as case comparison/actuarial, not justice as story/desert.
+
+> The distinction is interesting. But I do not buy the idea that algorithms are only about justice as case comparison. Algorhitms can also construct causal stories and select what features in a story are relevant for moral desert. Algorithms are just processes. I don't see why they would be confined to one form of justice only. 
+
+> SIDE NOTE: Speaker said that we care about comparatve justce/racial disaparities because of the underlying stories. Racial disparities would not be an issue if there were not underlying stories of injustice. I thought this was insightful. 
+
+## Definitions of Racism
+
+> Different definitions of racism. Some focus on (a) racist attitudes of individuals. Others focus on "structures" or "policies" having (b) disproportionate negative/positive effects on different racial groups. There is a tendency to isolate (b) from (a) in the sense that (b) can be unjust or unfair even though (a) is missing. How can that be? 
+
+> If we were to imagine a society that was completely devoid of racist attitudes in the present and past -- and thus (a) was missing -- but in which (b) existed, would that society be unjust (i.e. racist)?  It is not clear it would be. Imagine a society in which two groups of people decided to live in two separate locations, one closer to the coast and one more inland. Suppose this was a merely accidental choice. At some point, someone discovers a large gold mine inland. Those who happen to live inland become incredibly richer than those living on the coast. This is a society in which (b) exists without (a), but we would not call that society racist.  
+
+> (SIDE COMMENT: Part of the problem is that the two groups have not been racialized. Racialization is a process of "category creation" by which certain exterior traits acquire social meanings. But we can suppose that the two groups, living in the different locations, have been racialized, no? One could ask: but can racialization be separated for a process in which one group is deemed inferior? Can there be "race" without one race having been considered inferior to the other? I guess there is White and Asian as races, but one need not be inferior to the other, at least there is no clear-cut idea about relative standing. So, yes, there can be racialization without inferiority.) 
+
+> However, think about a society in which two groups are living in separate locations. There is segregation. One group thinks of the other as inferior. These beliefs of inferiority go away, but the two group still live in separate locations. As before, someone discovers a large gold mine inland. Those who happen to live inland become incredibly richer than those living on the coast. This is a society in which (b) exists without (a), but we would not call that society racist, right? 
+
+> There are other examples. Take income inequality. If income is distributed unevent across racial groups, for whatever reason, and income inequality increases, some are going to be worse off than others. This is a just a mathematical fact. See the paper July 26 I comment on below: "How rising U.S. income inequality exacerbates racial economic disparities". Are the rising racial economic disparities racist if they due to the general (racially neutral in its intention) process of rising income inequality?
+
+> Here is perhaps a plausible picture. At first, a racist system (due to racist attitudes) creates racial disparities, say in income or education. Then, other racial neutral phenomena take place (say, rising income inequality, college admission, etc). These racially neutral phenomena, however, adverserly affect some racial groups more than others. The effects then can be compounding. Is this structural racism? I am mostly interested in the conceptual picture here. The empirical facts are another matter.  
+
+- [Redefining “Racism”: Against Activist Lexicography](https://newdiscourses.com/2020/08/redefining-racism-against-activist-lexicography/)
+
+- [The Dictionary Definition of Racism Has to Change](https://www.theatlantic.com/ideas/archive/2020/06/dictionary-definition-racism-has-change/613324/)
+
+> "The 3.0 usage implies that calling racial disparities “racism” is natural because it is indisputable that **racial disparities** stem from bias-infused barriers. For example, many argue that black people lag behind white people in health indexes because of inadequate access to health care and supermarkets. The term racism is often applied to a case like this, even if white bias is not, or is no longer, the cause of the disparities. This is a tenet of much social science, but its pathway toward society-wide consensus would seem paved with thorns."
+
 # August 21, 2020
 
 
