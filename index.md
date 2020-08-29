@@ -1,6 +1,22 @@
 RWL=Reach Watch Later
 
 
+# August 28, 2020
+
+## Policing, Defunding, More Crimes?
+
+ > Looks like there has been spikes in killings during summer 2020. Why? There are many theories out there (more guns sold, stay at home orders, black lives matter protests). Vox gives space to this hypothesis:
+ 
+ > "2) Depolicing led to more violence: In response to the 2014 and 2015 waves of Black Lives Matter protests against police brutality, officers in some cities pulled back, either out of fear that any act of aggressive policing could get them in trouble or in a counter-protest against Black Lives Matter. While protesters have challenged the crime-fighting effectiveness of police, there is a sizable body of evidence that more, and certain kinds of, policing do lead to less crime. Given that, some experts said that depolicing in response to protests could have led to more violence — what some in years past called the “Ferguson effect,” after the 2014 protests in Ferguson, Missouri, over the police shooting of Michael Brown, and also seen in Baltimore after the 2015 killing of Freddie Gray." [Trump claims crime is up in US cities. The truth is more complicated](https://www.vox.com/2020/8/3/21334149/trump-rnc-murders-crime-shootings-protests-riots)
+ 
+ > The same point (i.e. police can reduce crime and thus defunding the polce means more crime) is made by Peter Moskos in this (video)[https://bloggingheads.tv/videos/59781] with Glenn Loury. See also article below.
+ 
+ - (RWL) [The case for hiring more police officers](https://www.vox.com/policy-and-politics/2019/2/13/18193661/hire-police-officers-crime-criminal-justice-reform-booker-harris)
+ 
+ - [COVID-19 and Crime in U.S. Cities](https://citycrimestats.com/covid/)
+ 
+ > Extremely well done website (citycrimestats.com). It allows to display historical data of crime patterns (shooting, theft, etc.) in correspondence with majory events, such as lock down order or police protects. It is fun to play around with the data. Just eyeballing, it seems pretty clear that shootings spike right after police protests. 
+
 # August 25, 2020
 
 ## People as cases v. people as stories
