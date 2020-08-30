@@ -3,6 +3,12 @@ RWL=Reach Watch Later
 
 # August 28, 2020
 
+## Microlending
+
+- [What Is Microlending and How Does It Work?](https://www.investopedia.com/articles/personal-finance/040715/what-microlending-and-how-does-it-work.asp)
+
+> It could be an interetsing way to invest one's money. Money goes to people who wouild not normally qualify for a loan by an ordinary bank. Lendere collect interets and people get their bueiness started. Both win.
+
 ## Policing, Defunding, More Crimes?
 
  > Looks like there has been spikes in killings during summer 2020. Why? There are many theories out there (more guns sold, stay at home orders, black lives matter protests). Vox gives space to this hypothesis:
@@ -16,6 +22,10 @@ RWL=Reach Watch Later
  - [COVID-19 and Crime in U.S. Cities](https://citycrimestats.com/covid/)
  
  > Extremely well done website (citycrimestats.com). It allows to display historical data of crime patterns (shooting, theft, etc.) in correspondence with majory events, such as lock down order or police protects. It is fun to play around with the data. Just eyeballing, it seems pretty clear that shootings spike right after police protests. 
+ 
+ - [Protesters call for more policing amid rise in gun violence across NYC](https://abc7ny.com/shootings-nyc-black-lives-matter-police/6317066/)
+ 
+ > Why don't we let communities speak? Looks like communites with high crime want more, not less police. Interestingly, propolice protesters are often portraied  as white people (see [this](https://time.com/5866336/police-supporters-black-lives-matter-protesters-brooklyn/) article by the Times), but in the video above, the propolice protesters are actually black. So reality isn't so black and white? Why have we made it so?
 
 # August 25, 2020
 
@@ -32,6 +42,8 @@ RWL=Reach Watch Later
 > The distinction is interesting. But I do not buy the idea that algorithms are only about justice as case comparison. Algorhitms can also construct causal stories and select what features in a story are relevant for moral desert. Algorithms are just processes. I don't see why they would be confined to one form of justice only. 
 
 > SIDE NOTE: Speaker said that we care about comparatve justce/racial disaparities because of the underlying stories. Racial disparities would not be an issue if there were not underlying stories of injustice. I thought this was insightful. 
+
+- [The Moral Limits of Predictive Practices: The Case of Credit-Based Insurance Scores](https://sociology.stanford.edu/publications/moral-limits-predictive-practices-case-credit-based-insurance-scores)
 
 ## Definitions of Racism
 
