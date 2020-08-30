@@ -1,6 +1,24 @@
 RWL=Reach Watch Later
 
 
+# Augus 30, 2020
+
+## Investing
+
+> ETF. Interesting website (www.etf.com). This the [cheapest EFT portfolio](https://www.etf.com/sections/blog/14635-the-cheapest-etf-portfolio-.html).  This is an [ETF finder](https://www.etf.com/etfanalytics/etf-finder/). More research to do.
+
+- [This Fund Is Up 7,298% in 10 Years. You Don’t Want It.](https://www.wsj.com/articles/this-fund-is-up-7-298-in-10-years-you-dont-want-it-11597417224)
+
+- [This 5-Fund Portfolio Pays A Monthly 8.9% Dividend](https://www.forbes.com/sites/michaelfoster/2020/07/14/this-5-fund-portfolio-pays-a-monthly-89-dividend/#10cb9e026d04)
+
+- [Ride dividend stocks for a regular return](https://www.bankrate.com/investing/ride-dividend-stocks-for-a-regular-return/)
+
+> Looks like divident stock investing could be a good strategy to create passive, stable income.
+
+- [Types of Real Estate Investments](https://www.nerdwallet.com/blog/investing/types-of-real-estate-investments/)
+
+- [Breakthrough Energy Ventures](https://www.breakthroughenergy.org/ventures/)
+
 # August 28, 2020
 
 ## Microlending
