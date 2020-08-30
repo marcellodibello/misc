@@ -27,6 +27,8 @@ RWL=Reach Watch Later
 
 > It could be an interetsing way to invest one's money. Money goes to people who wouild not normally qualify for a loan by an ordinary bank. Lendere collect interets and people get their bueiness started. Both win.
 
+ - [Lending Club](https://www.lendingclub.com/investing/peer-to-peer)
+
 ## Policing, Defunding, More Crimes?
 
  > Looks like there has been spikes in killings during summer 2020. Why? There are many theories out there (more guns sold, stay at home orders, black lives matter protests). Vox gives space to this hypothesis:
