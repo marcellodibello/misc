@@ -5,6 +5,10 @@ RWL=Reach Watch Later
 
 ## Investing
 
+- [Funddraise](https://fundrise.com/how-it-works)
+
+ > No traded real estate funds REITs. Interestig werbsite. More research needed. 
+
 > ETF. Interesting website (www.etf.com). This the [cheapest EFT portfolio](https://www.etf.com/sections/blog/14635-the-cheapest-etf-portfolio-.html).  This is an [ETF finder](https://www.etf.com/etfanalytics/etf-finder/). More research to do.
 
 - [This Fund Is Up 7,298% in 10 Years. You Don’t Want It.](https://www.wsj.com/articles/this-fund-is-up-7-298-in-10-years-you-dont-want-it-11597417224)
