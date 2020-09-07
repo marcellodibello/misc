@@ -1,5 +1,31 @@
 RWL=Reach Watch Later
 
+# September 7, 2020
+
+## The Collectivist Right
+
+- [9 Books to Understand the Collectivist Right](https://www.intellectualtakeout.org/article/9-books-understand-collectivist-right/)
+
+## Riots
+
+- [Marginalization and Riots: A Rationalistic Explanation of Urban Unrest](https://www.tandfonline.com/doi/full/10.1080/14036096.2019.1578996)
+
+## COVID-19 Racial disparities
+
+- [What’s Behind the COVID-19 Racial Disparity?](https://www.theatlantic.com/ideas/archive/2020/05/we-dont-know-whats-behind-covid-19-racial-disparity/612106/)
+
+## Algorithmic discrmination
+
+- [Discrimination in the Age of Algorithms](https://academic.oup.com/jla/article/doi/10.1093/jla/laz001/5476086)
+
+## Freedom of Speech
+
+- [Academics Are Really Really Worried About Their Freedom](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/)
+
+- [The myth of the free speech crisis](https://www.theguardian.com/world/2019/sep/03/the-myth-of-the-free-speech-crisis)
+
+> These two articles argue for the eaxct opposite. Or do they? See the **Disagreement Project**. Can they both be  right? I think so. But a closer look is needed. One article seems to suggest that today's views have become more extreme and thus there is a greater need to limit or regulate free expression, e.g. to avoid social disorder or hateful behaviour. So the claim is that it is isn't the case that the free speech is being attacked. What's the case is that mainstrean views out there (often right wing type of views) are now more extreme and thus their regulation (which would be inevitable no matter what) is more apparent. The other article instead relies on self-reporting by faculty members saying they feel they cannot speak openly. Perhaps, there are two different phemena going on?
+
 
 # Augus 30, 2020
 
