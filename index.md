@@ -1,5 +1,28 @@
 RWL=Reach Watch Later
 
+# September 10, 2020
+
+## A better world?
+
+- [Ronald Bailey: The World Is Getting Cleaner, Richer, and Safer](https://reason.com/podcast/ronald-bailey-the-world-is-getting-cleaner-richer-and-safer/)
+
+> Well, the title tells it all. Minority view. 
+
+## Race and Civil Rights
+
+- [Readings on Race and Civil Rights](https://www.independent.org/issues/article.asp?id=13209)
+
+- [The Crisis in Civil Rights: Best Books and Articles on Race, Police, and the Welfare State](https://www.independent.org/issues/article.asp?id=13224)
+
+ > This is an unconventional reading list on race and civil rights. Not the usual suspects in this reading list, but still interesting. Many nice sounding titles in there. Order some!
+ 
+ 
+## La Carta del Carnaro
+- [Centanni fa la piu bella costituzione del mondo](http://www.marcelloveneziani.com/uncategorized/centanni-fa-la-piu-bella-costituzione-del-mondo)
+
+> Si stratta in sostanza di una costituzione scritta da D'Annunzio con ideali fascisti e populisti ante literam -- l'esaltazione del lavoro, del popolo, della patria, delle arti e della storia. Una concezione delle vita e della liberta non appattiata sul modello liberal-democratico di oggi. Interessante. Da leggere. Forse. 
+
+
 # September 7, 2020
 
 ## The Collectivist Right
