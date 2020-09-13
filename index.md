@@ -1,5 +1,17 @@
 RWL=Reach Watch Later
 
+# September 12, 2020
+
+## Emotional Contagion
+
+- [Experimental evidence of massive-scale emotional contagion through social networks](https://www.pnas.org/content/111/24/8788)
+
+## WEIRD People
+
+- [The WEIRDest People in the World—A Review](https://quillette.com/2020/09/08/the-weirdest-people-in-the-world-a-review/)
+
+> WEIRD = Western, Educated, Industrialized, Rich, and Democratic. Not a pejorative, but a description of psychologically peculiar people, different from the majority of humanity now and in the past.
+
 # September 10, 2020
 
 ## A better world?
