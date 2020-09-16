@@ -6,7 +6,7 @@ RWL=Reach Watch Later
 
 > Looks like woke epistemology is an attack agaist our faith in evidence, data and reasoning. Why? Because even evidence, data and reasonig are biased and thus a locus of poer struggle, racism, sexism, oppression. They are not immune to the general logic of oppression, sexism and racism. I think the philosoiphcal foundation of all this is femist epistemology. Read the [SEP entry](https://plato.stanford.edu/entries/feminism-epistemology/) on the topic. To be done! 
 
-> This [video](https://www.youtube.com/watch?v=xILBpDOqD-A) by wokal_distance is also instructive, thouhg -- as I explaine dbelow -- a bit too simplistic I think. 
+> This [video](https://www.youtube.com/watch?v=xILBpDOqD-A) by wokal_distance is also instructive, though -- as I explain below -- a bit too simplistic I think. 
 
 ## Is Woke Mathematics Really that Bad?
 
