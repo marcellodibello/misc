@@ -1,5 +1,15 @@
 RWL=Reach Watch Later
 
+# September 15, 2020
+
+## Police violence and conflicting evidence
+
+- [Police Violence and the Rush to Judgment](https://quillette.com/2020/09/08/police-violence-and-the-rush-to-judgment/)
+
+> The article points out, with great detail and many examples, something  obvuous. We are quick to judge that an episode of police violece is racially motivated even when the evidence isn't perfectly clear. Interetsingly, even in the Floyd cae the evidence seems mixed. Still, that police are racist is often a tacit, unquestioned assumption.  This seems true. But is it false to say that the police are racist?
+
+> I once heard Zizek lament that Chomsky was hesitant to say that Pol Pol in Cambodia was responsibe for the genocode in absence of clear evidence. Zizek noted that we can know this was the case without evidence, just by understandig how the Pol Pol regime worked. Could the same be true for US police (their history of racism etc.)? I am not sure the analogy works, but it's something to think about. Bottom line: when is the request for evidence more detrimental than beneficial?   
+
 # September 12, 2020
 
 ## Emotional Contagion
