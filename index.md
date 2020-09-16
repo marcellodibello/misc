@@ -1,5 +1,39 @@
 RWL=Reach Watch Later
 
+# Septembere 16, 2020
+
+## Woke Epistemology?
+
+> Looks like woke epistemology is an attack agaist our faith in evidence, data and reasoning. Why? Because even evidence, data and reasonig are biased and thus a locus of poer struggle, racism, sexism, oppression. They are not immune to the general logic of oppression, sexism and racism. I think the philosoiphcal foundation of all this is femist epistemology. Read the [SEP entry](https://plato.stanford.edu/entries/feminism-epistemology/) on the topic. To be done! 
+
+> This [video](https://www.youtube.com/watch?v=xILBpDOqD-A) by wokal_distance is also instructive, thouhg -- as I explaine dbelow -- a bit too simplistic I think. 
+
+## Is Woke Mathematics Really that Bad?
+
+> twitter contributor wokal_distance has engeged in an interesting project, i.e. breaking down "woke thought", its assumptions and philosophical grounding in simple language. This is a good service. Yet when it comes to woke mathematics, he seems to offer a charicature rather than a balanced portrayal (see thread [here](https://twitter.com/wokal_distance/status/1278886205665361921)). 
+
+> Here is why. Consider the book [Mathematics for Social Justice: Resources for the College Classroom](https://www.maa.org/press/maa-reviews/mathematics-for-social-justice-resources-for-the-college-classroom). This is an example of woke mathematics according to wokal_distance. I read a few chapters of the book. This reads more like a collection of teaching tools to show the applications of mathematics, say, to voting, income distribution, interest rates, mortages, etc. This seems a valuable way to make mathematics  acessible -- not by watering down its content, but by showing that virtually everythig follows a pattern that can be explained using mathematical concepts. I do not think any of this is new -- economists have always applied math to the world -- but nonethless useful and interesting. Maybe woke mathematical teaching is just a way of rebranding math? 
+
+> This quotation from the book gives a vivid example of what I am talking about: 
+
+> The Credit Card Problem asks, given a fixed initial balance 𝑃 on a credit card,
+a fixed interest rate 𝑟 compounded monthly, and a fixed monthly payment 𝑀, how long does it take to pay off a credit card? The solution is given by the equation: 
+𝑛 = ln ( 𝑀 / 𝑀−𝑟𝑃) / ln (1 +  𝑟).
+Such a problem fits very naturally into a unit on logarithms. In the process of working through the problem, a need for logarithms naturally arises!
+The solution to the credit card problem raises an interesting mathematical question related to the domain of the logarithm. The denominator has no problems since
+1 + r > 0 as 𝑟 > 0. However, the numerator may not always be defined. Namely, in order
+for the logarithm to be defined, we need to have 𝑀 > 𝑟𝑃. This makes intuitive sense, it
+tells us that in order to be able to pay the credit card balance off in finite time, we need
+our monthly payment to be larger than the dollar amount of interest accumulated on
+the principal each month.
+The ethical question here has to do with a decision regarding minimum payments.
+Specifically, is it ethically appropriate to offer a credit card holder the option to pay a
+minimum monthly payment that is less than 𝑟𝑃? Many consumers who find themselves in credit card debt and are struggling to make ends meet will only make the
+minimum monthly payment in order to stay current and stay afloat. Mathematically,
+when 𝑀 < 𝑟𝑃, the solution to the credit card problem flies to infinity. 
+
+> I found this example neat. It introduces a difficult math notion, logarithm. It makes people think about real world issues. It is a nice blend of mathematics and ethics.  And it should have the added advantage of drawing more students into the intricaces of mathematical modeling. If this is woke mathematics, it isn't really that bad. But perhaps there are deeper transformations going on which are not fully reflected in the book in question. That might very well be true. And these deeper transformations might be more dramatic. 
+
 # September 15, 2020
 
 ## Does Activist Scholarship Do More Harm than Good?
