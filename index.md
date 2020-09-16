@@ -2,6 +2,10 @@ RWL=Reach Watch Later
 
 # September 15, 2020
 
+## Does Activist Scholarship Do More Harm than Good?
+
+- [Cynical Theories: How Activist Scholarship Made Everything about Race, Gender, and Identity―and Why This Harms Everybody](https://www.amazon.com/Cynical-Theories-Scholarship-Everything-Identity_and/dp/1634312023/ref=cm_cr_arp_d_product_top?ie=UTF8)
+
 ## Police violence and conflicting evidence
 
 - [Police Violence and the Rush to Judgment](https://quillette.com/2020/09/08/police-violence-and-the-rush-to-judgment/)
