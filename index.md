@@ -1,6 +1,17 @@
 RWL=Reach Watch Later
 
-# Septembere 16, 2020
+# Septembere 17, 2020
+
+## Breonna Taylor
+
+- [Why It’s Not So Simple To Arrest The Cops Who Shot Breonna Taylor]()
+
+> Interesting piece, legally speaking. The **castle doctrine** says that one is allowed to shoot if someone is entering one's house. No obligation to retreat. But this right to shoot does not apply when the police is entering one's home as long as the officers announce themselves or the homeowner reasonably should have known they were police. The problem is that the officers were executing a **no-knock warrant**. So Walker could not have known they were police so he is entitled to shoot agains them. On their hand, the officers had a right to enter and not be fired against. They can invoke **self-defense**. There seems to be a tension between no-knowck warrant and the castle doctrine.  
+
+
+
+
+# September 16, 2020
 
 ## Woke Epistemology?
 
