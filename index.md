@@ -1,6 +1,10 @@
 RWL=Reach Watch Later
 
-# Septembere 17, 2020
+# September 17, 2020
+
+## Whiteness
+
+- [National Museum of African American History apologizes for chart listing attributes of 'whiteness' after criticism from Donald Trump Jr and the conservative media](https://www.insider.com/african-american-museum-in-dc-apologizes-for-whiteness-chart-2020-7)
 
 ## Breonna Taylor
 
