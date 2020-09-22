@@ -2,6 +2,10 @@ RWL=Reach Watch Later
 
 # September 21, 2020
 
+## Electric cars and human rights  violations
+
+- (RWL) [The Dark Side of Electric Cars: Exploitative Labor Practices](https://www.amnesty.org/en/latest/news/2017/09/the-dark-side-of-electric-cars-exploitative-labor-practices/)
+
 ## The Saad Truth
 
 > I discovered [Gad Saad](https://twitter.com/GadSaad). See his forthcoming book
