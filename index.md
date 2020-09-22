@@ -1,5 +1,37 @@
 RWL=Reach Watch Later
 
+# September 21, 2020
+
+## The Saad Truth
+
+> I discovered [Gad Saad](https://twitter.com/GadSaad). See his forthcoming book
+
+- [The Parasitic Mind](https://www.amazon.co.uk/Parasitic-Mind-Infectious-Killing-Common/dp/162157959X/)
+
+## Is Meritocracy bad?
+
+> Looks like meritocracy is getting a bad rep these days. 
+
+- (RWL) [Is Meritocracy Moral?](http://dish.andrewsullivan.com/2013/06/25/the-morality-of-the-meritocracy/)
+
+## Cool Math Videos
+
+- (RWL) [3Blue1Brown](https://www.3blue1brown.com/)
+
+> YouTUbe video channel with lots of cool math videso, algebra, probability, etc. For example, the one below about Bayes' theorem:
+
+- (RWL) [What is it to be Bayesian? The (pretty simple) math modelling behind a Big Data buzzword](https://aeon.co/videos/what-is-it-to-be-bayesian-the-pretty-simple-math-modelling-behind-a-big-data-buzzword)
+
+## Ethical Allocation for the COVID-19 vaccine
+
+- (RWL) [An ethical framework for global vaccine allocation](https://science.sciencemag.org/content/369/6509/1309)
+
+## Princeton Racism?
+
+- [Show Us Your Systemic Racism, Princeton](https://www.city-journal.org/systemic-racism-princeton)
+
+ > This is kind of a paradox. For one thing, Princeton admits to its systemic racism, and on the other, the Department of Education says "ok, we need to investigate you, becaue if you are racist, and racism is illegal, we will have to fine or punish you (e.g. not give you grant money anymore)." What should one think of this?
+
 # September 17, 2020
 
 ## Whiteness
