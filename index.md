@@ -2,6 +2,10 @@ RWL=Reach Watch Later
 
 # September 21, 2020
 
+## Objects Perceived
+
+- (RWL) [Sustained representation of perspectival shape](https://www.pnas.org/content/117/26/14873)
+
 ## The Left and the Humanities
 
 - [Why Does the Left Hate the Humanities?](https://www.nationalreview.com/2020/09/higher-education-why-left-hates-humanties/)
