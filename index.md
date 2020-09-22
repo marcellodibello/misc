@@ -2,6 +2,25 @@ RWL=Reach Watch Later
 
 # September 21, 2020
 
+## The Left and the Humanities
+
+- [Why Does the Left Hate the Humanities?](https://www.nationalreview.com/2020/09/higher-education-why-left-hates-humanties/)
+
+> This is a bit of the usual -- nostalgic? -- stuff. Classics are good. Philosophy is good. They help you think critically. Etc. I agree. But can we be a bit more critical? 
+
+> The author does seem to put his fingers on something important, though. We are seeing an attack against classical humanities (Greek, Latin, Philosophy, etc.). Why is that? We are seeing an attack against Western tradition. Why is that? These attacks are under the guise of diversity, equity, inclusion, etc. But could it be that these attacks actually help the so-called "neoliberal/globalist" agenda the most?
+
+## The Ethical Algorithm
+
+- [The Ethical Algorithm | Michael Kearns & Aaron Roth | Talks at Google](https://www.youtube.com/watch?v=tmC9JdKc3sA)
+
+> Interesting ta;k. Summary of their book, "The Ethical Algorithm". Topics: privacy, fairness, gaming/coordination, singularity. They argue that privacy as differential prinvacy is the right operationalization of privacy. Anomization is not because, e.g., by merging to anonimized datasets one can extract private information about individuals.  Interesting discussion about fairness as well. 
+
+## AI Podcast
+
+- (RWL) [Michael Kearns: Algorithmic Fairness, Privacy & Ethics | Lex Fridman Podcast #50](https://www.youtube.com/watch?v=AzdxbzHtjgs)
+
+
 ## Electric cars and human rights  violations
 
 - (RWL) [The Dark Side of Electric Cars: Exploitative Labor Practices](https://www.amnesty.org/en/latest/news/2017/09/the-dark-side-of-electric-cars-exploitative-labor-practices/)
