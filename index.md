@@ -1,8 +1,16 @@
 RWL=Reach Watch Later
 
-# Septembere 22, 2020
+# September 22, 2020
 
-## Is Faith with no evidence rational?
+## Coronavirus Syllabus
+
+- (RWL) [Alondra Nelson on Pandemics, Inequality, and the #CoronavirusSyllabus](https://www.ias.edu/ideas/nelson-coronavirus-syllabus)
+
+## Law podcast / You Tube Channel
+
+ -  (RWL) [LegalEagle](https://www.youtube.com/c/LegalEagle/)
+
+## Is faith with no evidence rational?
 
 - [Belief, Faith, and Hope: On the Rationality of Long-Term Commitment](https://philpapers.org/archive/JACBFA.pdf)
 
