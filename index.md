@@ -1,5 +1,28 @@
 RWL=Reach Watch Later
 
+# Septembere 22, 2020
+
+## Is Faith with no evidence rational?
+
+- [Belief, Faith, and Hope: On the Rationality of Long-Term Commitment](https://philpapers.org/archive/JACBFA.pdf)
+
+> Interesting topic. Not so clear argument. Impressive command of the literature.
+
+> Quotation, p. 16: "Second, agents can be justified in accepting p even if they get significant counterevidence that drastically lowers the probability of p, as
+long as it doesn’t lower the probability of p to 0. They do so by relying
+on their belief that p, then their faith that p, and then their hope that
+p. "
+
+> Quotation, p. 17: "Even though they think that God probably does not
+exist, they also believe that if they were wrong and God did exist,
+knowing God would be very valuable. Thus they continue to accept
+that God exists and act as if God exists, by going to church, praying,
+participating in a religious community, and the like". *Isn't
+this some form of Pascal's's wager?*
+
+
+
+
 # September 21, 2020
 
 ## Objects Perceived
