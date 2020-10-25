@@ -1,5 +1,11 @@
 RWL=Reach Watch Later
 
+# October 25, 2020
+
+- [Why Renewables Can’t Save the Planet](https://quillette.com/2019/02/27/why-renewables-cant-save-the-planet/)
+
+ > Well, this was a surprising piece to read. I did not know solar and wind energy were so ennviromentally hamrlful. They kill birds. Solar panels will be toxic waste in 20-25 years. Solar and wind energy are not stable and need to be stored. Trasmission lines cost a lot. Etc. Insted, nuclear energy is better, more powerful, less costly, more clean. 
+
 # September 22, 2020
 
 ## Coronavirus Syllabus
