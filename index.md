@@ -2,6 +2,14 @@ RWL=Reach Watch Later
 
 # October 25, 2020
 
+- [Philosophy Is Being Hijacked by Woke Twitter Mobs](https://quillette.com/2020/10/21/philosophy-is-being-hijacked-by-woke-twitter-mobs/)
+
+ > Nothing too surprising here. You publish a [paper](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1697803) arguing that genes are partly responsible for group differences and you get called racist with requests to retract the paper etc. Actyally, this is is not quite the thesis:
+ 
+   > "The present paper argues that the widespread practice of ignoring or rejecting research on intelligence differences can have unintended negative consequences. Social policies predicated on environmentalist theories of group differences may fail to achieve their aims. Large swaths of academic work in both the humanities and social sciences assume the truth of environmentalism and are vulnerable to being undermined. We have failed to work through the moral implications of group differences to prepare for the possibility that they will be shown to exist."
+   
+   > So the article does not argue for hereditarianism. Rather, it examines the question, what are the moral implications for research in philosophy and the social sciences should hereditarianism turn out to be true?
+
 - [Why Renewables Can’t Save the Planet](https://quillette.com/2019/02/27/why-renewables-cant-save-the-planet/)
 
  > Well, this was a surprising piece to read. I did not know solar and wind energy were so ennviromentally hamrlful. They kill birds. Solar panels will be toxic waste in 20-25 years. Solar and wind energy are not stable and need to be stored. Trasmission lines cost a lot. Etc. Insted, nuclear energy is better, more powerful, less costly, more clean. 
