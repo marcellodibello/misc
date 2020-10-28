@@ -1,5 +1,18 @@
 RWL=Reach Watch Later
 
+# October 28, 2020
+
+- [Stop Being Shocked: American liberalism is in danger from a new ideology—one with dangerous implications for Jews](https://www.tabletmag.com/sections/news/articles/stop-being-shocked)
+
+ > Interesting analysis, showing how critical race theory clashes with the key tenents of liberalism (equality, freedom of speech, etc.) and how this puts Jews in denger, and the whole of society as well.
+ 
+ - (RWL) [Reflections on Solzhenitsyn’s Harvard Address](https://quillette.com/2020/10/24/reflections-on-solzhenitsyns-harvard-address/)
+ 
+ - [The Roots Of Wokeness: It's time we looked more closely at the philosophy behind the movement](https://andrewsullivan.substack.com/p/the-roots-of-wokeness)
+  
+  > Refers to the  best selling book "Cynical Theories: How Activist Scholarship Made Everything About Race, Gender and Identity”. Probably to be read. Ordered. 
+ 
+ 
 # October 25, 2020
 
 - [Philosophy Is Being Hijacked by Woke Twitter Mobs](https://quillette.com/2020/10/21/philosophy-is-being-hijacked-by-woke-twitter-mobs/)
