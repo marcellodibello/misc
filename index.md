@@ -2,6 +2,10 @@ RWL=Reach Watch Later
 
 # October 28, 2020
 
+- [Probably approximately ethical](https://digital.hbs.edu/artificial-intelligence-machine-learning/probably-approximately-ethical/)
+ 
+ > Nice talk by Kathryn Hume!
+ 
 - [Stop Being Shocked: American liberalism is in danger from a new ideology—one with dangerous implications for Jews](https://www.tabletmag.com/sections/news/articles/stop-being-shocked)
 
  > Interesting analysis, showing how critical race theory clashes with the key tenents of liberalism (equality, freedom of speech, etc.) and how this puts Jews in denger, and the whole of society as well.
