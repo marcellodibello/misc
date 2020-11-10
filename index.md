@@ -1,5 +1,15 @@
 RWL=Reach Watch Later
 
+# Nov 9, 2020
+
+- (RWL) [The Role of Collider Bias in Understanding Statistics on Racially-Biased Policing](https://library.bayesia.com/articles/#!bayesialab-knowledge-hub/2020-conference-steven-frazier)
+
+- [How to explain an increasing proportion of people testing positive for COVID if there is neither an increase in proportion of genuine cases nor increase in the false positive rate](https://probabilityandlaw.blogspot.com/2020/11/how-to-explain-increasing-proportion-of.html)
+
+- (RWL) [Testing by Betting](https://rss.org.uk/RSS/media/File-library/Events/Key%20events/RSS-September-9-2020.pdf)
+
+- [Two Statistical Curiosities That Allowed Biden To Pull Ahead In PA: Please Share. Update With Benford’s Law Criticism](https://wmbriggs.com/post/33377/)
+
 # October 28, 2020
 
 - [Probably approximately ethical](https://digital.hbs.edu/artificial-intelligence-machine-learning/probably-approximately-ethical/)
