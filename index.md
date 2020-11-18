@@ -1,5 +1,19 @@
 RWL=Reach Watch Later
 
+# Nov 18, 2020 
+
+- [Vaccine Nationalism Makes a Deadly Disease Even Worse](https://www.bloomberg.com/features/2020-covid-vaccine-nationalism/)
+
+- (RWL) [Opportunity Insights](https://opportunityinsights.org/)
+
+- [Why Arguments Still Work](https://medium.com/curious/why-arguments-still-work-8a387c514ff7)
+
+- [On the Use and Abuse of Critical Race Theory in American Christianity](https://frenchpress.thedispatch.com/p/on-the-use-and-abuse-of-critical)
+
+- [Costruire un dibattito strategico, politico e intellettuale su scala pertinente](https://legrandcontinent.eu/it/)
+
+ > Nuovo giornale molto interessante plurilingue di discussione politica e culturale non superficiale. Da tenere d'occhio! 
+
 # Nov 9, 2020
 
 - (RWL) [The Role of Collider Bias in Understanding Statistics on Racially-Biased Policing](https://library.bayesia.com/articles/#!bayesialab-knowledge-hub/2020-conference-steven-frazier)
