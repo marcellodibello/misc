@@ -2,6 +2,28 @@ RWL=Reach Watch Later
 
 # Dec 2, 2020
 
+- (RWL) [Observed and estimated prevalence of Covid-19 in Italy: How to estimate the total cases from medical swabs data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7543749/)
+
+ > Interesting and extremely useful statistical exercise! 
+
+- [The Structure of Bias](https://www.gmjohnson.com/uploads/5/2/5/1/52514005/sob.pdf)
+
+ > Very interesting paper about bias -- its nature ad defintion. The claim is that bias is not representational (e.g. I believe that people in group G1 are worse than people in group G2) but has to do with a particular way in which input and output relate to one another -- i.e. bias is "the operation of systematically relating bias-inputs to bias-outputs in ways that mimic social-kind inductions". So bias is a functional/computational notion, not a representational notion. 
+ 
+ > From FOOTNOTE n. 54: "One might worry that my definition of bias is too inclusive because it applies to inferences that broach epistemic
+certainty. For example, according to my definition, a person’s inference from an individual’s being a bachelor to the conclusion that they’re a man will count as a social bias. Although I admit this is an undesirable outcome, circumventing it is difficult."
+ 
+ > That seems to be a clear counterexample to the definition of bias proposed. It seems as though that any input-output operation that tracks group membership will be biased according to this proposed defintion (**How? I need to explain that**). Isn't this an overgeneralization of the concept of bias?
+ 
+ 
+ 
+ 
+ 
+ 
+- [Victimhood or Development?](https://quillette.com/2020/11/19/victimhood-or-development/)
+
+ > Discussion with Glenn Loury and company of the controversial movie "What Kille MIke Brown?" -- available on [Amazom](https://www.amazon.com/Killed-Michael-Brown-Shelby-Steele/dp/B08L9NZHV3).
+
 - [Dr.SHIVA LIVE: MIT PhD Analysis of Michigan Votes Reveals Unfortunate Truth of U.S. Voting Systems](https://www.youtube.com/watch?v=Ztu5Y5obWPk)
 
  > This is one the key videos making a statistical case for election fraud in the 2020 US Election.  This seems to have debunked (see video response below for example), but the examination of these concepts is interesting in itself, especially to see how statistics can be applied to pressing questions. **This can be part of the disagreement project!**
