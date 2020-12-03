@@ -1,5 +1,37 @@
 RWL=Reach Watch Later
 
+# Dec 2, 2020
+
+- [Dr.SHIVA LIVE: MIT PhD Analysis of Michigan Votes Reveals Unfortunate Truth of U.S. Voting Systems](https://www.youtube.com/watch?v=Ztu5Y5obWPk)
+
+ > This is one the key videos making a statistical case for election fraud in the 2020 US Election.  This seems to have debunked (see video response below for example), but the examination of these concepts is interesting in itself, especially to see how statistics can be applied to pressing questions. **This can be part of the disagreement project!**
+ 
+ - [Do these scatter plots reveal fraudulent vote-switching in Michigan?](https://www.youtube.com/watch?v=aokNwKx7gM8)
+ 
+ > Response to the video above!
+
+- [Why do Biden's votes not follow Benford's Law?](https://www.youtube.com/watch?v=etx0k1nLn78)
+
+  > Very interesting and fun explanation of Benford's Law and why deviations from Benford's Law do not show a pattern of fraud in the 2020 US election. Good intro tool to start thinking statistically and the limitations of thinking statistically. 
+
+ - [Statistical analyses attempting to determine election fraud: the need for a causal framework](https://probabilityandlaw.blogspot.com/2020/11/statistical-analyses-attempting-to.html)
+ 
+  > Interesting analysis by Fenton. trying to puhs Bayesian network/causal analysis to understand patterns of electio fraud. 
+  
+  > KEY CLAIM: If there really was fraud, then (ignoring the possibility of automated counting machine fraud) the simplest and most efficient way of identifying it statistically would be a variation of what was done by the anonymous data scientist above but at a much more local/granular level and focused only on postal ballots. In other words, districts sufficiently small such that there is less chance of a systematic or random interference in the natural process by which ballots are collected (no mail sorting, no sorting at the centre into for/against bundles etc. i.e. the “draws” come naturally as close as possible on a per household basis).  The more granular we get, the closer we are at detecting anomalies that are not explainable by anything other than fraud. If there is some model of causal interference, then the normal and hypothesized abnormal process need to be tested against each other i.e. against patterns from previous elections.
+
+- [Missing votes](https://justthenews.com/sites/default/files/2020-11/Miller_DeclarationAndAnalyisPA_GOP_BallotRequestData_2020_Final.pdf)
+
+ > Part of the supposed statistical case that the US 2020 election has been rigged. 
+
+- (RWL) [Kripkeans of the world, unite!](https://academic.oup.com/jos/article/37/2/297/5819531)
+
+  > From the abstract: "explanations of variation within or across cultures need not invoke competing theories of reference (CH vs DD), and can be unified within a single, broadly Kripkean analysis that honors the basic distinction between semantic reference and speaker’s reference."
+  
+  > From the conclusipn: "Our work supports the conclusion of Machery et al. (2004) that cross-cultural variation in reasoning about proper names exists, and specifically that the CH intuition is not universally shared. Our result that South Asian (Bangladeshi) participants predominantly give SR responses fits with their critique of this universality assumption. Yet, the claim that most Asians are descriptivists (p. B5) is undermined by our study."
+
+
+
 # Nov 18, 2020 
 
 - [Vaccine Nationalism Makes a Deadly Disease Even Worse](https://www.bloomberg.com/features/2020-covid-vaccine-nationalism/)
