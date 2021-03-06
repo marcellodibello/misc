@@ -33,3 +33,7 @@ RWL=Reach Watch Later
 ## Race and Inequality
 
 - (RWL) [Unspeakable Truths about Racial Inequality in America](https://quillette.com/2021/02/10/unspeakable-truths-about-racial-inequality-in-america/)
+
+## Full belief
+
+- (RWL) [Sara Moss, Full Belief and Loose Speech](http://www-personal.umich.edu/~ssmoss/Moss%20-%20Full%20Belief%20and%20Loose%20Speech.pdf)
