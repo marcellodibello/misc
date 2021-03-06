@@ -5,7 +5,7 @@ RWL=Reach Watch Later
  > Back after a pause. 
  
  
-- (RWL) [Naomi Zack, Progressive Anonymity: From Identity Politics to Evidence-Based Government] 
+- (RWL) [Naomi Zack, Progressive Anonymity: From Identity Politics to Evidence-Based Government](https://rowman.com/ISBN/9781538136034/Progressive-Anonymity-From-Identity-Politics-to-Evidence-Based-Government)
 
 > Naomi Zack critiques identity politics and argues that both political and social identities should not enter democratic government. 
  She proposes evidence-based government by anonymous stakeholders, without preference for group affiliation or political charisma. 
