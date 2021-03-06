@@ -34,6 +34,10 @@ RWL=Reach Watch Later
 
 - (RWL) [Unspeakable Truths about Racial Inequality in America](https://quillette.com/2021/02/10/unspeakable-truths-about-racial-inequality-in-america/)
 
+## Reparations
+
+- (RWL) [African American History & James Nickel on the Morality of Reparations](https://www.youtube.com/watch?v=RD9mZRf6KEY)
+
 ## Full belief
 
 - (RWL) [Sara Moss, Full Belief and Loose Speech](http://www-personal.umich.edu/~ssmoss/Moss%20-%20Full%20Belief%20and%20Loose%20Speech.pdf)
