@@ -3,6 +3,9 @@ RWL=Reach Watch Later
 # March 6, 2021
 
  > Back after a pause. 
+  
+
+## The Breaking Down of Public Reason
  
  
 - (RWL) [Naomi Zack, Progressive Anonymity: From Identity Politics to Evidence-Based Government](https://rowman.com/ISBN/9781538136034/Progressive-Anonymity-From-Identity-Politics-to-Evidence-Based-Government)
@@ -16,4 +19,17 @@ RWL=Reach Watch Later
  Zack’s original work will be useful to both scholars and students interested in studies of race, 
  political philosophy, social philosophy, and cultural criticism.
 
+## Algorithmic Prediction
 
+- (RWL) [The problem with prediction](https://aeon.co/essays/on-the-dangers-of-seeing-human-minds-as-predictive-machines)
+- (RWL) [The coming war on the hidden algorithms that trap people in poverty](https://www.technologyreview.com/2020/12/04/1013068/algorithms-create-a-poverty-trap-lawyers-fight-back)
+
+ > On the problem of cross-examining an algorithm
+
+## Highere Ed
+
+- (RWL) [The Emergence of the American University](https://en.wikipedia.org/wiki/The_Emergence_of_the_American_University)
+
+## Race and Inequality
+
+- (RWL) [Unspeakable Truths about Racial Inequality in America](https://quillette.com/2021/02/10/unspeakable-truths-about-racial-inequality-in-america/)
