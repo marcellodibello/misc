@@ -1,5 +1,15 @@
 RWL=Reach Watch Later
 
+# March 25
+
+## Causality and RCD
+
+- (RWL) [Wager, Causality, Lecture Notes](https://web.stanford.edu/~swager/stats361.pdf)
+ > Lecture 1: about ramdomized control trials. Lecture 2: unconfounding. 
+ 
+- [The Smartest RCT Critic]() 
+ > Basically on Nancy Cartwright criticism of RCT, i.e. that they are internally valid, but not externally valid (cannot be easily generalized to populations outside those studied in the experiment). We see this with the Covid-19 vaccine. You use a RCT among certain demographic groups, in certain places at a certain time. You then find that the vaccine is effective. Then, you give the vaccine to other people, at a later time, maybe different demographic groups. Will it work? Probably, but it mght also not work. Not completely sure.    
+
 # March 6, 2021
 
  > Back after a pause. 
