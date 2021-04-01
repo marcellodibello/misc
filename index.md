@@ -16,7 +16,7 @@ Next, I started doing research on the black family and the extent to which it ac
 
 - [Three Facts About Family Structure and Race: Responding to The New York Times](https://ifstudies.org/blog/three-facts-about-family-structure-and-race-responding-to-the-new-york-times)
 
-It is a partisan piece, but it makes reference to respectable publications. So I am taking it seriously. Specifically:
+Carefully argued, a partisan piece though, but makes reference to respectable publications. So I am taking it seriously. Specifically:
 
 - John Iceland, [Racial and Ethnic Inequality in Poverty and Affluence, 1959–2015](https://link.springer.com/article/10.1007/s11113-019-09512-7)
 
@@ -31,7 +31,18 @@ decomposition](https://core.ac.uk/download/pdf/6442665.pdf)
 
 -  Raj Chetty et al, [Race and Economic Opportunity in the United States: An Intergenerational Perspective](https://opportunityinsights.org/wp-content/uploads/2018/04/race_paper.pdf)
 
-> 
+> This is an impressive paper, an Chetty is of course an outstanding economist, very well-respected and deserving a very close reading. The *first finding* is that intergenerational mobility is the same between whites and hispanics, but different between whites and blacks. So the prediction is that the income gap will come to zero between whites and hispanics in the next few decades, while the income gap will persist between whites and blacks unless we eliminate that differences in intergenerational mobility. One policy implication of this is that "Transient programs that do not affect intergenerational mobility, such as temporary cash transfers, are insufficient to reduce disparities because income distributions will eventually revert back to their steady-states".
+
+> So the question is, why are these difference in intergenerational mobility---i.e. blacks are more likely to be poor and less likely to be rich conditional on their parents having the same income---across whites and blacks? The *second finding* is that "intergenerational gap in individual income is 10 percentiles for black men across the parental income distribution. In contrast, black women earn about 1 percentile more than white women conditional on parent income." So the differences is all on the side of black men, not black women. Keep in mind that they are measuring individual, not household income, to eliminate the effect of the difference between single-parent and two-parent households since single-parent households earn less of course. 
+
+> The *third finding* is essentially negative. Black men/black women differences are not easily explained by family structure, wealth or other plausible variables.
+They write: "Controlling for parental marital status reduces black-white intergenerational gaps for men only slightly, from 10 percentiles to 9.3 percentiles. Controlling for differences in parental education also does not affect the black-white intergenerational gap significantly. The black-white intergenerational gap remains substantial even after controlling for differences in parental wealth"
+
+> The *fourth finding* is about neighborhood effects. Not much difference there either. But something interesting comes up: "...the fraction of fathers present in low-income black households in the neighborhood is associated with better outcomes among black boys, but is uncorrelated with the outcomes of black girls and white boys. Black father presence at the neighborhood level strongly predicts black boys’ outcomes irrespective of whether their own father is present or
+not, echoing the findings of Sampson (1987)". So black father presence in the neighborhhod is correlated with better intergenerational mobility for black boys. Just a correlation, not causation, but still something to look at more carefully.
+
+> In conclusion, they wrote "We conclude that neighborhoods with low poverty rates, high rates of father presence among blacks, and low levels of racial bias among whites have better outcomes for black boys and smaller racial gaps"
+
  
 
 
