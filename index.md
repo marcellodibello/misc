@@ -1,5 +1,19 @@
 RWL=Reach Watch Later
 
+# April 1
+
+## Race and inequalities in the US
+
+- I started with watching a [video](https://www.youtube.com/watch?v=PHkfOuTLufw) by Glenn Loury on the black family. He makes a number of interesting points, specifically:
+
+1) In order to understand racial disparities, we need to understand disparities in social relations (e.g. family structure) not just disparities in resources, education, human capital, etc. He call these differences in "social capital".
+
+2) Race exists becasue there are differences in social relations across groups of people. Without those differences, there would be no races. 
+
+He does not want to "blame the victim" or deny the role of oppression and discrimination, but he also wants to highlight the role of the family. He claims that the decline of the black family (e.g. more single-parent households) implies economic decline for black people. Loury also blamed welfarist policies that encourage single-parent families.
+
+- Obviously, I started doing research on the black family and the extent ti accounts for racial disaparities
+
 # March 25
 
 ## Causality and RCD
