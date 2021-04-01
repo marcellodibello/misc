@@ -39,7 +39,7 @@ decomposition](https://core.ac.uk/download/pdf/6442665.pdf)
 They write: "Controlling for parental marital status reduces black-white intergenerational gaps for men only slightly, from 10 percentiles to 9.3 percentiles. Controlling for differences in parental education also does not affect the black-white intergenerational gap significantly. The black-white intergenerational gap remains substantial even after controlling for differences in parental wealth"
 
 > The *fourth finding* is about neighborhood effects. Not much difference there either. But something interesting comes up: "...the fraction of fathers present in low-income black households in the neighborhood is associated with better outcomes among black boys, but is uncorrelated with the outcomes of black girls and white boys. Black father presence at the neighborhood level strongly predicts black boys’ outcomes irrespective of whether their own father is present or
-not, echoing the findings of Sampson (1987)". So black father presence in the neighborhhod is correlated with better intergenerational mobility for black boys. Just a correlation, not causation, but still something to look at more carefully.
+not, echoing the findings of Sampson (1987)". So black father presence in the neighborhhod is correlated with better intergenerational mobility for black boys. Just a correlation, not causation, but still something to look at more carefully. Figure XII and Figure XIV are particularily striking in this respect. 
 
 > In conclusion, they wrote "We conclude that neighborhoods with low poverty rates, high rates of father presence among blacks, and low levels of racial bias among whites have better outcomes for black boys and smaller racial gaps"
 
