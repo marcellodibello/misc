@@ -30,6 +30,8 @@ RWL=Reach Watch Later
 
 - (RWL) [RootClaim, What is the source of COVID-19](https://www.rootclaim.com/analysis/What-is-the-source-of-COVID-19-SARS-CoV-2)
 
+- (RWL) [A Bayesian analysis concludes beyond a reasonable doubt that SARS-CoV-2 is not a natural zoonosis but instead is laboratory derived](https://zenodo.org/record/4477081#.YHPkCJNKiU1)
+
 ## Eyewitness evidence and Cross (RWL)
 
 - [Cross-Examination	Techniques](https://www.gagnelaw.com/wp-content/uploads/2015/10/Tom-CrossExaminationTechniques.pdf)
