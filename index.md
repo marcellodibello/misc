@@ -61,7 +61,7 @@ viral vaccines)](https://www.ema.europa.eu/en/documents/prac-recommendation/sign
 
 ## Race and inequalities in the US (cont'ed)
 
-- [Race and Cumulative Discrimination in the Prosecution of Criminal Defendants](Race and Cumulative Discrimination in the Prosecution of Criminal Defendants)
+- [Race and Cumulative Discrimination in the Prosecution of Criminal Defendants](https://journals.sagepub.com/doi/abs/10.1177/2153368713500317?journalCode=raja)
 
  > From the abstract: "Most research investigates the effect of a defendant’s race on severity of imposed legal sanction at only one of several decision points that comprise the criminal justice system. This myopic focus on what can be termed episodic discrimination is problematic .... Although initial results show that the effect of race on severity of outcome depends on the specific decision point analyzed, a synthesis of these race
 estimates in a meta-analysis reveals that the odds of receiving a severe sanction is approximately 42% higher for a Black defendant even after controlling for prior record and other legal and extralegal variables. Thus, although the influence of a defendant’s race on the severity of sanction is statistically discernible at just two of the eight criminal justice decision points, a substantive cumulative racial discriminatory effect is
