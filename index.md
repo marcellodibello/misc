@@ -12,7 +12,7 @@ I started with watching a [video](https://www.youtube.com/watch?v=PHkfOuTLufw) b
 
 He does not want to "blame the victim" or deny the role of oppression and discrimination, but he also wants to highlight the role of the family. He claims that the decline of the black family (e.g. more single-parent households) implies economic decline for black people. Loury also blamed welfarist policies that encourage single-parent families.
 
-Next, I started doing research on the black family and the extent to which it accounts for racial disparities. I came acrosso this piece by
+Next, I started doing research on the black family and the extent to which it accounts for racial disparities. I came across this piece:
 
 - [Three Facts About Family Structure and Race: Responding to The New York Times](https://ifstudies.org/blog/three-facts-about-family-structure-and-race-responding-to-the-new-york-times)
 
