@@ -1,5 +1,72 @@
 RWL=Reach Watch Later
 
+# April 11
+
+## Algorithmic Fairness / Data (RWL)
+
+- [The Impossibility of Fairness](https://cacm.acm.org/magazines/2021/4/251365-the-impossibility-of-fairness/fulltext)
+
+- [On the Impossibility of Fairness](https://arxiv.org/abs/1609.07236)
+
+- [Privacy As Protection of the Incomputable Self: From Agnostic to Agonistic Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3081776)
+
+- [Participation is not a Design Fix for Machine Learning](https://arxiv.org/abs/2007.02423)
+
+- [Participatory Problem Formulation for Fairer Machine Learning Through Community Based System Dynamics](https://arxiv.org/abs/2005.07572)
+
+- [William S. Isaac](https://scholar.google.com/citations?user=7WW10GYAAAAJ&hl=en)
+
+- [What Counts as Scientific Data? A Relational Framework](https://www.journals.uchicago.edu/doi/abs/10.1086/684083?mobileUi=0&)
+
+## Social Mobility
+
+- [Sorry conservatives — America's mobility problem is real](https://www.msnbc.com/msnbc/us-social-mobility-problem-msna318261)
+
+## Clarity, Numbers, Quantification
+
+- (RWL) [The	seductions	of	clarity](https://philpapers.org/archive/NGUTSO-2.pdf)
+
+## Covid-19 laboratory source?
+
+- (RWL) [RootClaim, What is the source of COVID-19](https://www.rootclaim.com/analysis/What-is-the-source-of-COVID-19-SARS-CoV-2)
+
+## Eyewitness evidence and Cross (RWL)
+
+- [Cross-Examination	Techniques](https://www.gagnelaw.com/wp-content/uploads/2015/10/Tom-CrossExaminationTechniques.pdf)
+
+- [The Relationship Between Eyewitness Confidence and Identification Accuracy: A New Synthesis](https://journals.sagepub.com/doi/10.1177/1529100616686966)
+
+- [Effects of distance on face recognition: implications for eyewitness identification](https://link.springer.com/article/10.3758/s13423-014-0641-2?shared-article-renderer)
+ 
+- [A stab in the Dark](https://psyarxiv.com/7efpx/)
+
+- [Estimator Variables Can Matter Even for High ConfidenceLineup Identifications Made Under Pristine Conditions](https://www.researchgate.net/profile/Amber-Giacona-2/publication/350358079_Estimator_Variables_Can_Matter_Even_for_High_Confidence_Lineup_Identifications_Made_Under_Pristine_Conditions/links/605ba53c299bf17367686062/Estimator-Variables-Can-Matter-Even-for-High-Confidence-Lineup-Identifications-Made-Under-Pristine-Conditions.pdf)
+
+
+## AstraZeneca Saga (RWL)
+
+- [AstraZeneca: German team discovers thrombosis trigger](https://www.dw.com/en/astrazeneca-german-team-discovers-thrombosis-trigger/a-56925550)
+
+- STIKO [Decision of the STIKO for the recommendation of the COVID-19 vaccination and the corresponding scientific rationale](https://www.rki.de/EN/Content/infections/Vaccination/recommandations/COVID-19-2nd-update.pdf?__blob=publicationFile)
+
+- AIFA Feb 26, 2021 - [Rapporto sulla Sorveglianza dei vaccini COVID-19]()
+
+- EMA March 7, 2021 - [AstraZeneca’s COVID-19 vaccine: EMA finds possible link to very rare cases of unusual blood clots with low blood platelets](https://www.ema.europa.eu/en/news/astrazenecas-covid-19-vaccine-ema-finds-possible-link-very-rare-cases-unusual-blood-clots-low-blood)
+
+- EMA March 24, 2021 - [Signal assessment report on embolic and thrombotic events (SMQ) with COVID-19 Vaccine AstraZeneca (Other
+viral vaccines)](https://www.ema.europa.eu/en/documents/prac-recommendation/signal-assessment-report-embolic-thrombotic-events-smq-covid-19-vaccine-chadox1-s-recombinant-covid_en.pdf)
+
+- EMA March 18, 2021 - [COVID-19 Vaccine AstraZeneca: benefits still outweigh the risks despite possible link to rare blood clots with low blood platelets](https://www.ema.europa.eu/en/news/covid-19-vaccine-astrazeneca-benefits-still-outweigh-risks-despite-possible-link-rare-blood-clots)
+
+
+## Race and inequalities in the US (cont'ed)
+
+- [Race and Cumulative Discrimination in the Prosecution of Criminal Defendants](Race and Cumulative Discrimination in the Prosecution of Criminal Defendants)
+
+ > From the abstract: "Most research investigates the effect of a defendant’s race on severity of imposed legal sanction at only one of several decision points that comprise the criminal justice system. This myopic focus on what can be termed episodic discrimination is problematic .... Although initial results show that the effect of race on severity of outcome depends on the specific decision point analyzed, a synthesis of these race
+estimates in a meta-analysis reveals that the odds of receiving a severe sanction is approximately 42% higher for a Black defendant even after controlling for prior record and other legal and extralegal variables. Thus, although the influence of a defendant’s race on the severity of sanction is statistically discernible at just two of the eight criminal justice decision points, a substantive cumulative racial discriminatory effect is
+evident when all the individual decision points are considered in their totality"
+ 
 # April 1
 
 ## Race and inequalities in the US
