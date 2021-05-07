@@ -6,6 +6,16 @@ RWL=Reach Watch Later
 
 ## George Floyd Trial
 
+[Witness Shawanda Hill Testimony During Derek Chauvin Trial Transcript: Was In George Floyd’s Car](https://www.rev.com/blog/transcripts/witness-shawanda-hill-testimony-during-derek-chauvin-trial-transcript-was-in-george-floyds-car)
+
+Interesting example of cross-examination. Questioning is odd. Witness is visibly frustrated by the artificial, 
+legalistic, repetive method of asking questions. 
+
+[Recordings of George Floyd's trial](https://www.rev.com/blog/transcripts?s=floyd)
+
+
+Library of recordings and trascripts of closing arguments and other key moments of the trial.
+
 ## Policing the police
 
 [Policing the Police: The Impact of "Pattern-or-Practice" Investigations on Crime](https://www.nber.org/system/files/working_papers/w27324/w27324.pdf)
