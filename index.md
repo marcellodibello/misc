@@ -4,24 +4,27 @@ RWL=Reach Watch Later
 
 ## Cross-examining an algorithm / Beyond the Witness
 
-(RWL) [Software on the Witness Stand: What Should It Take for Us to Trust It?](https://www.cs.dartmouth.edu/~sergey/trusting-e-evidence.pdf)
+- (RWL) [Software on the Witness Stand: What Should It Take for Us to Trust It?](https://www.cs.dartmouth.edu/~sergey/trusting-e-evidence.pdf)
 
-(RWL) [Beyond Cross-Examination: A Response to Cheng and Nunn](file:///Users/legetaipollakos/Downloads/97TexLRevOnline193.pdf)
+- (RWL) [Beyond Cross-Examination: A Response to Cheng and Nunn](file:///Users/legetaipollakos/Downloads/97TexLRevOnline193.pdf)
 
 This is a response by Andrea Roth to Cheng who seems to argue we should go beyond cross-examination and the orality of testimonial evidence. 
 See article below.
 
-(RWL) [Beyond the Witness: Bringing a Process Perspective](https://scholarship.law.vanderbilt.edu/faculty-publications/1117/)
+- (RWL) [Beyond the Witness: Bringing a Process Perspective](https://scholarship.law.vanderbilt.edu/faculty-publications/1117/)
 
 ## George Floyd Trial
 
-[Witness Shawanda Hill Testimony During Derek Chauvin Trial Transcript: Was In George Floyd’s Car](https://www.rev.com/blog/transcripts/witness-shawanda-hill-testimony-during-derek-chauvin-trial-transcript-was-in-george-floyds-car)
+- [Witness Shawanda Hill Testimony During Derek Chauvin Trial Transcript: Was In George Floyd’s Car](https://www.rev.com/blog/transcripts/witness-shawanda-hill-testimony-during-derek-chauvin-trial-transcript-was-in-george-floyds-car)
 
 Interesting example of cross-examination. Questioning is odd. Witness is visibly frustrated by the artificial, 
 legalistic, repetive method of asking questions. 
 
-[Recordings of George Floyd's trial](https://www.rev.com/blog/transcripts?s=floyd)
+-  [Recordings of George Floyd's trial](https://www.rev.com/blog/transcripts?s=floyd)
 
+- [So many videos have been presented in the Derek Chauvin murder trial. Will they help jurors reach a verdict?](https://www.usatoday.com/in-depth/news/2021/04/15/derek-chauvin-murder-trial-how-will-jury-weigh-multiple-videos-george-floyd-death/7152715002/)
+
+What's interetsing here is that we have so many videso about what happened. You cannot get more individualized than this. And yet, there still is -- possibly-- some doubt about what actually happened.  A sober reminder that evidence is inherently an intepretative activity. 
 
 Library of recordings and trascripts of closing arguments and other key moments of the trial.
 
