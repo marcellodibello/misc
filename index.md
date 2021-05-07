@@ -1,5 +1,36 @@
 RWL=Reach Watch Later
 
+# May 6
+
+## Cross-examining an algorithm
+
+## George Floyd Trial
+
+## Defunding the police
+
+[Policing the Police: The Impact of "Pattern-or-Practice" Investigations on Crime](https://www.nber.org/system/files/working_papers/w27324/w27324.pdf)
+
+Investigating police departments after a viral incidents of police violence againsr african americans seems to incerae crime by reducing police activity. 
+
+"For investigations that were preceded by a viral incident of deadly force – Baltimore, Chicago, Cincinnati, Riverside and Ferguson – there is a marked increase in both homicide and total crime ...has resulted in 893 more homicides than would have been expected with no investigation and more than 33,472 additional
+felony crimes, relative to synthetic control cities" (p. 4-5).
+
+"Understanding the mechanism through which investigations increase crime is (necessarily) more
+speculative. The leading hypothesis for why investigations increase crime is that they cause an
+abrupt change in the quantity of policing activity. For investigations that were not preceded by
+viral incidents of deadly use of force, investigations had no impact on the quantity of policing" (p. 6)
+
+"Figure 10A displays the number of police-civilian contacts in Chicago by month. The line at 0 is
+the month of the investigation. The month before the investigation there were 39,071 police-civilian
+contacts recorded. In the month after the investigation there were 4,371 police-civilian interactions
+recorded – an 89% decrease" (p. 27)
+
+
+
+## Race and Inequality
+
+
+
 # April 11
 
 ## Algorithmic Fairness / Data (RWL)
