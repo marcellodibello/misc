@@ -2,7 +2,16 @@ RWL=Reach Watch Later
 
 # May 6
 
-## Cross-examining an algorithm
+## Cross-examining an algorithm / Beyond the Witness
+
+(RWL) [Software on the Witness Stand: What Should It Take for Us to Trust It?](https://www.cs.dartmouth.edu/~sergey/trusting-e-evidence.pdf)
+
+(RWL) [Beyond Cross-Examination: A Response to Cheng and Nunn](file:///Users/legetaipollakos/Downloads/97TexLRevOnline193.pdf)
+
+This is a response by Andrea Roth to Cheng who seems to argue we should go beyond cross-examination and the orality of testimonial evidence. 
+See article below.
+
+(RWL) [Beyond the Witness: Bringing a Process Perspective](https://scholarship.law.vanderbilt.edu/faculty-publications/1117/)
 
 ## George Floyd Trial
 
