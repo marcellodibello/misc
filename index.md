@@ -8,7 +8,7 @@ RWL=Reach Watch Later
 
 - (RWL) [Beyond Cross-Examination: A Response to Cheng and Nunn](file:///Users/legetaipollakos/Downloads/97TexLRevOnline193.pdf)
 
-This is a response by Andrea Roth to Cheng who seems to argue we should go beyond cross-examination and the orality of testimonial evidence. 
+> This is a response by Andrea Roth to Cheng who seems to argue we should go beyond cross-examination and the orality of testimonial evidence. 
 See article below.
 
 - (RWL) [Beyond the Witness: Bringing a Process Perspective](https://scholarship.law.vanderbilt.edu/faculty-publications/1117/)
@@ -17,16 +17,16 @@ See article below.
 
 - [Witness Shawanda Hill Testimony During Derek Chauvin Trial Transcript: Was In George Floyd’s Car](https://www.rev.com/blog/transcripts/witness-shawanda-hill-testimony-during-derek-chauvin-trial-transcript-was-in-george-floyds-car)
 
-Interesting example of cross-examination. Questioning is odd. Witness is visibly frustrated by the artificial, 
+> Interesting example of cross-examination. Questioning is odd. Witness is visibly frustrated by the artificial, 
 legalistic, repetive method of asking questions. 
 
 -  [Recordings of George Floyd's trial](https://www.rev.com/blog/transcripts?s=floyd)
 
 - [So many videos have been presented in the Derek Chauvin murder trial. Will they help jurors reach a verdict?](https://www.usatoday.com/in-depth/news/2021/04/15/derek-chauvin-murder-trial-how-will-jury-weigh-multiple-videos-george-floyd-death/7152715002/)
 
-What's interetsing here is that we have so many videso about what happened. You cannot get more individualized than this. And yet, there still is -- possibly-- some doubt about what actually happened.  A sober reminder that evidence is inherently an intepretative activity. 
+> We have so many videso about what happened. You cannot get more individualized than this. And yet, there still is -- possibly-- some doubt about what actually happened.  A sober reminder that evidence is inherently an intepretative activity. 
 
-Library of recordings and trascripts of closing arguments and other key moments of the trial.
+- [Recordings and trascripts of key moments of the trial](https://www.rev.com/blog/transcripts?s=floyd)
 
 ## Policing the police
 
@@ -48,10 +48,23 @@ contacts recorded. In the month after the investigation there were 4,371 police-
 recorded – an 89% decrease" (p. 27)
 
 
+## Race, Education and Inequality
 
-## Race and Inequality
+- [Roland Fryer: Racial Inequality in the 21st Century: The Declining Significance of Discrimination](https://www.youtube.com/watch?v=dnOi0w8rgYs)
 
+> Very detailed talk about Fryer's research on education an inequality. It draws on many papers he wrote on the K-12 education. 
+Perhaps the key message is this. The black/white achievement gap can be closed with schools 
+that are rigourous, demanding, responsive to evidence about learning, with a close student/teachers interactions. 
+This seems so simple that one wonder, is that all we need? Fryer's claims are very carefully researched, they are data-driven. 
+Very impressive scholarship. See, for example, findings in the paper below.
 
+- [Injecting charter school best practices into traditional public schools: Evidence from field experiments](https://edlabs.harvard.edu/files/edlabs/files/pdf_injecting_charter_school_best_practices_01.pdf)
+
+> From the abstract: "This study examines the impact on student achievement of implementinga bundle of best practices from high-performing charter schools into lowperforming, traditional public schools in Houston, Texas, using a school-level randomized field experiment and quasi-experimental comparisons. The five
+practices in the bundle are increased instructional time, more effective teachers and administrators, high-dosage tutoring, data-driven instruction, and a culture of high expectations. The findings show that injecting best practices from charter schools into traditional Houston public schools significantly increases
+student math achievement in treated elementary and secondary schools—by 0.15 to 0.18 standard deviations a year—and has little effect on reading achievement"
+
+- [Fryer's publications](https://scholar.google.com/citations?user=ZWjtqZgAAAAJ&hl=en)
 
 # April 11
 
