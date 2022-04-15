@@ -27,4 +27,15 @@ RWL=Reach Watch Later
      > chances to join NATO and the **timeframe for this accession, if it is possible**
  
 
+- September 2014: Minsk 
 
+- 27 May 1997: [NATO Russia Founding Act](https://www.nato.int/cps/cn/natohq/official_texts_25468.htm)
+     > Russia will establish a Mission to NATO headed by a representative at the rank of Ambassador. 
+     > A senior military representative and his staff will be part of this Mission for the purposes 
+     > of the military cooperation. NATO retains the possibility of establishing an appropriate presence in 
+     > Moscow, the modalities of which remain to be determined.
+
+- 1990: Western's leaders multiple assurances to Russia that NATO would not expand Eastwards 
+     -   [video](https://www.youtube.com/watch?v=4sKI3XvvCUU)
+     -   [documents](https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early)
+     -   [analysis](http://www.sscnet.ucla.edu/polisci/faculty/trachtenberg/cv/1990.pdf)
