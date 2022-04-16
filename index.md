@@ -26,7 +26,18 @@ RWL=Reach Watch Later
      > Zelensky: And I would like to discuss with President Biden here his vision, his government’s vision of Ukraine’s 
      > chances to join NATO and the **timeframe for this accession, if it is possible**
 
-- May 2019 - Proposed bill - [U.S.—Ukraine Security Cooperation Enhancement Act](U.S.—Ukraine Security Cooperation Enhancement Act)
+- June/July 2021: Huge Nato military operation in Ukraine [Sea Breeze 2021](https://www.navy.mil/Press-Office/News-Stories/article/2664699/us-sixth-fleet-announces-sea-breeze-2021-participation/)
+     
+     > This year’s iteration has the largest number of participating nations in the exercise’s history with 32 countries 
+     > from six continents providing 5,000 troops, 32 ships, 40 aircraft, and 18 special operations and dive teams 
+     > scheduled to participate.
+
+     > Ukraine and U.S. are cohosting the exercise in the Black Sea with participation and support coming from 32 countries 
+     > in total: Albania, Australia, Brazil, Bulgaria, Canada, Denmark, Egypt, Estonia, France, Georgia, Greece, Israel, Italy, 
+     > Japan, Latvia, Lithuania, Moldova, Morocco, Norway, Pakistan, Poland, Romania, Senegal, Spain, South Korea, Sweden, 
+     > Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, and the United States.
+
+- May 2019 - Proposed bill - [U.S.—Ukraine Security Cooperation Enhancement Act](https://www.congress.gov/bill/116th-congress/house-bill/3047/text?r=1)
 
      > During the period beginning on the date of the enactment of this Act and ending **on the date on which Ukraine accedes 
      > to the North Atlantic Treaty Organization** as referenced in the 2008 Bucharest Summit Declaration, the President may determine that, 
@@ -37,7 +48,18 @@ RWL=Reach Watch Later
 
 - September 2014: Minsk 
 
-- [American Servicemembers’ Protection Act]
+- April 2008, [Bucharest Summit Declaration](https://www.nato.int/cps/en/natolive/official_texts_8443.htm)
+
+     > NATO welcomes Ukraine’s and Georgia’s Euro-Atlantic aspirations for membership in NATO.  **We agreed today that these 
+     > countries will become members of NATO**.  Both nations have made valuable contributions to Alliance operations.  
+     > We welcome the democratic reforms in Ukraine and Georgia and look forward to free and fair parliamentary elections in Georgia in May. [MAP]         
+     > (https://www.nato.int/cps/en/natolive/topics_37356.htm) is the next step for Ukraine and Georgia on their direct way to membership.  
+     > Today we make clear that we support these countries’ applications for MAP.  Therefore we will now begin a period of 
+     > intensive engagement with both at a high political level to address the questions still outstanding pertaining to their 
+     > MAP applications.  We have asked Foreign Ministers to make a first assessment of progress at their December 2008 meeting.  
+     > Foreign Ministers have the authority to decide on the MAP applications of Ukraine and Georgia.
+
+- August, 2002: [American Servicemembers’ Protection Act](https://law.stanford.edu/publications/the-american-servicemembers-protection-act-pathways-to-and-constraints-on-u-s-cooperation-with-the-international-criminal-court/)
      > In response to the establishment of the International Criminal Court (“the ICC”), in 2002 the U.S. Congress passed 
      > the American Servicemembers’ Protection Act (“ASPA”). Congress feared that the ICC could be used to harass and 
      > detain American soldiers on foreign soil for purely political reasons. ASPA therefore sharply limited the U.S. government’s 
