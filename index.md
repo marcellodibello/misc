@@ -26,6 +26,16 @@ RWL=Reach Watch Later
      > Zelensky: And I would like to discuss with President Biden here his vision, his government’s vision of Ukraine’s 
      > chances to join NATO and the **timeframe for this accession, if it is possible**
 
+- December 17, 2021: [Agreement on measures to ensure the security of The Russian Federation and member States of the North Atlantic Treaty Organization](https://www.mid.ru/ru/detail-material-page/1790803/?lang=en)
+     Some of the key requests from Russia in the draft agreemwnt between Russia and NATO:
+
+     > Article 5: The Parties shall not deploy land-based intermediate- and short-range missiles in areas 
+     > allowing them to reach the territory of the other Parties.
+     > Article 6: All member States of the North Atlantic Treaty Organization commit themselves to **refrain 
+     > from any further enlargement of NATO**, including the accession of Ukraine as well as other States.
+     > Article 7: The Parties that are member States of the North Atlantic Treaty Organization shall **not conduct any 
+     > military activity on the territory of Ukraine** as well as other States in the Eastern Europe, in the South Caucasus and in Central Asia.
+
 - June/July 2021: Huge Nato military operation in Ukraine [Sea Breeze 2021](https://www.navy.mil/Press-Office/News-Stories/article/2664699/us-sixth-fleet-announces-sea-breeze-2021-participation/)
      
      > This year’s iteration has the largest number of participating nations in the exercise’s history with 32 countries 
