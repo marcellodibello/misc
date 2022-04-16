@@ -17,14 +17,9 @@ RWL=Reach Watch Later
 
      > The United States welcomes Ukraine’s continued progress on defense and defense industry reforms, 
      > including the adoption of a new defense industry strategy.  We intend to continue our robust 
-     > training and exercise program in keeping with Ukraine’s status as a **NATO Enhanced Opportunities Partner**.  
+     > training and exercise program in keeping with Ukraine’s status as a **NATO Enhanced Opportunities Partner**.
 
-- September 1, 2021: [Remarks by President Biden and President Zelenskyy of Ukraine Before Bilateral Meeting](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/01/remarks-by-president-biden-and-president-zelenskyy-of-ukraine-before-bilateral-meeting/)
-     > Biden: And the United States remains firmly committed to Ukraine’s sovereignty and territorial integrity 
-     > in the face of Russian aggression **and — and — our support for Ukraine’s Euro-Atlantic aspirations**.
-
-     > Zelensky: And I would like to discuss with President Biden here his vision, his government’s vision of Ukraine’s 
-     > chances to join NATO and the **timeframe for this accession, if it is possible**
+- December 17, 2021: USA response to Russia's requests (see below): [unacceptable](https://www.rferl.org/a/nato-russia-security-guarantees/31614168.html) 
 
 - December 17, 2021: [Agreement on measures to ensure the security of The Russian Federation and member States of the North Atlantic Treaty Organization](https://www.mid.ru/ru/detail-material-page/1790803/?lang=en)
      Some of the key requests from Russia in the draft agreemwnt between Russia and NATO:
@@ -35,6 +30,14 @@ RWL=Reach Watch Later
      > from any further enlargement of NATO**, including the accession of Ukraine as well as other States.
      > Article 7: The Parties that are member States of the North Atlantic Treaty Organization shall **not conduct any 
      > military activity on the territory of Ukraine** as well as other States in the Eastern Europe, in the South Caucasus and in Central Asia.
+
+
+- September 1, 2021: [Remarks by President Biden and President Zelenskyy of Ukraine Before Bilateral Meeting](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/01/remarks-by-president-biden-and-president-zelenskyy-of-ukraine-before-bilateral-meeting/)
+     > Biden: And the United States remains firmly committed to Ukraine’s sovereignty and territorial integrity 
+     > in the face of Russian aggression **and — and — our support for Ukraine’s Euro-Atlantic aspirations**.
+
+     > Zelensky: And I would like to discuss with President Biden here his vision, his government’s vision of Ukraine’s 
+     > chances to join NATO and the **timeframe for this accession, if it is possible**
 
 - June/July 2021: Huge Nato military operation in Ukraine [Sea Breeze 2021](https://www.navy.mil/Press-Office/News-Stories/article/2664699/us-sixth-fleet-announces-sea-breeze-2021-participation/)
      
