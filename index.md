@@ -25,9 +25,33 @@ RWL=Reach Watch Later
 
      > Zelensky: And I would like to discuss with President Biden here his vision, his government’s vision of Ukraine’s 
      > chances to join NATO and the **timeframe for this accession, if it is possible**
- 
+
+- May 2019 - Proposed bill - [U.S.—Ukraine Security Cooperation Enhancement Act](U.S.—Ukraine Security Cooperation Enhancement Act)
+
+     > During the period beginning on the date of the enactment of this Act and ending **on the date on which Ukraine accedes 
+     > to the North Atlantic Treaty Organization** as referenced in the 2008 Bucharest Summit Declaration, the President may determine that, 
+     > for purposes of the transfer or possible transfer of defense articles or defense services under the Arms Export Control Act 
+     > (22 U.S.C. 2751 et seq.), the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), or any other provision of law, 
+     > **Ukraine shall be treated as a major non-NATO ally**, as defined in section 644(q) of the Foreign Assistance 
+     > Act of 1961 (22 U.S.C. 2403 (q)).
 
 - September 2014: Minsk 
+
+- [American Servicemembers’ Protection Act]
+     > In response to the establishment of the International Criminal Court (“the ICC”), in 2002 the U.S. Congress passed 
+     > the American Servicemembers’ Protection Act (“ASPA”). Congress feared that the ICC could be used to harass and 
+     > detain American soldiers on foreign soil for purely political reasons. ASPA therefore sharply limited the U.S. government’s 
+     > ability to cooperate with the ICC in cases that are contrary to the national interest.
+
+     > The final section of ASPA, 22 U.S.C. §7433, clarifies that nothing in ASPA “shall prohibit the United States from 
+     > rendering assistance to international efforts to bring to justice . . . foreign nationals accused of genocide, war crimes and 
+     > crimes against humanity.” .... if five requirements are met:
+     > 1. The United States must be “rendering assistance,”
+     > 2. The assistance must be provided to “international efforts,”
+     > 3. These international efforts must be aimed at “bring[ing] to justice” certain individuals,
+     > 4. The target of the international efforts must a “foreign national[],” and
+     > 5. The foreign national must be accused of “genocide, war crimes or crimes against humanity.”
+
 
 - 27 May 1997: [NATO Russia Founding Act](https://www.nato.int/cps/cn/natohq/official_texts_25468.htm)
      > Russia will establish a Mission to NATO headed by a representative at the rank of Ambassador. 
