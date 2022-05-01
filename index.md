@@ -102,7 +102,7 @@ RWL=Reach Watch Later
 - June 1992: Yeltsin visits The United States and gives a [speech](https://www.youtube.com/watch?v=HwemQR59wbw) to a plentary session 
  of  US congress. He hoped for trust, cooperation and peace between the two countries. 
 
-- March 7, 1992: NY Time leaks the [Defense Planning Guidance](https://nsarchive2.gwu.edu/nukevault/ebb245/doc03_full.pdf) for the 1994–99 fiscal years (dated February 18, 1992)  by US Secretary of Defense, Paul Wolfowitz and his deputy Scooter Libby. The document was not meant for the public. It outlined an US "imperialist" foreign policy. A redacted and  softened version was later published in April 1992. Some excerpts from teh february version:
+- March 7, 1992: NY Time leaks the [Defense Planning Guidance](https://nsarchive2.gwu.edu/nukevault/ebb245/doc03_full.pdf) for the 1994–99 fiscal years (dated February 18, 1992)  by US Secretary of Defense, Paul Wolfowitz and his deputy Scooter Libby. The document was not meant for the public. It asserted that the US should remain the only world power and prevent any other country from becoming even a regional power. A redacted and  softened version was later published in April 1992. Some excerpts from teh February version:
 
     > B. defense Strategy Objectives (p. 2): The U.S. must show the leadership necessary to establish and protect 
     > a new order that holds the promise of convincing potential competitors that
@@ -121,6 +121,11 @@ RWL=Reach Watch Later
 
 
 - December 8 1991: Ledears of Russia, Yeltsin, as well as leaders of Ukraine and Belarus met in Belavezhskaya Pushcha in  Belarus and signed the Belavezha Accords which effectively disbanaded the Soviet Uninion lead by Gorbachev. Sooon after these accords were ratified  by the national assemblies of Russia, Ukraine and Belarus. 
+
+- February 9, 1990: Baker's [assurance](https://nsarchive.gwu.edu/document/16117-document-06-record-conversation-between) to Gorbachev that NATO will not extend eastwards. Key excerpts of the conversation, now public in the National Archives:
+     > Baker: I want to ask you a question. ....Supposing unification takes place, what would you prefer: a united Germany outside of NATO, absolutely independent and without American troops; or a united Germany keeping its connections with NATO, but with the guarantee that NATO’s jurisdiction or troops will not spread east of the present boundary?
+     >  Gorbachev: We will think everything over. We intend to discuss all these questions in depth at the leadership level. It goes without saying that a broadening of the NATO zone is not acceptable. 
+     >  Baker: We agree with that.
 
 - 1990: Western's leaders multiple assurances to teh Soviet Union that NATO would not expand Eastwards 
      -   [video](https://www.youtube.com/watch?v=4sKI3XvvCUU)
