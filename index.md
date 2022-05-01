@@ -61,6 +61,8 @@ RWL=Reach Watch Later
 
 - September 2014: Minsk 
 
+- April 1, 2009: Albania joins NATO
+
 - April 2008, [Bucharest Summit Declaration](https://www.nato.int/cps/en/natolive/official_texts_8443.htm)
 
      > NATO welcomes Ukraine’s and Georgia’s Euro-Atlantic aspirations for membership in NATO.  **We agreed today that these 
@@ -71,6 +73,8 @@ RWL=Reach Watch Later
      > intensive engagement with both at a high political level to address the questions still outstanding pertaining to their 
      > MAP applications.  We have asked Foreign Ministers to make a first assessment of progress at their December 2008 meeting.  
      > Foreign Ministers have the authority to decide on the MAP applications of Ukraine and Georgia.
+
+- March 2004: Bulgaria, Estonia, Latvia, Lithuania, Romania, and Slovakia joined in March 2004.
 
 - August, 2002: [American Servicemembers’ Protection Act](https://law.stanford.edu/publications/the-american-servicemembers-protection-act-pathways-to-and-constraints-on-u-s-cooperation-with-the-international-criminal-court/)
      > In response to the establishment of the International Criminal Court (“the ICC”), in 2002 the U.S. Congress passed 
@@ -87,6 +91,7 @@ RWL=Reach Watch Later
      > 4. The target of the international efforts must a “foreign national[],” and
      > 5. The foreign national must be accused of “genocide, war crimes or crimes against humanity.”
 
+- March 12 1999: the Czech Republic, Hungary, and Poland join NATO.
 
 - 27 May 1997: [NATO Russia Founding Act](https://www.nato.int/cps/cn/natohq/official_texts_25468.htm)
      > Russia will establish a Mission to NATO headed by a representative at the rank of Ambassador. 
@@ -94,7 +99,31 @@ RWL=Reach Watch Later
      > of the military cooperation. NATO retains the possibility of establishing an appropriate presence in 
      > Moscow, the modalities of which remain to be determined.
 
-- 1990: Western's leaders multiple assurances to Russia that NATO would not expand Eastwards 
+- June 1992: Yeltsin visits The United States and gives a [speech](https://www.youtube.com/watch?v=HwemQR59wbw) to plentary session 
+ of the US congress. He hoped for trust, cooperation and peace between the two countries. 
+
+- March 7, 1992: NY Time leaks the Defense Planning Guidance for the 1994–99 fiscal years (dated February 18, 1992)  by US Secretary of Defense, Paul Wolfowitz and his deputy Scooter Libby. The document was not meant for the public. It outlined an US "imperialist" foreign policy. A redacted and  softened version was later published in April 1992. Some excerpts from teh february version:
+
+    > B. defense Strategy Objectives (p. 2): The U.S. must show the leadership necessary to establish and protect 
+    > a new order that holds the promise of convincing potential competitors that
+    > they need not aspire to a greater role or pursue a more aggressive posture to protect their legitimate interests. In non-defense areas, we must 
+    > account sufficiently for the interests of the advanced industrial nations to discourage them from challenging our leadership or seeking to overturn 
+    > the established political and economic order. We must maintain the mechanism for deterring potential competitors 
+    > from even aspiring to a larger regional or global role.
+
+    > We continue to recognize that collectively the conventional forces of the states formerly comprising the Soviet Union 
+    > retain the most military potential in all of Eurasia; and we do not dismiss the risks to stability in Europe from a 
+    > nationalist backlash in Russia or efforts to reincorporate into Russia the newly independent republics of Ukraine, Belarus, 
+    > and possibly others... We must, however, be mindful that democratic change in Russia is not irreversible, and that despite 
+    > its current travails, Russia will remain the strongest military power in Eurasia and the only power in the world with the 
+    > capability of destroying the United States.
+
+
+
+- December 8 1991: Ledears of Russia, Yeltsin, as well as leaders of Ukraine and Belarus met in Belavezhskaya Pushcha in  Belarus and signed the Belavezha Accords which effectively disbanaded the Soviet Uninion lead by Gorbachev. Sooon after these accords were ratified  by the national assemblies of Russia, Ukraine and Belarus. 
+
+- 1990: Western's leaders multiple assurances to teh Soviet Union that NATO would not expand Eastwards 
      -   [video](https://www.youtube.com/watch?v=4sKI3XvvCUU)
      -   [documents](https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early)
      -   [analysis](http://www.sscnet.ucla.edu/polisci/faculty/trachtenberg/cv/1990.pdf)
+
