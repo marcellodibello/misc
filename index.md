@@ -93,7 +93,15 @@ RWL=Reach Watch Later
 
 - March 12 1999: the Czech Republic, Hungary, and Poland join NATO.
 
-- 27 May 1997: [NATO Russia Founding Act](https://www.nato.int/cps/cn/natohq/official_texts_25468.htm)
+- July 7, 1997: Diplomat-historian George F. Kennan [against](https://www.latimes.com/archives/la-xpm-1997-jul-07-me-10464-story.html) Nato expansion
+
+     > “Expanding NATO would be the most fateful error of American policy in the post cold-war era. Such a decision may be expected . . . to impel Russian foreign policy in directions decidedly not to our liking.” 
+
+- June 26, 1997: [Letter](https://www.armscontrol.org/act/1997-06/arms-control-today/opposition-nato-expansion) against NATO expansion, signed by 50 between foreign policy experts, former senators, retired military officers, diplomats and academics.
+     
+     > In Russia, NATO expansion, which continues to be opposed across the entire political spectrum, will strengthen the nondemocratic opposition, undercut those who favor reform and cooperation with the West, bring the Russians to question the entire post-Cold War settlement, and galvanize resistance in the Duma to the START II and III treaties; In Europe, NATO expansion will draw a new line of division between the "ins" and the "outs," foster instability, and ultimately diminish the sense of security of those countries which are not included
+ 
+- May 27, 1997: [NATO Russia Founding Act](https://www.nato.int/cps/cn/natohq/official_texts_25468.htm)
 
      > NATO and Russia do not consider each other as adversaries. They share the goal of overcoming the vestiges of earlier confrontation and competition and of strengthening **mutual trust and cooperation**. The present Act reaffirms the determination of NATO and Russia to give concrete substance to their shared commitment to build a stable, peaceful and undivided Europe, whole and free, to the benefit of all its peoples.
 
