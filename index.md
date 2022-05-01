@@ -99,10 +99,10 @@ RWL=Reach Watch Later
      > of the military cooperation. NATO retains the possibility of establishing an appropriate presence in 
      > Moscow, the modalities of which remain to be determined.
 
-- June 1992: Yeltsin visits The United States and gives a [speech](https://www.youtube.com/watch?v=HwemQR59wbw) to plentary session 
- of the US congress. He hoped for trust, cooperation and peace between the two countries. 
+- June 1992: Yeltsin visits The United States and gives a [speech](https://www.youtube.com/watch?v=HwemQR59wbw) to a plentary session 
+ of  US congress. He hoped for trust, cooperation and peace between the two countries. 
 
-- March 7, 1992: NY Time leaks the Defense Planning Guidance for the 1994–99 fiscal years (dated February 18, 1992)  by US Secretary of Defense, Paul Wolfowitz and his deputy Scooter Libby. The document was not meant for the public. It outlined an US "imperialist" foreign policy. A redacted and  softened version was later published in April 1992. Some excerpts from teh february version:
+- March 7, 1992: NY Time leaks the [Defense Planning Guidance](https://nsarchive2.gwu.edu/nukevault/ebb245/doc03_full.pdf) for the 1994–99 fiscal years (dated February 18, 1992)  by US Secretary of Defense, Paul Wolfowitz and his deputy Scooter Libby. The document was not meant for the public. It outlined an US "imperialist" foreign policy. A redacted and  softened version was later published in April 1992. Some excerpts from teh february version:
 
     > B. defense Strategy Objectives (p. 2): The U.S. must show the leadership necessary to establish and protect 
     > a new order that holds the promise of convincing potential competitors that
