@@ -123,8 +123,11 @@ RWL=Reach Watch Later
 - December 8 1991: Ledears of Russia, Yeltsin, as well as leaders of Ukraine and Belarus met in Belavezhskaya Pushcha in  Belarus and signed the Belavezha Accords which effectively disbanaded the Soviet Uninion lead by Gorbachev. Sooon after these accords were ratified  by the national assemblies of Russia, Ukraine and Belarus. 
 
 - February 9, 1990: Baker's [assurance](https://nsarchive.gwu.edu/document/16117-document-06-record-conversation-between) to Gorbachev that NATO will not extend eastwards. Key excerpts of the conversation, now public in the National Archives:
-     > Baker: I want to ask you a question. ....Supposing unification takes place, what would you prefer: a united Germany outside of NATO, absolutely independent and without American troops; or a united Germany keeping its connections with NATO, but with the guarantee that NATO’s jurisdiction or troops will not spread east of the present boundary?
+    
+    > Baker: I want to ask you a question. ....Supposing unification takes place, what would you prefer: a united Germany outside of NATO, absolutely independent and without American troops; or a united Germany keeping its connections with NATO, but with the guarantee that NATO’s jurisdiction or troops will not spread east of the present boundary?
+     
      >  Gorbachev: We will think everything over. We intend to discuss all these questions in depth at the leadership level. It goes without saying that a broadening of the NATO zone is not acceptable. 
+     
      >  Baker: We agree with that.
 
 - 1990: Western's leaders multiple assurances to teh Soviet Union that NATO would not expand Eastwards 
