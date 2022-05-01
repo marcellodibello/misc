@@ -4,6 +4,18 @@ RWL=Reach Watch Later
 
 ## Russia chronology
 
+- December 17, 2021: USA response to Russia's requests (see below): [unacceptable](https://www.rferl.org/a/nato-russia-security-guarantees/31614168.html) 
+
+- December 17, 2021: [Agreement on measures to ensure the security of The Russian Federation and member States of the North Atlantic Treaty Organization](https://www.mid.ru/ru/detail-material-page/1790803/?lang=en)
+     Some of the key requests from Russia in the draft agreemwnt between Russia and NATO:
+
+     > Article 5: The Parties shall not deploy land-based intermediate- and short-range missiles in areas 
+     > allowing them to reach the territory of the other Parties.
+     > Article 6: All member States of the North Atlantic Treaty Organization commit themselves to **refrain 
+     > from any further enlargement of NATO**, including the accession of Ukraine as well as other States.
+     > Article 7: The Parties that are member States of the North Atlantic Treaty Organization shall **not conduct any 
+     > military activity on the territory of Ukraine** as well as other States in the Eastern Europe, in the South Caucasus and in Central Asia.
+
 - September 1, 2021: [Joint Statement on the U.S.-Ukraine Strategic Partnership](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/joint-statement-on-the-u-s-ukraine-strategic-partnership/)
 
      > As the United States and Allies reaffirmed in the June 2021 NATO Summit Communique, 
@@ -18,18 +30,6 @@ RWL=Reach Watch Later
      > The United States welcomes Ukraine’s continued progress on defense and defense industry reforms, 
      > including the adoption of a new defense industry strategy.  We intend to continue our robust 
      > training and exercise program in keeping with Ukraine’s status as a **NATO Enhanced Opportunities Partner**.
-
-- December 17, 2021: USA response to Russia's requests (see below): [unacceptable](https://www.rferl.org/a/nato-russia-security-guarantees/31614168.html) 
-
-- December 17, 2021: [Agreement on measures to ensure the security of The Russian Federation and member States of the North Atlantic Treaty Organization](https://www.mid.ru/ru/detail-material-page/1790803/?lang=en)
-     Some of the key requests from Russia in the draft agreemwnt between Russia and NATO:
-
-     > Article 5: The Parties shall not deploy land-based intermediate- and short-range missiles in areas 
-     > allowing them to reach the territory of the other Parties.
-     > Article 6: All member States of the North Atlantic Treaty Organization commit themselves to **refrain 
-     > from any further enlargement of NATO**, including the accession of Ukraine as well as other States.
-     > Article 7: The Parties that are member States of the North Atlantic Treaty Organization shall **not conduct any 
-     > military activity on the territory of Ukraine** as well as other States in the Eastern Europe, in the South Caucasus and in Central Asia.
 
 
 - September 1, 2021: [Remarks by President Biden and President Zelenskyy of Ukraine Before Bilateral Meeting](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/01/remarks-by-president-biden-and-president-zelenskyy-of-ukraine-before-bilateral-meeting/)
