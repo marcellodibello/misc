@@ -94,7 +94,14 @@ RWL=Reach Watch Later
 - March 12 1999: the Czech Republic, Hungary, and Poland join NATO.
 
 - 27 May 1997: [NATO Russia Founding Act](https://www.nato.int/cps/cn/natohq/official_texts_25468.htm)
-     > Russia will establish a Mission to NATO headed by a representative at the rank of Ambassador. 
+
+     > NATO and Russia do not consider each other as adversaries. They share the goal of overcoming the vestiges of earlier confrontation and competition and of strengthening mutual trust and cooperation. The present Act reaffirms the determination of NATO and Russia to give concrete substance to their shared commitment to build a stable, peaceful and undivided Europe, whole and free, to the benefit of all its peoples.
+
+     > NATO and Russia will base their relations on a shared commitment to the following principles: ...refraining from the threat or use of force against each other as well as against any other state, its sovereignty, territorial integrity or political independence in any manner inconsistent with the United Nations Charter and with the Declaration of Principles Guiding Relations Between Participating States contained in the Helsinki Final Act;
+
+     > respect for sovereignty, independence and territorial integrity of all states and their inherent right to choose the means to ensure their own security, the inviolability of borders and peoples' right of self-determination as enshrined in the Helsinki Final Act and other OSCE documents;
+    
+    > Russia will establish a Mission to NATO headed by a representative at the rank of Ambassador. 
      > A senior military representative and his staff will be part of this Mission for the purposes 
      > of the military cooperation. NATO retains the possibility of establishing an appropriate presence in 
      > Moscow, the modalities of which remain to be determined.
