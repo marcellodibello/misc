@@ -91,7 +91,7 @@ RWL=Reach Watch Later
      > 4. The target of the international efforts must a “foreign national[],” and
      > 5. The foreign national must be accused of “genocide, war crimes or crimes against humanity.”
      
-- April Yeltsin is extremely upset about NATO military involment in the Serb province of Kosovo. Exrcepts from a [CNN piece](http://www.cnn.com/WORLD/europe/9904/09/kosovo.diplomacy.02/)
+- April 9, 1999: Yeltsin is extremely upset about NATO military involment in the Serb province of Kosovo. Exrcepts from a [CNN piece](http://www.cnn.com/WORLD/europe/9904/09/kosovo.diplomacy.02/)
      > "I told NATO, the Americans, the Germans: Don't push us towards military action. 
      > Otherwise, there will be a European war for sure and possibly world war"
 
@@ -100,7 +100,7 @@ RWL=Reach Watch Later
     
     > "I repeat again: Russia will not get involved if the Americans do not push us," he said.
 
-- March 24, 199: NATO bombs Yogoslavia without UN agreement
+- March 24, 1999: NATO bombs Yogoslavia without UN agreement
 
 - March 12 1999: the Czech Republic, Hungary, and Poland join NATO.
 
