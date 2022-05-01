@@ -74,6 +74,10 @@ RWL=Reach Watch Later
      > MAP applications.  We have asked Foreign Ministers to make a first assessment of progress at their December 2008 meeting.  
      > Foreign Ministers have the authority to decide on the MAP applications of Ukraine and Georgia.
 
+- February 10, 2007: Putin [speech](https://www.youtube.com/watch?v=hQ58Yv6kP44) at G-20 in Munich.
+
+     > " I consider that the unipolar model is not only unacceptable, but also impossible  in today's world."
+
 - March 2004: Bulgaria, Estonia, Latvia, Lithuania, Romania, and Slovakia joined in March 2004.
 
 - August, 2002: [American Servicemembers’ Protection Act](https://law.stanford.edu/publications/the-american-servicemembers-protection-act-pathways-to-and-constraints-on-u-s-cooperation-with-the-international-criminal-court/)
@@ -91,6 +95,11 @@ RWL=Reach Watch Later
      > 4. The target of the international efforts must a “foreign national[],” and
      > 5. The foreign national must be accused of “genocide, war crimes or crimes against humanity.”
      
+- July 18, 2001: Putin [asks](https://www.theatlantic.com/politics/archive/2001/08/putin-is-right-russia-belongs-in-nato/377557/) that Russian join Nato, The Bush administration does not respond. 
+
+     > Putin said: "The simplest [solution] is to dissolve NATO, but this is not on the agenda. The second possible option is to 
+     > include Russia in NATO. This also creates a single defense and security space"
+
 - April 9, 1999: Yeltsin is extremely upset about NATO military involment in the Serb province of Kosovo. Exrcepts from a [CNN piece](http://www.cnn.com/WORLD/europe/9904/09/kosovo.diplomacy.02/)
      > "I told NATO, the Americans, the Germans: Don't push us towards military action. 
      > Otherwise, there will be a European war for sure and possibly world war"
