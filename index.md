@@ -67,8 +67,8 @@ RWL=Reach Watch Later
 
      > NATO welcomes Ukraine’s and Georgia’s Euro-Atlantic aspirations for membership in NATO.  **We agreed today that these 
      > countries will become members of NATO**.  Both nations have made valuable contributions to Alliance operations.  
-     > We welcome the democratic reforms in Ukraine and Georgia and look forward to free and fair parliamentary elections in Georgia in May. [MAP]         
-     > (https://www.nato.int/cps/en/natolive/topics_37356.htm) is the next step for Ukraine and Georgia on their direct way to membership.  
+     > We welcome the democratic reforms in Ukraine and Georgia and look forward to free and fair parliamentary elections in Georgia in May. 
+     > [MAP](https://www.nato.int/cps/en/natolive/topics_37356.htm) is the next step for Ukraine and Georgia on their direct way to membership.  
      > Today we make clear that we support these countries’ applications for MAP.  Therefore we will now begin a period of 
      > intensive engagement with both at a high political level to address the questions still outstanding pertaining to their 
      > MAP applications.  We have asked Foreign Ministers to make a first assessment of progress at their December 2008 meeting.  
