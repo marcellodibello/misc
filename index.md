@@ -78,6 +78,15 @@ RWL=Reach Watch Later
 
      > " I consider that the unipolar model is not only unacceptable, but also impossible  in today's world."
 
+     > 18:34: "The so-called flexible frontline American bases appear in Bulgaria and Romania with up to 5,000 men in each. It turns out
+     > that NATO has put frontline forces on our borders, and we continue to strictly fullfill the treaty obligations and do not react to these
+     > actions at all. I think it is obvious that NATO expansion does not have any relation with the modernization of the alliance itsel or with
+     > ensuring security in Europe. On the contrary, it represents a serious provocation that reduces the level of mutual trust. And we have the 
+     > right to ask: against whom is this expansion intended? And what happened to the assurances Our Western partners made after the dissolution 
+     > of the Warsaw pact? Where are those declarations today?" 
+
+     > 19:36: "I would like to quote the speech of NATO secretary general Mr Woerner in Brussels on May 17, 1990. He said at the time that: 'the fact that we are ready not to place a NAT0 army outside of German territory gives the Soviet Union a firm security guarantee'. Where are these guarantees?
+
 - March 2004: Bulgaria, Estonia, Latvia, Lithuania, Romania, and Slovakia joined in March 2004.
 
 - August, 2002: [American Servicemembers’ Protection Act](https://law.stanford.edu/publications/the-american-servicemembers-protection-act-pathways-to-and-constraints-on-u-s-cooperation-with-the-international-criminal-court/)
