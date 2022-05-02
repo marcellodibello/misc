@@ -61,6 +61,35 @@ RWL=Reach Watch Later
 
 - September 2014: Minsk 
 
+
+- April/May 2019: the Ukrainian parliament approves a new language law. Ukraine's President Poroshenko signs it. TThe new language goes not accord Russian any privileged linguistic status. Venice commission of the Council of Europe [notes](https://www.venice.coe.int/webforms/documents/?pdf=CDL-AD(2019)032-e): 
+
+     > the State Language Law submitted ... fails to strike a fair balance between the legitimate 
+     > aim of strengthening and promoting the Ukrainian language and sufficiently safeguarding 
+     > minorities’ linguistic rights.
+
+- April 2016: A [report](https://www.osce.org/files/f/documents/e/7/233896.pdf) from the Foundaion for teh Study of Democracy documents war crimes, tourtures, rape, and other inhumane treatments by Ukraine's armed forces towarda civilians in the areas of Donetsk and Luhansk. 
+
+     > The prisoners were electrocuted, beaten cruelly and for multiple days in a row with different objects (iron bars, baseball bats, sticks, rifle
+butts, bayonet knives, rubber batons). 
+
+     > Techniques widely used by the Ukrainian armed forces and security forces include waterboarding, strangling with a ‘Banderist garrotte’ and
+other types of strangling.
+
+     > In some cases prisoners, for the purposes of intimidation, were sent to minefields and run over with military vehicles, which led to their
+death.
+
+     > Other torture methods used by the Ukrainian armed forces and security forces include bone-crashing, stabbing and cutting with a knife, 
+     branding with red-hot objects, shooting different body parts with small arms.
+
+     > The prisoners taken captive by the Ukrainian armed forces and security forces are kept for days at freezing temperatures, with no access 
+     to food or medical assistance, and are often forced to take psychotropic substances that cause agony.
+
+     > An absolute majority of prisoners are put through mock firing squads and suffer death and rape threats to their families
+
+
+- February 2014: The Constitutional Court of Ukraine rules the Kivalov-Kolesnichenko law unconstitutional. This law made Russian an official language in Ukrain alongside Ukrainian. 
+
 - April 1, 2009: Albania joins NATO
 
 - April 2008, [Bucharest Summit Declaration](https://www.nato.int/cps/en/natolive/official_texts_8443.htm)
