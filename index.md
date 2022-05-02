@@ -4,6 +4,18 @@ RWL=Reach Watch Later
 
 ## Russia chronology
 
+- February 24, 2022:  Putin recognizes the independence of the Donbass Republics and signs a treatise of friendship and military assistance. He then invokes Article 51 of the United Nations Charter to provide military assistance within a defensive alliance. 
+
+- February 23, 2022: Donbass republics asks for military assistance from Russia. 
+
+- February 18, 2022: Massive increase of artillery shellings in the Donbass, based on [reports](https://www.osce.org/ukraine-smm/reports?page=2) from OSCE Special Monitoring Mission to Ukraine:
+     > In Donetsk region, between the evenings of 18 and 20 February, the SMM recorded 2,158 ceasefire violations, including 1,100 explosions. In the previous reporting period, it recorded 591 ceasefire violations in the region.
+     > In Luhansk region, between the evenings of 18 and 20 February, the Mission recorded 1,073 ceasefire violations, including 926 explosions. In the previous reporting period, it recorded 975 ceasefire violations in the region.
+
+- February 17, 2022: Biden [says](https://edition.cnn.com/2022/02/17/politics/joe-biden-russia/index.html) that Russia will attack Ukraine 'within the next several days'
+
+- February 7, 2022: Emmanuel Macron in his visit to Moscow reaffirms to Vladimir Putin his commitment to the Minsk Agreements.
+
 - December 17, 2021: USA response to Russia's requests (see below): [unacceptable](https://www.rferl.org/a/nato-russia-security-guarantees/31614168.html) 
 
 - December 17, 2021: [Agreement on measures to ensure the security of The Russian Federation and member States of the North Atlantic Treaty Organization](https://www.mid.ru/ru/detail-material-page/1790803/?lang=en)
