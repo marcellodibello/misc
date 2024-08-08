@@ -120,8 +120,8 @@ The key thesis. Standard economics work with mathematical models that rest of si
 Farmer in [this excellent interview](https://www.youtube.com/watch?v=cIQP0hJ920k) provides several interesting examples of how his simulations have actually worked and helped central banks and governments make decisions:
 
 - simulation of Washington housing market
-- simulation of UK housing market for the Bank of England
-- simulation of UK economy during the pademic
+- simulation of UK housing market for the Bank of England - [paper](https://www.bankofengland.co.uk/working-paper/2016/macroprudential-policy-in-an-agent-based-model-of-the-uk-housing-market)
+- simulation of UK economy during the pademic - [paper](https://www.sciencedirect.com/science/article/pii/S0165188922002317) and [newspaper piece](https://csh.ac.at/news/predicting-the-economic-downturn-during-the-pandemic/)
 
 He claims he managed to accurately predict a drop in UK GDP during the pandemic! This is all very impressive. This simulation approach, however, is resisted by mainstream economics. 
 
