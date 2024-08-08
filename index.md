@@ -107,6 +107,26 @@ This is, again, reasuring. The bill explitly states that instrucutors may cover 
 oppression". The potential chilling effect remains, but that is a different point. 
 
 
+# August 7, 2024
+
+## Predicting the economy -- beyond standard economic modeling 
+
+This seems like a great book to read:
+
+- Farmer (2024), [Making Sense of Chaos: A Better Economics for a Better World](https://www.penguin.co.uk/books/284357/making-sense-of-chaos-by-farmer-j-doyne/9780241201978)
+
+The key thesis. Standard economics work with mathematical models that rest of simple and artificial assumptions of rationality (say, maximization of expected utility).  These models are idealizations and have no traction in the real world. So economics predictive power is weak. What is the alternative? Simulate! Collect data about every relevant aspect in the economy---employment, production, immigration, etc. data we have have more and more. Then, simulate agents and processes. Let the simulation run over time and see what happens. Intriguing yet also distopyc and scary.
+
+Farmer in [this excellent interview](https://www.youtube.com/watch?v=cIQP0hJ920k) provides several interesting examples of how his simulations have actually worked and helped central banks and governments make decisions:
+
+- simulation of Washington housing market
+- simulation of UK housing market for the Bank of England
+- simulation of UK economy during the pademic
+
+He claims he managed to accurately predict a drop in UK GDP during the pandemic! This is all very impressive. This simulation approach, however, is resisted by mainstream economics. 
+
+
+
 
 
 
