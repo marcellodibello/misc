@@ -48,7 +48,7 @@ Interesting! His very detailed analysis is below:
 I need to read it carefully, and see why Eric thought Bayesianism is not the right (or not the ultimate?) guide for 
 judging the debate about the origins of covid. But the clash between explanatory power versus and likelihood of a story is reminiscient of debates in legal scholarship, between legal probabilists/Bayesians and Ronald Allen who prefers relative plausibility. 
 
-## Trump Excutive Order on DEI (and Florida analogous HB7 bill)
+## ACLU on Trump Excutive Order on DEI and Florida HB7 bill
 
 ACLU wrote a memo about [Trump on DEI and anti-discrmination law](https://assets.aclu.org/live/uploads/2024/07/Memo_Trump_DEI_v4.pdf). It is a good read, informative and well-researched, but I was confused by some of the presentation, tone and overall argument.  Consider this claim:
 
