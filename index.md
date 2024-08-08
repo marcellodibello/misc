@@ -125,6 +125,8 @@ Farmer in [this excellent interview](https://www.youtube.com/watch?v=cIQP0hJ920k
 
 He claims he managed to accurately predict a drop in UK GDP during the pandemic! This is all very impressive. This simulation approach, however, is resisted by mainstream economics. 
 
+Farmer has a company -- [Macrocosmos](https://www.macrocosm.group/)that uses simulations to make predictions useful for policymakers, businesses, financial analysts, etc., with a focus on the climate change transition and the decarbonization of the economy. 
+
 
 
 
