@@ -73,7 +73,7 @@ If no DEI practioner would push the divise concepts in the executive order, the 
 
 Still, on its face, the order targets not DEI as such, but at most DEI so long as it is divisive. The question becomes an emprical one. Do DEI practioners actually push diviside concepts? If they don't, as the Berkeley Center of Othering and Belonging attests, the order on its face cannot target DEI. 
 
-Let's now look at the Florida H7B which has a similar intent. The key bit is this:
+Let's now look at the Florida HB7 which has a similar intent. The key bit is this:
 
 > 760.10 Unlawful employment practices.—
 > 8)(a) Subjecting any individual, as a condition of
@@ -106,8 +106,18 @@ The point is to make sure these discussions do not push divisive concepts. In an
 > enactment and enforcement of laws resulting in racial
 > oppression, racial segregation, and racial discrimination
 
-This is, again, reasuring. The bill explitly states that instrucutors may cover topics such as racism, discrimination and racial oppression.  This is far from, as the ACLU put it, a ban on "classroom discussions about race, gender, and systemic
+This is, again, reassuring. The bill explitly states that instrucutors may cover topics such as racism, discrimination and racial oppression.  This is far from, as the ACLU put it, a ban on "classroom discussions about race, gender, and systemic
 oppression". The potential chilling effect remains, but that is a different point. 
+
+*UPDATE*: ACLU Florida describes in a 2022 [note](https://www.aclufl.org/sites/default/files/field_documents/aclu_fl_written_testimony_in_opposition-_hb_7_government_censorship_of_race_gender_discussions_judiciary_1.25.22.pdf) the HB7 like this:
+
+> HB 7/SB 148 make it an unlawful employment practice for any employer
+to engage in discussions, instruction, or training about race, gender,
+national origin, and the impacts of slavery and patriarchal systems.
+
+Quotations above from HB7 itself shows this isn't accurate. The bill itself invites
+"discussions, instruction, or training about race" (well, so long as they do not push divisive concepts which, as we know, 
+are not part of DEI trainings). So why this misrepresentation? 
 
 
 # August 7, 2024
