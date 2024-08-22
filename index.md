@@ -152,7 +152,10 @@ Liberalism championed equality before the law. Italian fascism champions equalit
 
 > VI. Le associazioni professionali legalmente riconosciute, assicurano l'uguaglianza giuridica tra i datori di lavoro e i lavoratori, mantengono la disciplina della produzione e del lavoro e ne promuovono il perfezionamento.
 
-This is hard to understand, but recent [evidence](https://ora.ox.ac.uk/objects/uuid:eeddbb9c-7b39-4347-91ff-fa25fa2c44bf/files/scc08hg081) suggests economic inequalities did increase during Italian facism.
+This is hard to understand, but recent suggests economic inequalities did increase during Italian facism:
+
+- Giacomo Gabbuti (2020), [A Noi! Income Inequality and Italian Fascism: Evidence
+from Labour and Top Income Shares](https://ora.ox.ac.uk/objects/uuid:eeddbb9c-7b39-4347-91ff-fa25fa2c44bf/files/scc08hg081)
 
 Interestingly, [Corradi Gini](https://en.wikipedia.org/wiki/Corrado_Gini) -- from the Gini coefficient -- was a fascist!
 
