@@ -140,8 +140,21 @@ He claims he managed to accurately predict a drop in UK GDP during the pandemic!
 
 Farmer has a company -- [Macrocosmos](https://www.macrocosm.group/)that uses simulations to make predictions useful for policymakers, businesses, financial analysts, etc., with a focus on the climate change transition and the decarbonization of the economy. 
 
+# August 21, 2024
 
+## What is equality before labor?
 
+Chapter 9 of [Equality: The History of an Elusive Idea](https://www.amazon.com/Equality-History-Darrin-M-McMahon/dp/0465093930) discusses how Italian fascism and German nazism were socialist movements interested in establishing equality. But what equality, exactly? 
+
+Liberalism championed equality before the law. Italian fascism champions equality before labor. See 1927 [Carta del Lavoro](https://polyarchy.org/basta/documenti/carta.lavoro.1927.html):
+
+> IV. Nel contratto collettivo di lavoro trova la sua espressione concreta la solidarietà fra i vari fattori della produzione, mediante la conciliazione degli opposti interessi dei datori di lavoro e dei lavoratori e la loro subordinazione agli interessi superiori della produzione.
+
+> VI. Le associazioni professionali legalmente riconosciute, assicurano l'uguaglianza giuridica tra i datori di lavoro e i lavoratori, mantengono la disciplina della produzione e del lavoro e ne promuovono il perfezionamento.
+
+This is hard to understand, but recent [evidence](https://ora.ox.ac.uk/objects/uuid:eeddbb9c-7b39-4347-91ff-fa25fa2c44bf/files/scc08hg081) suggests economic inequalities did increase during Italian facism.
+
+Interestingly, [Corradi Gini](https://en.wikipedia.org/wiki/Corrado_Gini) -- from the Gini coefficient -- was a fascist!
 
 
 
