@@ -186,7 +186,7 @@ Very well, but what about Bayesian reasoning?
 
 The general point is clear, but the discussion is odd. Presumably, we'll have some evidence for Lizardness (in short, L) and some evidence against it. Say 50 features favor L and 50 do not. So the balance of evidence should be even. If the prior for L are low, the posterior probability of L will be low. Or most features could go against L, so the evidece against L will be overwhelming.   
 
-The quotation instead assumes that 50 features could be weakely anomalous, with Bayes factor of 2. So, combined, the Bayes factor is 2^{50}, which is overwheliing evidence for L. But what about the other features? Why assume that their Bayes factor is merely 1? Why not 1/2 so that, combined, we have 1/2^{50}? The author admits that much when he writes (p. 21):
+The quotation instead assumes that 50 features could be weakly anomalous, with Bayes factor of 2. So, combined, the Bayes factor is 2^{50}, which is overwhelming evidence for L. But what about the other features? Why assume that their Bayes factor is merely 1? Why not 1/2 so that, combined, we have 1/2^{50}? The author admits that much when he writes (p. 21):
 
 > However let us be a little less reckless; after all, all of those less anomalous observations
 should have had a Bayes factor smaller than 1 because they are evidence for humanity.
