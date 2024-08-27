@@ -161,9 +161,33 @@ Interestingly, [Corradi Gini](https://en.wikipedia.org/wiki/Corrado_Gini) -- fro
 
 
 
+# Agust 26, 2024
 
+I'll follow up on some earlier thoughts about the right theory of uncertainty, especially in relation to the Rootclaim debate about the origins of civid. See earlier post on August 6, 2024. 
 
+One of the judges wrote a detailed report in which he claimed that Bayesianism is not the right tehory ot handle uncertainty. 
 
+- Eric Stansifer, [Rootclaim covid-19 origins debate: Final decision](https://ermsta.com/r/covid_decision_20240217.pdf)
 
+Here is one key idea (pp. 20-21):
+
+> Suppose you suspect something about your senator is quite odd, and perhaps they are not human at all, but rather secretly a lizard from space. To test this, you collect 100 pieces of data that inform the question. For many of these data points you know what to expect for humans: how tall are they, how much do they weigh, shapes of facial features, etc.
+
+> Predictably, even if you have been completely fair in your data collection – all 100 data points are accurate, and you did not specifically seek out information that you know will be odd – if you are naive with your analysis in certain ways you will invariably conclude that they are a lizard.
+
+How so? You could pick one feature that happens to have a low p-value, then conclude it is evidence againt the null (=not a lizard).
+This p-hacking. Look hard enough and you'll find evudence against teh null. Burt what about Bayesian reasoning?
+
+> Bayesian reasoning is capable of exactly the same error. For each of these observations you compute a Bayes factor. Half of them are less anomalous than average (Bayes factor 1) and half of them are more anomalous than average. They are only weakly anomalous – a 1 in
+2 coincidence each, so Bayes factor 2 – but with 50 such pieces of weak evidence your total Bayes factor is 2^{50}, totally overwhelming any prior you had against secret space lizards.
+
+The general point is clear, but the example is odd. Presumably, you'lll have some evidence for Lizardness (in short, L) and idence some evagainst it. Say 50 features favor L and 50 do not. So the balance of evidence should be even. If the prior for L are low, the posterior probability of L will be low. Or most features could go against L, so the evidece against L will be overwhelming.   
+
+The quotation instead assumes that 50 features could be weakely anomalous, with Bayes factor of 2. So, combined, the Bayes factor is 2^{50}, which is overwheliing evidence for L. But what about the other features? Why assume that their Bayes factor is merely 1? Why not 1/2 so that, combined, we have 1/2^{50}? The author admits that much whne he writes:
+
+> However let us be a little less reckless; after all, all of those less anomalous observations
+should have had a Bayes factor smaller than 1 because they are evidence for humanity.
+>
+> 
 
 
