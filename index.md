@@ -235,7 +235,7 @@ Stansifer  comments on Rootclaim Bayesian computation, summarized in the table o
 
 This is again the earlier point about possible biases in the selection of the evidence. But there is a new important point being made here. That is, it is okay to select very strong evidence in favor of one's hypothesis. But when the individual items are weak evidence, this is more worrisome, becaue as we know, even weak pieces of evidence when combined, can become overwhelming. And this may be totally artificial. 
 
-Not sure how to develop this further, but worth thinmign about more. It seems that for Bayesian many pieces of weak evidence versus one piece of strong evidence would be indistinguishable (assuming independence).  Stansifer think not. The risk of evidence selection bias with weak evidence is greater than with one single, strong item of evidence. 
+Not sure how to develop this further, but worth thinking about more. It seems that for Bayesians, many pieces of weak evidence versus one piece of strong evidence would be indistinguishable (assuming independence).  Stansifer thinks not. The risk of evidence selection bias with weak evidence is greater than with one single, strong item of evidence. 
 
 
 
