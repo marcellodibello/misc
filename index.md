@@ -191,7 +191,7 @@ The quotation instead assumes that 50 features could be weakly anomalous, with B
 > However let us be a little less reckless; after all, all of those less anomalous observations
 should have had a Bayes factor smaller than 1 because they are evidence for humanity.
 
-Then, Stansifer assumes that we find out about these feature somewhat randomly and so their associated Bayes factors are uniformly distributed in the interval [0, 1].  So, some feature will favor L and other go against L. In the end, aggregating them, we will either have very strong evidence for L or against L. This is also odd. We cannot assume that we pick the values from a unifirm interval [0, 1]. Evidence isn't produced randomly so long as it tracks reality. The mechanism that generates the evidence must be "biased" for or against L -- that will depeden on what reality is like. Otherwise evidence is worthless.
+Then, Stansifer assumes that we find out about these feature somewhat randomly and so their associated Bayes factors are uniformly distributed in the interval [0, 1].  So, some features will favor L and others go against L. In the end, aggregating them, we will either have very strong evidence for L or strong evidence against L. This is odd. We cannot assume that values of teh Bayes factor are picked randomly from a uniform interval [0, 1]. Evidence isn't produced randomly so long as it tracks reality. The mechanism that generates the evidence must be "biased" for or against L -- that will depeden on what reality is like, or erlse evidence would be worthless.
 
 Next, Stansifer adds (p. 22):
 
