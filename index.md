@@ -169,7 +169,9 @@ One of the judges wrote a detailed report in which he claimed that Bayesianism i
 
 - Eric Stansifer, [Rootclaim covid-19 origins debate: Final decision](https://ermsta.com/r/covid_decision_20240217.pdf)
 
-Here is one key idea (pp. 20-21):
+## Problem 1: Biased selection of the evidence 
+
+Consider this scenario (pp. 20-21):
 
 > Suppose you suspect something about your senator is quite odd, and perhaps they are not human at all, but rather secretly a lizard from space. To test this, you collect 100 pieces of data that inform the question. For many of these data points you know what to expect for humans: how tall are they, how much do they weigh, shapes of facial features, etc.
 
@@ -181,13 +183,64 @@ This p-hacking. Look hard enough and you'll find evudence against teh null. Burt
 > Bayesian reasoning is capable of exactly the same error. For each of these observations you compute a Bayes factor. Half of them are less anomalous than average (Bayes factor 1) and half of them are more anomalous than average. They are only weakly anomalous – a 1 in
 2 coincidence each, so Bayes factor 2 – but with 50 such pieces of weak evidence your total Bayes factor is 2^{50}, totally overwhelming any prior you had against secret space lizards.
 
-The general point is clear, but the example is odd. Presumably, you'lll have some evidence for Lizardness (in short, L) and idence some evagainst it. Say 50 features favor L and 50 do not. So the balance of evidence should be even. If the prior for L are low, the posterior probability of L will be low. Or most features could go against L, so the evidece against L will be overwhelming.   
+The general point is clear, but the discussion is odd. Presumably, we'll have some evidence for Lizardness (in short, L) and some evidence against it. Say 50 features favor L and 50 do not. So the balance of evidence should be even. If the prior for L are low, the posterior probability of L will be low. Or most features could go against L, so the evidece against L will be overwhelming.   
 
-The quotation instead assumes that 50 features could be weakely anomalous, with Bayes factor of 2. So, combined, the Bayes factor is 2^{50}, which is overwheliing evidence for L. But what about the other features? Why assume that their Bayes factor is merely 1? Why not 1/2 so that, combined, we have 1/2^{50}? The author admits that much whne he writes:
+The quotation instead assumes that 50 features could be weakely anomalous, with Bayes factor of 2. So, combined, the Bayes factor is 2^{50}, which is overwheliing evidence for L. But what about the other features? Why assume that their Bayes factor is merely 1? Why not 1/2 so that, combined, we have 1/2^{50}? The author admits that much when he writes (p. 21):
 
 > However let us be a little less reckless; after all, all of those less anomalous observations
 should have had a Bayes factor smaller than 1 because they are evidence for humanity.
->
-> 
+
+Then, Stansifer assumes that we find out about these feature somewhat randomly and so their associated Bayes factors are uniformly distributed in the interval [0, 1].  So, some feature will favor L and other go against L. In the end, aggregating them, we will either have very strong evidence for L or against L. This is also odd. We cannot assume that we pick the values from a unifirm interval [0, 1]. Evidence isn't produced randomly so long as it tracks reality. The mechanism that generates the evidence must be "biased" for or against L -- that will depeden on what reality is like. Otherwise evidence is worthless.
+
+Next, Stansifer adds (p. 22):
+
+> However, what happens if we have a slight bias? Indeed even if all of our data points are individually fair, we might be biased about which data points we collect. Suppose we conveniently overlook half the data in favor of humanity; so we have two thirds
+for lizards, and one thirds for humans.
+
+The point here is clear, and I completely agree. (The earlier discussion seemed muddled, or I could not follow it.) If we are biased in the selection of the evidence -- without knowing it! -- the evidence might support conclusion L very strongly, while in fact that might be due, not to the truth of L, but to the biased selection of the evidence.
+
+This point is sensible, but it isn't a problem for Bayesianism per se. Any formalism or method to assess evidence will face this problem. So we have:
+
+(Task 1) assess the *available* evidence foir/against a hypothesis H
+(Task 2) assess whether evidence collection was fair, unbiased, etc.
+
+Bayesianism can carry out Task 1, but clearly cannot carry out Task 2, and we should be wary of that. What are some remedies? Here is Stansifer again (p. 22):
+
+> If instead of a haphazard collection of observations one makes a collection of evidence that is in some way canonical it is much harder to introduce bias; say, one considers all fingers, but only fingers.
+
+> ... if a hypothesis can be broken down into subparts, each necessary for the hypothesis as a whole to hold, then there is less potential for bias in the selection of evidence, though there may remain disagreement about the numbers assigned to the evidence or what
+breakdown into subparts is cleanest.
+
+These are very good points, but none would be incompatible with Bayesianism. Yes, we should agree on types of evidence to look at beforehand, prior to knowing their content. For example, in a trial, to questiokn a witness prior to knowing what they are going to say; or run a test prior to knowing the test results; etc. This guards us againt biased selection of evidence. Not a problem for Bayesian, but also, not a problem that Bayesianism can address. 
+
+Later in critizing (p. 26) one of Rootclaim calculations, Stansifer points out that -- even granting that the probabilities assigned to assess the evidence are right  -- the choice if the evidence seemed at hoc and thus not convicing:
+
+> even if all the numbers shown here are completely correct, I am not persuaded by the conclusion. The listed observations do not represent a canonical series of necessary events that must occur under the hypothesis .... one could argue that the choice of observations was ... unmotivated. Rather, the listed observations appear to be a miscellany of loosely related things that happened in the context of the HSM outbreak and seemed vaguely odd.
+
+I have mixed feelings about this point. First, it is odd to dismiss evidenvce because it is not canonical or not what one woud expect. Evidence can be shown to be irrelevant or fabricated, but dmissing it is odd. Second, evidence is presented by both parties and the adversarial format should take care of possible biases in evidenbce selection, at least assuming one party has no greater access to evidenbce than the other (and there is not resona for that in the Rootclaim debate). Third, the task is to assess teh likelihood of hyptheses beased on the evidence available, not based on what evidence should have been presented but was not. On the other hand, I see the point, that a biased selection of the evidence could lead to the wrong results. 
+
+## Problem 2: Recklessly aggregating weak evidence
+
+The second pronblem -- related to the first -- is that Bayesianism allows for reckless aggregation of weak evidence that can yield overwhelming evidence. Why is this a problem?
+
+Stansifer  comments on Rootclaim Bayesian computation, summarized in the table on page 27. Basically, we have a bunch of items of evidence, each with a Bayes factors (greater or smaller than 1), which are then aggregated. Total Bayes factor is very high, favoring lab leak. Here again (p. 27):
+
+> Half of that weight comes from three pieces of evidence: the 12nct insert, CGGCGG , and the location of the first SSE (sum 8.882). These three pieces of evidence are claimed to be strong and deserve commensurate analysis. The other half comes from eight different pieces of evidence that are individually weak and appear ad hoc.
+
+> This argument ... bears some resemblance to the space lizard argument, and observations seem to be selected primarily on the basis of how much they stand out rather than any canonical or complete collection of evidence. This is fine if the observations really stand out – a factor of 50 is not bad, and you will be hard pressed to turn up many factors of 50 by chance. But Rootclaim includes five factors of 2 or less in their favor, and these should be plentiful to find for any hypothesis, true or false.
+
+
+This is again the earlier point about possible biases in the selection of the evidence. But there is a new important point being made here. That is, it is okay to select very strong evidence in favor of one's hypothesis. But when the individual items are weak evidence, this is more worrisome, becaue as we know, even weak pieces of evidence when combined, can become overwhelming. And this may be totally artificial. 
+
+Not sure how to develop this further, but worth thinmign about more. It seems that for Bayesian many pieces of weak evidence versus one piece of strong evidence would be indistinguishable (assuming independence).  Stansifer think not. The risk of evidence selection bias with weak evidence is greater than with one single, strong item of evidence. 
+
+
+
+## Problem 3: Lack of an explanation
+
+The third problem is stated less clear in the report. So I am not quite sure if I am getting this right.
+
+
+
 
 
