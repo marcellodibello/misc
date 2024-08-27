@@ -237,6 +237,12 @@ This is again the earlier point about possible biases in the selection of the ev
 
 Not sure how to develop this further, but worth thinking about more. It seems that for Bayesians, many pieces of weak evidence versus one piece of strong evidence would be indistinguishable (assuming independence).  Stansifer thinks not. The risk of evidence selection bias with weak evidence is greater than with one single, strong item of evidence. 
 
+Here are some fixes by Stansifer (p. 29):
+
+> 2. Focus on only the most extreme observations: it is harder to introduce a bias with 3 factors of 100 each than 20 factors of 2 each. Of course, this requires having extreme observations available.
+
+3. Alternatively, use some canonical or clearly unmotivated selection of evidence. Rootclaim attempts to do this by using all the evidence, which certainly would be a canonical selection if it were possible; in practice I believe Rootclaim is aiming to include all
+the relevant evidence, which is much harder to do without human bias interfering.
 
 
 ## Problem 3: Lack of an explanation
