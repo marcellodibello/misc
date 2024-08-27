@@ -163,13 +163,15 @@ Interestingly, [Corradi Gini](https://en.wikipedia.org/wiki/Corrado_Gini) -- fro
 
 # Agust 26, 2024
 
+## Pitfalls of the Bayesian analysis in the covid origins Rootclaim debate
+
 I'll follow up on some earlier thoughts about the right theory of uncertainty, especially in relation to the Rootclaim debate about the origins of covid. See earlier post on August 6, 2024. 
 
 One of the judges wrote a detailed report in which he claimed that Bayesianism is not the right theory to handle uncertainty. 
 
 - Eric Stansifer, [Rootclaim covid-19 origins debate: Final decision](https://ermsta.com/r/covid_decision_20240217.pdf)
 
-## Problem 1: Biased selection of the evidence 
+### Problem 1: Biased selection of the evidence 
 
 Consider this scenario (pp. 20-21):
 
@@ -222,7 +224,7 @@ I have mixed feelings about this point. First, it is odd to dismiss evidence bec
 
 I wonder, what was the point of the debate? To determine the truth of the lab leak hypothesis versus animal origin hypothesis, or rather, to assess what the evidence says about these hypotheses?
 
-## Problem 2: Recklessly aggregating weak evidence
+### Problem 2: Recklessly aggregating weak evidence
 
 The second pronblem -- related to the first -- is that Bayesianism allows for reckless aggregation of weak evidence that can yield overwhelming evidence. Why is this a problem?
 
@@ -245,9 +247,21 @@ Here are some fixes by Stansifer (p. 29):
 the relevant evidence, which is much harder to do without human bias interfering.
 
 
-## Problem 3: Lack of an explanation
+### Problem 3: Arbitrariness and lack of an explanation
 
-The third problem is stated less clear in the report. So I am not quite sure if I am getting this right.
+The third problem is not stated in the report, and it is my own. In reading the report, I was struck by how brittle the Bayesian analysys can be. One can change dramatically the outcome by (1) adding or removing evidence and (2) adjusting the Bayesian facfor for each piece of evidence. See the difference between teh Rootclaim table on page 27 and Stansifer own calculations on page 67. In te former, the Bayesian factor for the lab leak is overwhelming, while in the latter, it is as low as 0.00003. How can we have such dramatic difference? This is somewhat disconcerting. 
+
+## Can the Bayesian analysis help?
+
+Rootclaim believes the Bayesian analysis can help. How? 
+
+I don't think it can help much if pieces of evidence can be aggregated libearly or additively, like this: E1 favors H1; E2 favors H1; E2 favors not-H; E2 favors not-H, etc. At this level, we can count things and get a sense of where the evidence is going. The hard part is to collect the evidence and assess it. Which the Bayesian analysis does not help us do. The aggregation is easy. Part of the problem in teh rootclaim debate was that most of the discussion seemed to aggregate pieces of evidence in an additive manner. 
+
+But one could have multiple sources of uncertainty at different levels. Say DNA evidence shows a match, but the uncertainty coud be due to (a) a laboratoty error and also (b) a random coincidence match (say, two people could have the same genetic profile). It is not obvious how to aggregate these two sources of uncertainty, especially when they are numeric.
+
+In addition, imagine a witness gives an alibi in defense of the defendant. How do you add this to the overell body of evidence including DNA match? That is even less clear, because the witness speaks directlly to the issues of guilt/innocence while DNA evidence only speaks to the issue of presence at the scene or source of crime traces. The aggregation cannot be linear or additive. This kind of complexity can only be handled by probability and Bayesian networks.
+
+
 
 
 
