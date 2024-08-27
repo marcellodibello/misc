@@ -177,8 +177,9 @@ Consider this scenario (pp. 20-21):
 
 > Predictably, even if you have been completely fair in your data collection – all 100 data points are accurate, and you did not specifically seek out information that you know will be odd – if you are naive with your analysis in certain ways you will invariably conclude that they are a lizard.
 
-How so? You could pick one feature that happens to have a low p-value, then conclude it is evidence againt the null (=not a lizard).
-This p-hacking. Look hard enough and you'll find evudence against teh null. Burt what about Bayesian reasoning?
+How so? Well, you could pick one feature that happens to have a low p-value, then conclude it is evidence against the null (=not a lizard). This is known as p-hacking: look hard enough and you'll find evidence against the null. 
+
+Very well, but what about Bayesian reasoning?
 
 > Bayesian reasoning is capable of exactly the same error. For each of these observations you compute a Bayes factor. Half of them are less anomalous than average (Bayes factor 1) and half of them are more anomalous than average. They are only weakly anomalous – a 1 in
 2 coincidence each, so Bayes factor 2 – but with 50 such pieces of weak evidence your total Bayes factor is 2^{50}, totally overwhelming any prior you had against secret space lizards.
