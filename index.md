@@ -163,9 +163,9 @@ Interestingly, [Corradi Gini](https://en.wikipedia.org/wiki/Corrado_Gini) -- fro
 
 # Agust 26, 2024
 
-I'll follow up on some earlier thoughts about the right theory of uncertainty, especially in relation to the Rootclaim debate about the origins of civid. See earlier post on August 6, 2024. 
+I'll follow up on some earlier thoughts about the right theory of uncertainty, especially in relation to the Rootclaim debate about the origins of covid. See earlier post on August 6, 2024. 
 
-One of the judges wrote a detailed report in which he claimed that Bayesianism is not the right tehory ot handle uncertainty. 
+One of the judges wrote a detailed report in which he claimed that Bayesianism is not the right theory to handle uncertainty. 
 
 - Eric Stansifer, [Rootclaim covid-19 origins debate: Final decision](https://ermsta.com/r/covid_decision_20240217.pdf)
 
