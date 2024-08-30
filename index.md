@@ -304,6 +304,8 @@ Nurse recently convicted, again stats similar to Lucia de Berk
 
 The Guardian (2024), [Lucy Letby: killer or coincidence? Why some experts question the evidence](https://www.theguardian.com/uk-news/article/2024/jul/09/lucy-letby-evidence-experts-question)
 
+Richard Gill (2023/24), [The Lucy Letby case](https://gill1109.com/2023/05/24/the-lucy-letby-case/?amp=1)
+
 ### RSS Stats and Law report
 
 - RSS (2022)[Healthcare serial killer or coincidence?](https://rss.org.uk/RSS/media/File-library/News/2022/Report_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_Sept_2022_FINAL.pdf)
