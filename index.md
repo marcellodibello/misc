@@ -249,7 +249,7 @@ the relevant evidence, which is much harder to do without human bias interfering
 
 ### Problem 3: Arbitrariness and lack of an explanation
 
-The third problem is not stated in the report, and it is my own. In reading the report, I was struck by how brittle the Bayesian analysys can be. One can change dramatically the outcome by (1) adding or removing evidence and (2) adjusting the Bayesian facfor for each piece of evidence. See the difference between teh Rootclaim table on page 27 and Stansifer own calculations on page 67. In te former, the Bayesian factor for the lab leak is overwhelming, while in the latter, it is as low as 0.00003. How can we have such dramatic difference? This is somewhat disconcerting. 
+The third problem is not stated in the report, and it is my own. In reading the report, I was struck by how brittle the Bayesian analysys can be. One can change dramatically the outcome by (1) adding or removing evidence and (2) adjusting the Bayesian facfor for each piece of evidence. See the difference between the Rootclaim table on page 27 and Stansifer's own calculations on page 67. In the former, the Bayesian factor for the lab leak is overwhelming, while in the latter, it is as low as 0.00003. How can we have such dramatic difference? This is somewhat disconcerting. 
 
 ## Can the Bayesian analysis help?
 
@@ -261,8 +261,34 @@ But one could have multiple sources of uncertainty at different levels. Say DNA 
 
 In addition, imagine a witness gives an alibi in defense of the defendant. How do you add this to the overell body of evidence including DNA match? That is even less clear, because the witness speaks directlly to the issues of guilt/innocence while DNA evidence only speaks to the issue of presence at the scene or source of crime traces. The aggregation cannot be linear or additive. This kind of complexity can only be handled by probability and Bayesian networks.
 
+# August 30, 2024
 
+## Incredible coincidences
 
+### Case 1: Lucia de Berk (NL)
+
+Well known case, but interesting to ask, based on the data available, how to best come up with a p-value. Use hypergeometric distribution, binomial, poisson, or what elese?
+
+### Case 2: Daniel Poggiali (IT)
+
+Similar to Lucia de Berk, but a crazy series of twists and turns:
+
+-  March 2016, Daniela Poggiali was sentenced by the Ravenna Court of Assizes to life imprisonment
+-  July 7, 2017, the Court of Appeal of Bologna acquitted her1, overturning the
+-  In 2018 the Supreme Court (Corte di Cassazione) annulled the sentence (“cassation”) and ordered a new trial
+-  In 2019, she was acquitted again
+-  In 2020 the Supreme Court ordered yet another new trial
+-  In two subsequent appeals, she was acquittedm, but with both acquittals overridden by Cassation
+-  October 2021, the Court of Appeal of Bologna acquitted Daniela yet again of murder charges
+-  etc.
+
+Dotto, Gill and Mortera (2022), [Statistical Analyses in the case of an Italian nurse accused of murdering patients](https://arxiv.org/pdf/2202.08895)
+
+### Case 3: Lucy Letby (UK)
+
+Nurse recently convicted, again stats similar to Lucia de Berk
+
+The Guardian (2024), [Lucy Letby: killer or coincidence? Why some experts question the evidence](https://www.theguardian.com/uk-news/article/2024/jul/09/lucy-letby-evidence-experts-question)
 
 
 
