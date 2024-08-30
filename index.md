@@ -369,3 +369,5 @@ Interesting to look at *Appendix 6: Patterns of occurrence of adverse events* (p
 > of the nurse we must compare two hypotheses:
 > (1) that the only cause of systematic difference in rates is the shift effect, and
 > (2) that both the shift effect and the presence of the nurse have a systematic effect on the rates. 
+
+Details of calculations on pp 51 and 52
