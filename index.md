@@ -308,6 +308,8 @@ The Guardian (2024), [Lucy Letby: killer or coincidence? Why some experts questi
 
 - RSS (2022)[Healthcare serial killer or coincidence?](https://rss.org.uk/RSS/media/File-library/News/2022/Report_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_Sept_2022_FINAL.pdf)
 
+### Pearson chi-squared statistic
+
 Interesting to look at *Appendix 6: Patterns of occurrence of adverse events* (p. 45)
 
    
@@ -317,5 +319,53 @@ Interesting to look at *Appendix 6: Patterns of occurrence of adverse events* (p
 | **Survived**       | 25      | 31      | 56    |
 | **Total**          | 40      | 40      | 80    |
 
+> Could the apparent discrepancy in rates of death be attributed to chance, “just a coincidence”? We
+> suppose that all circumstances of the Nurse A and Nurse B shifts are identical; there is no other
+> conceivable reason for the apparent difference other than the presence of one nurse or the other.
+
+> ... the standard way to analyse this, to test the hypothesis that there is no difference in the death rates attributable
+> to the nurses, is “Pearson's chisquared test”. This is an elementary technique... This reveals that the probability of observing
+> a difference in apparent death rates as large as, or larger than, that seen in the table, if there was really no difference
+> is 14% (that is the pvalue is 0.14).
+
+|                    | Nurse A | Nurse B | Total |
+|--------------------|---------|---------|-------|
+| **Died**           | 150     | 90      | 240   |
+| **Survived**       | 250     | 310     | 560   |
+| **Total**          | 400     | 400     | 800   |
+
+> if all of the numbers in Table 5 were exactly 10 times larger (150, 90, and so on), then
+> the Pearson chi-squared statistic 𝐺 would be 21.43 and the p-value turns out to be 0.000004,
+> so there would be overwhelming evidence that the apparent different in death rate was not due to chance.
+> (This is an example of the point made in Section 4(f) that “coincidental fluctuations from
+> population means are more likely with small samples…”).
+
+### Poisson log-linear models
 
 
+> Pearson’s chi-squared test, but still very few criminal cases are simple enough to fit into this setting.
+> Nevertheless, the analysis can be extended to deal with much more complex situations, allowing in
+> particular more than one causal factor, and different durations of time. The more general framework is
+> that of Poisson log-linear models, which are an example of generalised linear models. (p. 46)
+
+
+| Number of Shifts | Nurse Shift       | Deaths | Expected Deaths Ignoring Morning Effect | Expected Deaths Allowing Morning Effect |
+|------------------|-------------------|--------|------------------------------------------|------------------------------------------|
+| 8                | On duty morning   | 7      | 5.33                                     | 7.87                                     |
+| 7                | On duty other     | 3      | 4.67                                     | 2.13                                     |
+| 2                | Off duty morning  | 2      | 0.40                                     | 1.13                                     |
+| 28               | Off duty other    | 4      | 5.60                                     | 4.87                                     |
+
+
+ > If we ignore the shift effect, we are simply comparing the rates of 10 per 15 shifts with 6 per 30 shifts
+> when the nurse is or is not on duty. The Poisson log-linear analysis (details explained in Appendix 6, with code in Appendix 8)
+> gives a p-value of 1.7% (0.017) for the likelihood ratio test that the nurse’s presence has no effect on the rates –
+> and we would conventionally call this result significant, which would be incriminating. (p. 47)
+
+>  if we follow the correct practice of comparing hypotheses (1) and (2) above, the p-value
+> becomes 37.8% (0.378) ... not statistically significant (p. 47)
+
+> To correctly assess the extent to which the deaths can be attributed to the presence
+> of the nurse we must compare two hypotheses:
+> (1) that the only cause of systematic difference in rates is the shift effect, and
+> (2) that both the shift effect and the presence of the nurse have a systematic effect on the rates. 
