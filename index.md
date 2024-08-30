@@ -284,12 +284,38 @@ Similar to Lucia de Berk, but a crazy series of twists and turns:
 
 Dotto, Gill and Mortera (2022), [Statistical Analyses in the case of an Italian nurse accused of murdering patients](https://arxiv.org/pdf/2202.08895)
 
+Look at the death data with DP. Just a coincidence?
+
+| Nurse | Same Zone | Opposite Zone | Total Deaths | Hours on Duty | Same Zone Mortality Rate | Opposite Zone Mortality Rate | Relative Risk | Absolute Risk |
+|-------|-----------|---------------|--------------|---------------|--------------------------|-----------------------------|---------------|---------------|
+| N.1   | 68        | 58            | 126          | 3686          | 0.54                     | 0.46                        | 1.17          | 0.08          |
+| N.2   | 51        | 68            | 119          | 3545          | 0.43                     | 0.57                        | 0.75          | -0.14         |
+| N.3   | 64        | 60            | 124          | 3554          | 0.52                     | 0.48                        | 1.07          | 0.03          |
+| N.4   | 70        | 53            | 123          | 3535          | 0.57                     | 0.43                        | 1.32          | 0.14          |
+| N.5   | 64        | 41            | 105          | 3625          | 0.61                     | 0.39                        | 1.56          | 0.22          |
+| N.6   | 43        | 65            | 108          | 3532          | 0.40                     | 0.60                        | 0.66          | -0.20         |
+| DP    | 139       | 52            | 191          | 3577          | 0.73                     | 0.27                        | 2.67          | 0.46          |
+| N.8   | 60        | 44            | 104          | 3710          | 0.58                     | 0.42                        | 1.36          | 0.15          |
+| N.9   | 66        | 53            | 119          | 3741          | 0.55                     | 0.45                        | 1.25          | 0.11          |
+
 ### Case 3: Lucy Letby (UK)
 
 Nurse recently convicted, again stats similar to Lucia de Berk
 
 The Guardian (2024), [Lucy Letby: killer or coincidence? Why some experts question the evidence](https://www.theguardian.com/uk-news/article/2024/jul/09/lucy-letby-evidence-experts-question)
 
+### RSS Stats and Law report
+
+- RSS (2022)[Healthcare serial killer or coincidence?](https://rss.org.uk/RSS/media/File-library/News/2022/Report_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_Sept_2022_FINAL.pdf)
+
+Interesting to look at *Appendix 6: Patterns of occurrence of adverse events* (p. 45)
+
+   
+|                    | Nurse A | Nurse B | Total |
+|--------------------|---------|---------|-------|
+| **Died**           | 15      | 9       | 24    |
+| **Survived**       | 25      | 31      | 56    |
+| **Total**          | 40      | 40      | 80    |
 
 
 
