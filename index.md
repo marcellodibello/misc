@@ -374,7 +374,11 @@ Interesting to look at *Appendix 6: Patterns of occurrence of adverse events* (p
 
 Details of calculations on pp 51 and 52
 
-## Case 4: Beverly Allitt (UK)
+# August 30, 2024
+
+## Nurses and statistical coincidences
+
+### Case 4: Beverly Allitt (UK)
 
 This is a case of a conviction (May 1993), partly based on statistics, but there seems to have been more detailed/specific evidence, though read this:
 
@@ -402,7 +406,7 @@ The other curious thing is that Roy Meadow -- the same guy who testified against
 Meadow did not testify about the stastical coincidence (unlike in Sally Clak), but about the fact that the defendant fits a profile whoch makes her likely to have a motive to kill. 
 So here we seem to have a case of stastical coincidence plus profiling!
 
-Case 5: Charles Cullen (US)
+### Case 5: Charles Cullen (US)
 
 - [Interviews with serial killers | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=c2xMTTmZpSM)
 
