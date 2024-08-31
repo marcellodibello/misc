@@ -378,7 +378,7 @@ Details of calculations on pp 51 and 52
 
 This is a case of a conviction, partly based on statistics, but there seems to have been more detailed/specific evidence, though read this:
 
--  Marks and  Richmond (2008), Beverly Allitt: the nurse who killed babies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2270251/)
+-  Marks and  Richmond (2008), [Beverly Allitt: the nurse who killed babies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2270251/)
   
 > By the time I was consulted, the police had, by examining the nursing time sheets, established statistical evidence linking Allitt with each of the
 > suspect hospital cases. There was a remarkable coincidence between the times when she was on duty and the occurrence of unexpected events in all 13 children.
