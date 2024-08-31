@@ -390,7 +390,7 @@ This is a case of a conviction, partly based on statistics, but there seems to h
 So, the individual deaths, considered indvidually, did not raise suspicion, but considered together, they did!
 Is this case any different from the others?
 
-The other curious thing is that Roy Meadow -- the same guy who testified against Sally Clark by multiplying the statistics-- was one of the exp[erte witness in the trial. 
+The other curious thing is that Roy Meadow -- the same guy who testified against Sally Clark by multiplying the statistics-- was one an expert witness in the trial. 
 
 - [Beverly Allitt Crime Files](https://www.crimeandinvestigation.co.uk/crime-files/beverly-allitt)
   
@@ -399,5 +399,5 @@ The other curious thing is that Roy Meadow -- the same guy who testified against
 > which had delayed the start of her trial. It was Professor Meadows’ opinion that Beverley Allitt would never be cured, making her a clear danger to
 > anyone with whom she might come in contact.
 
-The twist here is that Meadow does not testify about the stastical coincidence, but about teh fact that the defendant fits profile whoch makes her likely to commit certain acts. 
-So here we seem to have a case of stastical coincoidence plus profiling!
+Meadow did not testify about the stastical coincidence (unlike in Sally Clak), but about the fact that the defendant fits a profile whoch makes her likely to have a motive to kill. 
+So here we seem to have a case of stastical coincidence plus profiling!
