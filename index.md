@@ -373,3 +373,31 @@ Interesting to look at *Appendix 6: Patterns of occurrence of adverse events* (p
 > (2) that both the shift effect and the presence of the nurse have a systematic effect on the rates. 
 
 Details of calculations on pp 51 and 52
+
+## Case 4: Beverly Allitt (UK)
+
+This is a case of a conviction, partly based on statistics, but there seems to have been more detailed/specific evidence, though read this:
+
+-  Marks and  Richmond (2008), Beverly Allitt: the nurse who killed babies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2270251/)
+  
+> By the time I was consulted, the police had, by examining the nursing time sheets, established statistical evidence linking Allitt with each of the
+> suspect hospital cases. There was a remarkable coincidence between the times when she was on duty and the occurrence of unexpected events in all 13 children.
+> The chance of this being **coincidence was calculated to be less than one in 10 million**. In ten of the cases, the child's illness could have had a perfectly
+> natural explanation – and even in the cases of Paul Crampton, Claire Peck and Becky Phillips there was an extremely remote possibility that the damage was accidental.
+> It was only **when all the cases were taken together** and had been investigated in greater detail than had originally been considered necessary
+> for clinical purposes that the whole thing fell into place.
+
+So, the individual deaths, considered indvidually, did not raise suspicion, but considered together, they did!
+Is this case any different from the others?
+
+The other curious thing is that Roy Meadow -- the same guy who testified against Sally Clark by multiplying the statistics-- was one of the exp[erte witness in the trial. 
+
+- [Beverly Allitt Crime Files](https://www.crimeandinvestigation.co.uk/crime-files/beverly-allitt)
+  
+> Her unusual behaviour in childhood was brought to light and the paediatrics expert, Professor Roy Meadow, explained Munchausen’s syndrome and Munchausen’s by Proxy syndrome
+> to the jury, pointing out how Allitt demonstrated symptoms of both, as well as introducing evidence of her typical post-arrest behaviour, and high incidence of illness,
+> which had delayed the start of her trial. It was Professor Meadows’ opinion that Beverley Allitt would never be cured, making her a clear danger to
+> anyone with whom she might come in contact.
+
+The twist here is that Meadow does not testify about the stastical coincidence, but about teh fact that the defendant fits profile whoch makes her likely to commit certain acts. 
+So here we seem to have a case of stastical coincoidence plus profiling!
