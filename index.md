@@ -434,3 +434,17 @@ So what is the difference from Lucia de Berk or similar other cases?
 - [Unveiling intra-person fingerprint similarity via deep contrastive learning](https://www.science.org/doi/10.1126/sciadv.adi0329)
 
 - [Github page](https://github.com/gabeguo/FingerprintMatching/tree/refactor_training)
+
+First finding: Fingerprints (from the same person) are not unique:
+
+> Fingerprint biometrics are ... based on the unproven assumption that no two fingerprints, even from different fingers of the same person, are alike.
+> This renders them useless in scenarios where the presented fingerprints are from different fingers than those on record. Contrary to this prevailing assumption,
+> we show above 99.99% confidence that fingerprints from different fingers of the same person share very strong similarities. Using deep twin neural networks to
+> extract fingerprint representation vectors, we find that these similarities hold across all pairs of fingers within the same person, even when controlling
+> for spurious factors like sensor modality.
+
+Second finding: ridge orientation in the center/singularity, not minutiae, is reponsible for the similarity:
+
+> We also find evidence that ridge orientation, especially near the fingerprint center, explains a substantial part of this similarity, whereas minutiae
+> used in traditional methods are almost nonpredictive. Our experiments suggest that, in some situations, this relationship can increase forensic
+> investigation efficiency by almost two orders of magnitude.
