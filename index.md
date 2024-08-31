@@ -376,7 +376,7 @@ Details of calculations on pp 51 and 52
 
 ## Case 4: Beverly Allitt (UK)
 
-This is a case of a conviction, partly based on statistics, but there seems to have been more detailed/specific evidence, though read this:
+This is a case of a conviction (May 1993), partly based on statistics, but there seems to have been more detailed/specific evidence, though read this:
 
 -  Marks and  Richmond (2008), [Beverly Allitt: the nurse who killed babies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2270251/)
   
@@ -401,3 +401,23 @@ The other curious thing is that Roy Meadow -- the same guy who testified against
 
 Meadow did not testify about the stastical coincidence (unlike in Sally Clak), but about the fact that the defendant fits a profile whoch makes her likely to have a motive to kill. 
 So here we seem to have a case of stastical coincidence plus profiling!
+
+Case 5: Charles Cullen (US)
+
+- [Interviews with serial killers | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=c2xMTTmZpSM)
+
+- This seems a very different type of case, defendant clearly guilty.
+
+However, this is also a cae of statistical coincidences. Read here:
+
+- [How Did Detectives Start Investigating 'The Good Nurse" Case?](https://www.oxygen.com/true-crime-buzz/how-detectives-tim-braun-danny-baldwin-investigate-charles-cullen)
+
+> The press release added, “The case against Charles Cullen grew as the detectives discovered that at each facility an **inordinate number of unexplained deaths**
+> had been recorded. Furthermore, 67% of the deaths occurred in the Critical Care units during the midnight shift when Charles Cullen was on duty.”
+
+>  The two detectives then investigated the hospital’s automated medication system to confirm that Cullen had been removing unauthorized medications
+> “at an alarming rate,” according to the press release. One such medication was Digoxin, the same drug which had killed at least one victim at that hospital.
+
+So what is the difference from Lucia de Berk or similar other cases?
+
+**QUESTION**: Do the statistics/data about deaths look any different in Cullen than they look in Lucia de Berk? Has someone done a statistical analysis? What is the p-value for the pattern of deaths in Cullen versus Lucia de Berk?
