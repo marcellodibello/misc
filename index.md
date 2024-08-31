@@ -425,3 +425,12 @@ However, this is also a cae of statistical coincidences. Read here:
 So what is the difference from Lucia de Berk or similar other cases?
 
 **QUESTION**: Do the statistics/data about deaths look any different in Cullen than they look in Lucia de Berk? Has someone done a statistical analysis? What is the p-value for the pattern of deaths in Cullen versus Lucia de Berk?
+
+## Fingerprint ID and AI
+
+- [Forensic scientists have a new fingerprint-matching tool in their arsenal thanks to AI, but it's sparked a controversy News]
+(https://www.livescience.com/technology/artificial-intelligence/forensic-scientists-have-a-new-fingerprint-tool-in-their-arsenal-thanks-to-ai-but-its-sparked-a-controversy)
+
+- [Unveiling intra-person fingerprint similarity via deep contrastive learning](https://www.science.org/doi/10.1126/sciadv.adi0329)
+
+- [Github page](https://github.com/gabeguo/FingerprintMatching/tree/refactor_training)
