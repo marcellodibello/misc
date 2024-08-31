@@ -428,10 +428,7 @@ So what is the difference from Lucia de Berk or similar other cases?
 
 ## Fingerprint ID and AI
 
-- [Forensic scientists have a new fingerprint-matching tool in their arsenal thanks to AI, but it's sparked a controversy News]
-(https://www.livescience.com/technology/artificial-intelligence/forensic-scientists-have-a-new-fingerprint-tool-in-their-arsenal-thanks-to-ai-but-its-sparked-a-controversy)
-
-- [Unveiling intra-person fingerprint similarity via deep contrastive learning](https://www.science.org/doi/10.1126/sciadv.adi0329)
+-  Guo et al (2024), [Unveiling intra-person fingerprint similarity via deep contrastive learning](https://www.science.org/doi/10.1126/sciadv.adi0329)
 
 - [Github page](https://github.com/gabeguo/FingerprintMatching/tree/refactor_training)
 
@@ -448,3 +445,13 @@ Second finding: ridge orientation in the center/singularity, not minutiae, is re
 > We also find evidence that ridge orientation, especially near the fingerprint center, explains a substantial part of this similarity, whereas minutiae
 > used in traditional methods are almost nonpredictive. Our experiments suggest that, in some situations, this relationship can increase forensic
 > investigation efficiency by almost two orders of magnitude.
+
+Magazine piece on the scholarly article with a critique by Simon Cole:
+
+- [Forensic scientists have a new fingerprint-matching tool in their arsenal thanks to AI, but it's sparked a controversy News](https://www.livescience.com/technology/artificial-intelligence/forensic-scientists-have-a-new-fingerprint-tool-in-their-arsenal-thanks-to-ai-but-its-sparked-a-controversy)
+
+> Simon Cole ... is among those who say similarities in the fingerprints from different digits of the same person have long been known,
+> even if forensic experts were unable to match them with the certainty required by courts.
+
+> Furthermore, as law enforcement routinely takes prints from all ten digits, Cole said he can only see the technology having "rare and limited use" — linking
+> separate prints from different crime scenes for suspects without all ten digits recorded.
