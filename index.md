@@ -557,7 +557,7 @@ from abstract:
 > origin of implication. These results illuminate how tunnel vision begins in cases with innocent defendants, and how police
 > practices may prevent innocent individuals from becoming suspects.
 
-## False convictions: OJP Literature overview and pressing questions
+## False convictions: Literature overview and pressing questions
 
 Have been looking for a state of the art literature review on the topic. Perhpas found one. Need to read this:
 
@@ -567,4 +567,13 @@ National Institute of Justice (2023), [Wrongful Convictions: The Literature, the
 > exonerations to more recent scientific analyses of wrongful convictions. The review finds that knowledge
 > about the prevalence and causes of these serious miscarriages of justice remains limited and mixed at best.
 
-Knowledge about causes is limited and mixed at best! This is my impression too, but goo to hear it from soone who reviwed the literature.
+Knowledge about causes is limited and mixed at best! This is my impression too, but goo to hear it from soone 
+who reviwed the literature. Need to read this more carefully.
+
+Another good literature reviw seems this:
+
+Norris et al (2018), [Thirty Years of Innocence: Wrongful Convictions and Exonerations in the United States, 1989-2018](https://wclawr.org/index.php/wclr/article/view/11)
+
+Interesting: it was published as the first article in [The Wrongful Conviction Law Review](https://wclawr.org/index.php/wclr)
+
+
