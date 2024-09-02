@@ -503,4 +503,53 @@ One reason I got into the topic "strength of evidence scale" was a presentation 
 
 Need to explore this more.  Nice presentation [here](https://cebcp.org/wp-content/Symposium2015/Amendola.pdf) by Amendola with  references and good discussion. 
 
+## False convictions
 
+The reason I got into this (see above) was my reasearch on false covncitions.
+
+- Gould et al (2013), [Predicting Wrongoful Conviction](https://ilr.law.uiowa.edu/sites/ilr.law.uiowa.edu/files/2023-02/ILR-99-2-Gould-Carrano-Leo-Hail-Jares.pdf)
+
+The key ieda of this study is to compare cases of false convictions with cases of correct acquittals/dimissals---so in both, the defendant is factually innocent but is convicted or not. What determines the difference? There are virtually no studies about false convictions that apply this method of contrast groups. Most studies focus on cases of false conviction. But without true acquittals/dismissals, it is hard to warrant conclusions about what *causes* false convcitions. 
+
+What are the results of the study? Looks like standard "causes" of false convictions are discredited as they seem equally frequent in the two contrast groups. Many interestign findings. In terms of correlations:
+
+> The significant variables include several of the traditional “causes” of wrongful conviction, such as
+> forensic error, Brady violations, strength of defense, and mistaken identification of defendant,
+> as well as some that appear unique to our study, including whether the defendant was a high school
+> graduate, the defendant’s age, and whether the defense offered a family witness (p. 488)
+
+> At the same time, perhaps one of the most important findings from this project is which variables do
+> not explain the different outcomes between erroneous convictions and near misses. Indeed, a number of
+> variables that are often discussed by scholars as possible “causes” of erroneous convictions were
+> not correlated with case outcome in the bivariate analysis (Table 2). Among these are official error and
+> misconduct (other than Brady violations), jailhouse informants, false incriminating statements/confessions, and
+> various eyewitness misidentification variables. (p. 489)
+
+>  these errors may lead to the arrest and indictment of an innocent defendant. But, once a
+> factually innocent defendant enters the criminal justice system, the findings
+> here indicate that conviction will not statistically turn on differences in those factors. (p. 490)
+
+So it seems that here we need to make a distinction between causes of false conviction at different stages of the justice system---causes that operate at the level of trial and causes that operate earlier, say at the level of arrest, investigation, or pressing charges. If a police officer engages in misconduct this will likely cause the defendant to be arrested and go to trial, but it seems that, once arrested, it is equally likely that the suspect will be discharged, acquitted or convicted.  This does not mean that police miscondict isn't a cause of false conviction at all. But it is not a cause *after* the arrest. 
+
+Incidentally, race does not seem to play a role, but age does. Interesting:
+
+> Among defendant characteristics, the defendant’s age and any prior criminal history influence case outcome.
+> Older defendants are less likely to be erroneously convicted, and defendants with prior criminal histories are
+> more likely to face an erroneous conviction. Other defendant characteristics,
+> such as race and high school graduation, have no impact in distinguishing between
+> an erroneous conviction and near miss. (p. 492)
+
+## False convictions: pre-trial factors
+
+Lowrey-Kinberg et al (2018), [Origin of Implication: How Do Innocent Individuals Enter the Criminal Justice System?](https://journals.sagepub.com/doi/abs/10.1177/0011128718793618)
+
+from abstract:
+
+> Drawing from the investigative policing literature, we develop a typology for how innocent defendants become
+> suspects in criminal investigations. We use the Preventing Wrongful Convictions Project (PWCP) dataset and multivariate
+> modeling to examine the case and defendant characteristics that predict how an innocent defendant became a suspect. We found
+> that investigators identify suspects in eight primary ways. The most common in the PWCP dataset were victim/eyewitness
+> identification,citizen identification, and intentional misidentification. Defendant’s race, age, criminal history, relationship
+> to the victim, cognitive/mental status, and whether the victim survived were strongly associated with an innocent defendant’s
+> origin of implication. These results illuminate how tunnel vision begins in cases with innocent defendants, and how police
+> practices may prevent innocent individuals from becoming suspects.
