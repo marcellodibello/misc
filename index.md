@@ -578,11 +578,13 @@ Interesting: it was published as the first article in [The Wrongful Conviction L
 
 ## False Convictions: Forensic errors
 
-Morgan (2023), John Morgan, [Wrongful Convictions and Claims of False or Misleading Forensic Evidence](https://nij.ojp.gov/topics/articles/impact-false-or-misleading-forensic-evidence-wrongful-convictions), Journal of Forensic Sciences 00 (2023): 1-54
+Morgan (2023), John Morgan, [Wrongful Convictions and Claims of False or Misleading Forensic Evidence](https://onlinelibrary.wiley.com/doi/full/10.1111/1556-4029.15233), Journal of Forensic Sciences 00 (2023): 1-54
 
-This is an interesting take---and very recent!---examination of a **typology** of forensic errors.
+There is also a [book](https://www.amazon.com/Wrongful-Convictions-Forensic-Science-Errors/dp/1032064978/) that grew out of the article.  
 
-From the summary of the article in the NIJ website:
+Morgan's is an interesting take---and very recent!---examination of a **typology** of forensic errors.
+
+From the [summary](https://nij.ojp.gov/topics/articles/impact-false-or-misleading-forensic-evidence-wrongful-convictions) of the article in the NIJ website:
 
 > Dr. Morgan designed a study to examine the specific types of errors associated with forensic evidence — research that
 > is essential to identify past problems, mitigate future errors, and support the development of targeted,
