@@ -576,4 +576,32 @@ Norris et al (2018), [Thirty Years of Innocence: Wrongful Convictions and Exoner
 
 Interesting: it was published as the first article in [The Wrongful Conviction Law Review](https://wclawr.org/index.php/wclr)
 
+## False Convictions: Forensic errors
 
+Morgan (2023), John Morgan, [Wrongful Convictions and Claims of False or Misleading Forensic Evidence](https://nij.ojp.gov/topics/articles/impact-false-or-misleading-forensic-evidence-wrongful-convictions), Journal of Forensic Sciences 00 (2023): 1-54
+
+This is an interesting take---and very recent!---examination of a **typology** of forensic errors.
+
+From the summary of the article in the NIJ website:
+
+> Dr. Morgan designed a study to examine the specific types of errors associated with forensic evidence — research that
+> is essential to identify past problems, mitigate future errors, and support the development of targeted,
+> systems-based reforms by forensic practitioners.
+
+> Findings from this work led to the development of a forensic error typology, or codebook, which categorizes
+> factors related to misstatements in forensic science reports, errors of individualization or classification,
+> testimony errors, issues related to trials and officers of the court, and evidence handling and reporting issues 
+
+> In his examination, Dr. Morgan analyzed 732 cases and 1,391 forensic examinations from the National Registry of Exonerations.
+
+How often were errors found?
+
+> Cases
+> 732 total cases examined.
+> 635 cases had errors related to forensic evidence.
+> 97 cases had no errors related to forensic evidence.
+
+> Forensic Investigations
+> 1391 total forensic examinations included.
+> 891 had an error related to forensic evidence.
+> 500 were valid with no associated or known case error related to forensic evidence.
