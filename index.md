@@ -474,7 +474,7 @@ See also:
 - Merola, M. (1982). [Federal, state and local governments: Partners in the fight against violent
 crime](https://www.ojp.gov/ncjrs/virtual-library/abstracts/federal-state-and-local-governments-partners-fight-against-violent). Journal of Criminal Law and Criminology, 73(3), 965-984
 
-Now, fast foward to the 21st centuty. The main proponent of the strength of evidence scale is [Karen L Amendola](https://scholar.google.com/citations?user=7GlA6lkAAAAJ&hl=en), chief behavioral scientist at This [report](https://www.publicsafety.gc.ca/lbrr/archives/cnmcs-plcng/cn31236-eng.pdf) describes (pp. 33-40) the method quite clearly:
+Now, fast foward to the 21st centuty. The main proponent of the strength of evidence scale is [Karen L Amendola](https://scholar.google.com/citations?user=7GlA6lkAAAAJ&hl=en), chief behavioral scientist at [The National Policing Institute](https://www.policinginstitute.org/staff/karen-l-amendola/) [report](https://www.publicsafety.gc.ca/lbrr/archives/cnmcs-plcng/cn31236-eng.pdf) describes (pp. 33-40) the method quite clearly:
 
 > While the instrument may appear overly complex, it is actually a very simple 5-point Likert scale where
 > a “5” means that the evidence is particularly strong in linking to the identified suspect,
