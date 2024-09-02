@@ -509,7 +509,7 @@ The reason I got into this (see above) was my reasearch on false covncitions.
 
 - Gould et al (2013), [Predicting Wrongoful Conviction](https://ilr.law.uiowa.edu/sites/ilr.law.uiowa.edu/files/2023-02/ILR-99-2-Gould-Carrano-Leo-Hail-Jares.pdf)
 
-The key ieda of this study is to compare cases of false convictions with cases of correct acquittals/dimissals---so in both, the defendant is factually innocent but is convicted or not. What determines the difference? There are virtually no studies about false convictions that apply this method of contrast groups. Most studies focus on cases of false conviction. But without true acquittals/dismissals, it is hard to warrant conclusions about what *causes* false convcitions. 
+The key ieda of this study is to compare cases of false convictions with cases of correct acquittals/dimissals---so in both, the defendant is factually innocent but is convicted or not. What determines the difference? There are virtually no studies about false convictions that apply this method of contrast groups. Most studies focus on cases of false conviction and return descriptive statistics---see e.g [here](https://www.law.umich.edu/special/exoneration/Pages/ExonerationsContribFactorsByCrime.aspx). But without true acquittals/dismissals, it is hard to warrant conclusions about what *causes* false convcitions. 
 
 What are the results of the study? Looks like standard "causes" of false convictions are discredited as they seem equally frequent in the two contrast groups. Many interestign findings. In terms of correlations:
 
