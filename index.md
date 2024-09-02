@@ -455,3 +455,52 @@ Magazine piece on the scholarly article with a critique by Simon Cole:
 
 > Furthermore, as law enforcement routinely takes prints from all ten digits, Cole said he can only see the technology having "rare and limited use" — linking
 > separate prints from different crime scenes for suspects without all ten digits recorded.
+
+# September 2, 2024
+
+Lots of new discoveries!
+
+## Strength of evidence scale
+
+Looks like police officers, investigators and DAs have developed a quasi-mathematical strength of evidence scale to assess how good an incriminating case is---to decide e.g. whether the case should go trial or which cases should be prioritized. This idea goes back to [Mario Merola](https://en.wikipedia.org/wiki/Mario_Merola_(lawyer)), Bronx DA in in the 70ies and 80ies.  This seems to be part of an attempt to prosecute crimes more effectively in NYC in the 80ies (where crime was rampant). See this [report](https://www.vera.org/downloads/publications/1409a.pdf). The report details how novel strategies (including  a strength of evidence scale) made prosecuting crimes more effective (e.g. higher convcition rates). The report describes te results of controlled study (one police precint was tested against a "control" precint).  See also this [report](https://www.ojp.gov/pdffiles1/Digitization/37810NCJRS.pdf):
+
+> The factors evaluated are the seriousness of the offense, the criminal record of the alleged offender, and the
+> strength of the case -- based primarily on the facts and evidence available. The objective nature of this
+> mechanism, obtained by scoring the same criteria in all cases, assures an integrity which might
+> be sacrificed by uncontrolled selective prosecution. (p. 3).
+
+See also:
+
+- Merola, M. (1982). [Federal, state and local governments: Partners in the fight against violent
+crime](https://www.ojp.gov/ncjrs/virtual-library/abstracts/federal-state-and-local-governments-partners-fight-against-violent). Journal of Criminal Law and Criminology, 73(3), 965-984
+
+Now, fast foward to the 21st centuty. The main proponent of the strength of evidence scale is [Karen L Amendola](https://scholar.google.com/citations?user=7GlA6lkAAAAJ&hl=en), chief behavioral scientist at This [report](https://www.publicsafety.gc.ca/lbrr/archives/cnmcs-plcng/cn31236-eng.pdf) describes (pp. 33-40) the method quite clearly:
+
+> While the instrument may appear overly complex, it is actually a very simple 5-point Likert scale where
+> a “5” means that the evidence is particularly strong in linking to the identified suspect,
+> and a “1” means that the evidence is exceptionally weak in linking to the identified suspect.
+> The scale requires ratings across six categories of evidence32 and an overall evidentiary strength
+> rating, but appears more complex, ironically by its simplified use of exemplars representing
+> consensus on what experts believed to best represent various points on the rating scale,
+> as shown in Figure 1 below. The purpose of the exemplars was to help guide the rater in
+> determining the appropriate strength of a particular piece of evidence in the case that was being
+> rated. (p. 40)
+
+[Amendola et al (2014), Photo Arrays in Eyewitness Identification Procedures]
+
+It is quite a simple method---with paradigmatic types of evidence associated with a rating, for examplem 
+video tape showing what happened in detailed rated close to 5, but vudeo with fuzzy resolution rated lower, etc.
+Not sure how different pieces of evidence are aggregated. Perhaps just added or substracted?
+
+Anyway, quite interesting. ** Questions:** How does the scale relate to probabilistic analysis of evidence? 
+Can a probabilistic analysis be useful for police investigators just like the strength of evidence rating? Are fallacies committed in using the strength of evidence rating?
+
+The strength of evidence scale in full is described [here](https://www.policinginstitute.org/wp-content/uploads/2020/04/About-the-Strength-of-Evidence-Scale.pdf).
+
+## Sequential versus simultaneous lineups 
+
+One reason I got into the topic "strength of evidence scale" was a presentation by Amendola hersefl (see above) on sequential versus simultaneous lineups. Police officers used to conduct simultaneous lineups. Then, research suggested sequential ones are more accurate. So police  changed. But then, more recent research showed---but it is controversial!---that simultanoues lineups are more accurate! Well, science can make mistakes---it actually must! Part of the problem was the measure of accuracy: error ratio versus ROC curve. 
+
+Need to explore this more.  Nice presentation [here](https://cebcp.org/wp-content/Symposium2015/Amendola.pdf) by Amendola with  references and good discussion. 
+
+
