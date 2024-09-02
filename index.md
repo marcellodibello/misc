@@ -503,7 +503,7 @@ One reason I got into the topic "strength of evidence scale" was a presentation 
 
 Need to explore this more.  Nice presentation [here](https://cebcp.org/wp-content/Symposium2015/Amendola.pdf) by Amendola with  references and good discussion. 
 
-## False convictions
+## False convictions: Gould study
 
 The reason I got into this (see above) was my reasearch on false covncitions.
 
@@ -539,6 +539,9 @@ Incidentally, race does not seem to play a role, but age does. Interesting:
 > such as race and high school graduation, have no impact in distinguishing between
 > an erroneous conviction and near miss. (p. 492)
 
+Longer paper available [here](https://www.ojp.gov/pdffiles1/nij/grants/241389.pdf). Appendix contains information on how cases were coded, very useful and detailed. 
+
+
 ## False convictions: pre-trial factors
 
 Lowrey-Kinberg et al (2018), [Origin of Implication: How Do Innocent Individuals Enter the Criminal Justice System?](https://journals.sagepub.com/doi/abs/10.1177/0011128718793618)
@@ -554,7 +557,7 @@ from abstract:
 > origin of implication. These results illuminate how tunnel vision begins in cases with innocent defendants, and how police
 > practices may prevent innocent individuals from becoming suspects.
 
-## False covncition: Literature overview and pressing questions
+## False convictions: OJP Literature overview and pressing questions
 
 Have been looking for a state of the art literature review on the topic. Perhpas found one. Need to read this:
 
