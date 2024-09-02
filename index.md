@@ -607,3 +607,18 @@ How often were errors found?
 > 1391 total forensic examinations included.
 > 891 had an error related to forensic evidence.
 > 500 were valid with no associated or known case error related to forensic evidence.
+
+
+## False convictions: Books and articles (to read!)
+
+- Norris et al (2018)[When Justice Fails: Causes and Consequences of Wrongful Convictions](https://www.amazon.com/When-Justice-Fails-Consequences-Convictions/dp/1611638569)
+
+Maybe related (same content?) to the article above also published in 2018 by the same author?
+
+- Covey (2018)[The Wrongful Convictions Reader](https://www.amazon.com/Wrongful-Convictions-Reader-Russell-Covey/dp/1531006329)
+
+- Hoyle and Sato (2019),[Reasons to Doubt: Wrongful Convictions and the Criminal Cases Review Commission](https://academic.oup.com/book/7798)
+
+- Cassel (2018), [Overstating America's Wrongful Conviction Rate: Reassessing the Conventional Wisdom about the Prevalence of Wrongful Convictions](https://arizonalawreview.org/overstating-americas-wrongful-conviction-rate-reassessing-the-conventional-wisdom-about-the-prevalence-of-wrongful-convictions/), 60 Ariz. L. Rev. 815 
+
+What's interesting about this: it argues that the rate of false conviction is not 3-5% as usually thought, but much lower. It is close to 0.1% or even lower, just like the much criticized Scalia said! Did not read the article, but it'd interesting to have a look. 
