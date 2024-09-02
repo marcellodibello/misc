@@ -553,3 +553,15 @@ from abstract:
 > to the victim, cognitive/mental status, and whether the victim survived were strongly associated with an innocent defendant’s
 > origin of implication. These results illuminate how tunnel vision begins in cases with innocent defendants, and how police
 > practices may prevent innocent individuals from becoming suspects.
+
+## False covncition: Literature overview and pressing questions
+
+Have been looking for a state of the art literature review on the topic. Perhpas found one. Need to read this:
+
+National Institute of Justice (2023), [Wrongful Convictions: The Literature, the Issues, and the Unheard Voices](https://www.ojp.gov/pdffiles1/nij/251446.pdf)
+
+> Chapter 1 reviews 100 years of scholarship on wrongful convictions, ranging from early case studies of
+> exonerations to more recent scientific analyses of wrongful convictions. The review finds that knowledge
+> about the prevalence and causes of these serious miscarriages of justice remains limited and mixed at best.
+
+Knowledge about causes is limited and mixed at best! This is my impression too, but goo to hear it from soone who reviwed the literature.
