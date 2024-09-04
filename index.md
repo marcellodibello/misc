@@ -622,3 +622,18 @@ Maybe related (same content?) to the article above also published in 2018 by the
 - Cassel (2018), [Overstating America's Wrongful Conviction Rate: Reassessing the Conventional Wisdom about the Prevalence of Wrongful Convictions](https://arizonalawreview.org/overstating-americas-wrongful-conviction-rate-reassessing-the-conventional-wisdom-about-the-prevalence-of-wrongful-convictions/), 60 Ariz. L. Rev. 815 
 
 What's interesting about this: it argues that the rate of false conviction is not 3-5% as usually thought, but much lower. It is close to 0.1% or even lower, just like the much criticized Scalia said! Did not read the article, but it'd interesting to have a look. 
+
+# Sept 4, 2024
+
+## AI in healthcare
+
+Very nice summary of three epoches in AI in medicine: symbolic/probabilistic, deep learning (prediction, classification), LLM and generative AI. 
+
+- Howell, Corrado and DeSalvo (2024)[Three Epochs of Artificial Intelligence in Health Care](https://jamanetwork.com/journals/jama/article-abstract/2813874)
+
+## Truth and Hallucinatio in AI
+
+- Farquhar, Kossen,  Kuhn and Gal (2024), [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)
+
+
+
