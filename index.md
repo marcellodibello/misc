@@ -640,7 +640,7 @@ Very nice summary of three epoches in AI in medicine: symbolic/probabilistic, de
 
 This is really neat:
 
-- (Evidence Based Justice Lab)[https://evidencebasedjustice.exeter.ac.uk/]
+- [Evidence Based Justice Lab](https://evidencebasedjustice.exeter.ac.uk/)
 
 They research interesting topics such as:
 
