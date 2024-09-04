@@ -636,4 +636,24 @@ Very nice summary of three epoches in AI in medicine: symbolic/probabilistic, de
 - Farquhar, Kossen,  Kuhn and Gal (2024), [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)
 
 
+## Psych, Data science and Law
 
+This is really neat:
+
+- (Evidence Based Justice Lab)[https://evidencebasedjustice.exeter.ac.uk/]
+
+They research interesting topics such as:
+
+- Credibility judgment
+ 
+> Our research draws on existing work in cognitive science about the inferences that are important
+> to people when making judgments about the credibility of others. We have drawn together existing
+> research to examine what is likely to influence jurors in making judgments about who to believe
+> in cases involving serious sexual offences
+
+- Forensic evidence
+
+ > Our research also investigates how new forensic scientists could be selected and recruited.
+> Our upcoming research has shown that certain people have superior performance in ‘matching’ tasks than others – without
+> any forensic science or training. Forensic scientists train for many years to acquire their exceptional
+> skill in their work, but there may be people out there that have a natural aptitude for it.
