@@ -293,7 +293,7 @@ Magazine piece on the scholarly article with a critique by Simon Cole:
 
 Well known case, but interesting to ask, based on the data available, how to best come up with a p-value. Use hypergeometric distribution, binomial, poisson, or what elese?
 
-### Case 2: Daniel Poggiali (IT)
+### Case 2: Daniela Poggiali (IT)
 
 Similar to Lucia de Berk, but a crazy series of twists and turns:
 
