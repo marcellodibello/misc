@@ -1,6 +1,15 @@
 
 *RWL = Read Watch Later*
 
+# Oct 30, 2024
+
+## Racial Bias Policing and Causal Graphs
+
+- (RWL) Knox, Lowe, and Mummolo (2020), [Administrative Records Mask Racially Biased Policing](https://jmummolo.scholar.princeton.edu/publications/bias-built-how-administrative-records-mask-racially-biased-policing). American Political Science Review. 2020
+
+A critique of Fryer's study of lethal police killings. Uses causal graphs. To be read carefully.
+
+
 # Oct 29, 2024
 
 ## Detecting true/false confessions
