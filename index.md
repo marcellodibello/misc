@@ -1,5 +1,13 @@
 
-*RWL = Read Watch Learn*
+*RWL = Read Watch Later*
+
+# Oct 29, 2024
+
+## Detecting true/false confessions
+
+- (RWL) [Offenders' Uncoerced False Confessions: A New Application of Statement Analysis?](https://www.ojp.gov/ncjrs/virtual-library/abstracts/offenders-uncoerced-false-confessions-new-application-statement)
+
+> Deception detection research has mainly studied denials and distortions given by students. This study examined true and false confessions as told by offenders. It was hypothesized that the statement analytic techniques Criteria-Based Content Analysis (CBCA) and Reality Monitoring (RM) would discriminate truths and lies. Truthful and deceptive confessions to crime were given by 30 offenders (both women and men) in a within-subject design. The participants were in prison at the time of data collection, and told the truth about a crime they had committed and been sentenced for. In addition, they made up a lie about a different crime after a few minutes of preparation. The transcribed statements were scored for CBCA and RM criteria. Results showed that **neither total CBCA nor total RM scores differentiated between lies and truths**. Some individual CBCA criteria, however, showed differences: more self-deprecations and doubts about own testimony in the told lies, and more unexpected complications in the truths. 
 
 # Oct 9, 2024
 
