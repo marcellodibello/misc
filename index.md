@@ -3,6 +3,37 @@
 
 # Oct 30, 2024
 
+## Accuracy reliability opf fingerprint evidence
+
+- (RWL)  Eldridge,  De Donno, Champod (2020), [Testing the Accuracy and Reliability of Palmar Friction Ridge Comparisons: A Black Box Study](https://www.ojp.gov/pdffiles1/nij/grants/304606.pdf)
+
+> "Twelve false positive errors were made by 8
+participants in the study, resulting in a false positive
+error rate of 0.7% ... 552 false negative errors were made,
+resulting in a false negative error rate of 9.5%" (p. 11)
+
+> "6 of the 12 false positive errors (50%) were made by participants from non-U.S.
+agencies, a disproportionate number to their presence in the study population. Altogether, 8 of the
+12 false positive errors (66.7%) were made by participants who were either non-active LPEs, non-U.S.
+examiners, or both. This leaves 4 of the 12 false positive errors that were committed by U.S. examiners
+who are currently active LPEs. For comparison, the FBI/Noblis study reported 96% participation by
+current LPEs, but only 1% participation from non-U.S. examiners." (p. 14)
+
+> "The summary of false negative error rates stratified by the difficulty of the comparison (as rated by the PI)
+is as follows:
+Easy: 3.2%
+Medium: 6.7%
+Hard: 10.5%
+Very har: 15.9%
+Here an effect is observed. It is clear that as the difficulty of the comparison increases, so does the false
+negative error rate. These data support the idea of defining thresholds for comparison difficulty and documenting
+these levels in case notes"  (p. 15)
+
+- [Court primier on error rates of fingerprint examiners](https://zenodo.org/records/3734560)
+
+Proposal here is to convey to jurors in court the error rates of fingerprint experts, FP and FN, rates. Error rates could be averages for the entire professionr, or the track rcod of a single fingerpritn examiner or divided into difficulty and type of prints being examined and regions of palm examined. Error rates will vary by all these characteristics. 
+ 
+
 ## Racial Bias Policing and Causal Graphs
 
 - (RWL) Knox, Lowe, and Mummolo (2020), [Administrative Records Mask Racially Biased Policing](https://jmummolo.scholar.princeton.edu/publications/bias-built-how-administrative-records-mask-racially-biased-policing). American Political Science Review. 2020
