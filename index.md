@@ -69,6 +69,24 @@ Interesting decisions to read on sex discrimination:
 - (RWL)[Oncale v. Sundowner Offshore Services, Inc.](https://www.oyez.org/cases/1997/96-568) (1997)
 
 - (RWL) [US v. Virgina](https://www.oyez.org/cases/1995/94-1941) (1996)
+- 
+
+## Kagan on Manhart and the simple counterfactual test
+
+The simple but-for counterfactula test was apparently alrewayd set up in Manhart, a very old case. Women had to pay larger retirement contributions into tehir pension plan because statistically they lived longer. Was the discrmination beased on sex?
+
+- (RWL)[City of Los Angeles Department of Water and Power v. Manhart, (1978)](https://www.oyez.org/cases/1977/76-1810)
+
+In Manhart, a separate characteristic, longevity, is explicitly used as a reason for differential treatment, sex is not explicitly used for differential treatment. Justice Kagan during the oral argument in Bostock says:
+
+> So all of these hypotheticals are really about the same thing, which is that Manhart gave us a very simple test, and Manhart said, what you do when you look to see whether there is discrimination under Title VII is, you say, would the same thing have happened to you if you were of a different sex? And, Ms. Karlan made all the -- you know, went through all the ways in which, obviously, the -- the same thing would not have happened to you if you were a different sex, you being her client. So, I mean, that's the question. There are independent characteristics in all these cases.
+
+The case seems to be different. In Bostock, the differential treatment is explicitly due to gender identity, and the question is this: is it also differential treastment because of sex? In Manhart, the differential treatment is actually because of sex, plain and simple: women are asked to pay more into their plan. But a justification is given for that, namely differences in longevity. Manhart seems to be a different case to me!
+
+So the lawyer on the other side, Jeffrey Harris, seems right:
+
+>  ... employer made no attempt to do any sort of bona fide underwriting or life expectancy estimates.
+It simply charged the women more. So even a woman and a man, if they each had a 75-year life expectancy, they would be charged different rates, even though they were totally, similarly situated with respect to that.
 
 # Feb 10, 2025
 
