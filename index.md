@@ -21,29 +21,29 @@ The way I understand this is by running the appropriate counterfactual test for 
 
 In the transgender case the reasoning seems similar. The two employees are identical except that one identifies as female at birth while the other transitioned from male to female. If the employer fires the latter, but would not have fired the former, this means that had the emplyoee being female (at birth), they would not have been fired. So, again discrimination based on transgenderism is also discrimination based on sex. 
 
-## Connectign with Hu's work
+## Connecting with Hu's work
 
-I wonder what Lily Hu's vignettes have to say about that? Here is one case from her dissertation:
+I wonder what Lily Hu's vignettes have to say about that? Here is one case from her 2022 dissertation:
 
 > AUDIT STUDY I: Skirt Interview - Two actors, one taken to be male and the other female, present identical resumes, answer interviewer questions identically, and affect the same tone, mannerisms, and general personality traits (as best as they can). The male actor also dons the same dress and wears the same facial makeup as the female actor; both actors wear skirts and facial makeup to their interviews. (p. 86)
 
-Suppose one actor is hired but the othert is not. Or suppose you can track the disparity across alike cases. So what is the cause of the decision?  It is sex/gender or something else? Hu seems to think, if I remember right, that it's not clear here whether the discrmination was because of sex/gender or because of failure to follow gender conforming rules. In fact, it's  likely that the discrimination was becaue of the gender rules, not sex/gender.  But a manipulationist account of causation -- keep everything the same, just change sex/gender -- would say that the cause here is sex/gender, not failure of conformity with gender norms. 
+Suppose one actor is hired but the other is not. Or suppose you can track the disparity across alike cases. So what is the cause of the decision?  It is sex/gender or something else? Hu seems to think, if I remember right, that it's not clear here whether the discrmination was because of sex/gender or because of failure to follow gender conforming rules. In fact, it's  likely that the discrimination was becaue of the gender rules, not sex/gender.  But a manipulationist account of causation -- keep everything the same, just change sex/gender -- would say that the cause here is sex/gender, not failure of conformity with gender norms. 
 
-But, interestingly, the US Sup. Ct. does not find anything problematic here. The counterfactual test above would say that Hu's case would be a cae of sex discrimination. 
+But, interestingly, the US Sup. Ct. does not find anything problematic here. The counterfactual test above says that Hu's case is a case of sex discrimination. 
 
 ## Because of sex v. because of gender non conformity
 
-During the oral argument, the Justices talk about cases involving women behaving according to male gender norms or men behaving according to female gender norms. Some of the Justices seem to think that, if these individuals were discriminated because of their gender non-conformity, they would be discriminated---at least in part---because of their sex/gender. Here is the lawyer Pamela S. Karlan representing Bostock:
+During the oral argument, the Justices talked about cases involving women behaving according to male gender norms or men behaving according to female gender norms. Some of the Justices seemed to think that, if these individuals were discriminated because of their gender non-conformity, they would be discriminated---at least in part---because of their sex/gender. Here is the lawyer Pamela S. Karlan, who was representing Bostock:
 
 > I'm simply saying that if a man and a woman both wanted to sew and you fire the man who loves sewing and you don't fire the woman who loves sewing, that's discrimination pure and simple, sex discrimination.
 
-So, there seems to be no issue that, if someone fails to conform with gender norms and they are discriminated because of that, they are also discriminated because of sex/gender. Justice Alito, however, disagrees:
+So, there seems to be no issue that, if someone fails to conform with gender norms and they are discriminated because of that, they are also discriminated because of their sex/gender. Justice Alito, however, disagrees:
 
 > The -- the point is that discrimination on the basis of sex in the sense that Congress understood it in 1964 is a different concept from discrimination on the basis of sexual orientation.
 
 ## The sex discrimination test in Bostock isn't logically sound 
 
-A blog critical of the opinion came out after the opinion. 
+A blog critical of the opinion came out right after. 
 
 - [Analysis
 Justice Gorsuch’s Misguided Sex Discrimination Opinion Fails Logic Test](https://www.dailysignal.com/2020/06/19/justice-gorsuchs-misguided-sex-discrimination-opinion-fails-logic-test/)
@@ -54,7 +54,7 @@ It gives good counterexamples:
 
 > Suppose a male employee at a fitness center repeatedly goes into the women’s locker room and is fired. Now it’s true that “changing the em­ployee’s sex would have yielded a different choice by the em­ployer” and that his sex was a “but-for” cause of the decision to fire him. But the negative treatment the employee faced was not sex discrimination provided the employer imposed no double standard for men and women, such as a bathroom policy that imposed the same burden on men and women: Each is prevented from entering the opposite sex’s private space.
 
-So these seem to be good counterexamples. And it does not help to say that discrmination also requires harm. There is harm in this cases because the emplyoee is fired -- clearly a harm -- just not a harm that, intuitvely, can be traced back to sex. 
+So these seem to be good counterexamples. And it does not help to say that discrmination also requires harm. There is harm in this cases because the emplyoee is fired -- clearly a harm. But it is not a harm that, intuitively, can be traced back to sex. Male and females lifeguards are not differently harmed (fired) because of their sex.  
 
 ## Differential treatment that is unevenly harmful for people of different sexes
 
