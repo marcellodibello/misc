@@ -3,6 +3,22 @@
 
 # Feb 20, 2025
 
+## Causal strcture and normative committments
+
+Typically we think of the causal structure of the world as objective, to be investigated with data and evidence, and in any way distinct from normative questions. Well, that assumption seems incorrect. The case of race and gender---and claims of wrongoful discrimination---is an example. The work of Lily Hu is the key reference here.
+
+- (RWL) Hu (2024), [Normative Facts and Causal Structure]()
+
+> This article challenges the widespread view that causal relations are wholly non-normative natural relations. In the case of salient social categories such as race and sex, I argue for a dependency of the causal order of things on the moral and political. At the center of my argument is a puzzle about how audit studies, social scientific experiments that approximate the idealized controlled experiment, work to probe the causal significance of race and sex. Essential to these studies is the distinction between differences that constitute rather than confound an effect of their variable of interest—a distinction, which, I claim, embodies judgments about the sorts of differences that constitute the wrongful causal influence of these categories. If our best scientific practices latch onto genuine features of causation, then normative theorizing’s place in scientific causal theorizing entails that normative facts figure in the causal structure.
+
+But there seems to be other domain where  causality and normativity are intertwined,  debates about alternative energies or actual causation:
+
+- (RWL) Statham (2020), [Normative commitments, causal structure, and policy disagreement](https://philpapers.org/rec/STANCC)
+
+> Recently, there has been a large amount of support for the idea that causal claims can be sensitive to normative considerations. Previous work has focused on the concept of actual causation, defending the claim that whether or not some token event c is a cause of another token event e is influenced by both statistical and prescriptive norms. I focus on the policy debate surrounding alternative energies, and use the causal modelling framework to show that in this context, people’s normative commitments don’t just affect the causal claims they are willing to endorse, but also their understanding of the causal structure. In the context of the alternative energy debate, normative considerations affect our understanding of the causal structure by influencing our judgements about which variables should be held fixed, and therefore which variables should be relegated to the background of a causal model. In cases of extreme disagreement, normative commitments can also affect which causal structure we think should be instantiated. Thus, focusing on a new context has revealed a previously unexplored sense in which normative factors are incorporated into causal reasoning.
+
+
+
 ## Bostock v. Clayton County (2020)
 
 Going back to the landmark Sup. Ct. decision on discrimination on the basis of sexual orientation and being transgender (SOT for short). [Bostock v. Clayton County (2020)](https://www.oyez.org/cases/2019/17-1618). While these expressions are not explicitly present in Title VII, the Court held that discrminating on the basis of SOT is discrmination on the basis of sex, and thus prohibited by Title VII. The test for discrimination based on sex in the emplyment context is this:
