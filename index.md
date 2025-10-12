@@ -41,12 +41,12 @@ Interesting. Philosophy is not so useless then! It is odd that Tim Nguyen who wo
 
 - (RWL) Timothy Nguyen - [Understanding Transformers via N gram Statistics](https://www.youtube.com/watch?v=tf4ZLcQBu1g)
 
-
 ## Intro discussion to AI, LLMs etc.
 
 - (RWL) [How Does AI Work?](https://www.youtube.com/watch?v=OQXiOpG1Y1s&t=45s) | Robert Wright & Timothy Nguyen
 
-
+- Word2Vec, simple mapping from words to vectors in several dimensions
+- trasnformer, more complex mapping that can take into account context, semantic ambiguity 
 
 
 
