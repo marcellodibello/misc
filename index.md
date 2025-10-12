@@ -54,6 +54,8 @@ Interesting. Philosophy is not so useless then! It is odd that Tim Nguyen who wo
 
 - (The Bitter Lesson)[https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf]
 
+Key difference seems to be that LLMs learn from large corpora of texts and can mimic human language pattern. With RL, instead, the machine learns from feedback given by experince. It is a give a goals and it learns to get to the goal from errors until the goal is achieved. In both approaches, the machine learns from data (so this is ML, not symbolic AI) but what the machine learns from is different: text versus experience. The interviewer thinks this is not a substantive difference, while Sutton thinks it is a substantive difference. 
+
 # Feb 20, 2025
 
 ## Causal strcture and normative committments
