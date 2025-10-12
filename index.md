@@ -4,9 +4,9 @@
 
 # Oct 12, 2025
 
-## AI, understading and causality  
+## AI, understanding and causality  
 
-- Mark Bishop, [Artificial Intelligence is stupid and causal reasoning won't fix it](https://arxiv.org/abs/2008.07371)
+- (RWL) Mark Bishop, [Artificial Intelligence is stupid and causal reasoning won't fix it](https://arxiv.org/abs/2008.07371)
 
 > Abstract: Artificial Neural Networks have reached Grandmaster and even super-human performance across a variety of games: from those involving perfect-information (such as Go) to those involving imperfect-information (such as Starcraft). Such technological developments from AI-labs have ushered concomitant applications across the world of business - where an AI brand tag is fast becoming ubiquitous. A corollary of such widespread commercial deployment is that when AI gets things wrong - an autonomous vehicle crashes; a chatbot exhibits racist behaviour; automated credit scoring processes discriminate on gender etc. - there are often significant financial, legal and brand consequences and the incident becomes major news. As Judea Pearl sees it, the underlying reason for such mistakes is that, 'all the impressive achievements of deep learning amount to just curve fitting'. The key, Judea Pearl suggests, is to replace reasoning by association with causal-reasoning - the ability to infer causes from observed phenomena. It is a point that was echoed by Gary Marcus and Ernest Davis in a recent piece for the New York Times: 'we need to stop building computer systems that merely get better and better at detecting statistical patterns in data sets - often using an approach known as Deep Learning - and start building computer systems that from the moment of their assembly innately grasp three basic concepts: time, space and causality'. In this paper, foregrounding what in 1949 Gilbert Ryle termed a category mistake, I will offer an alternative explanation for AI errors: it is not so much that AI machinery cannot grasp causality, but that AI machinery - qua computation - cannot understand anything at all.
 
@@ -15,7 +15,7 @@ From the abstract, it seems a good overview and perhaps a nice introductio into 
 2. AI based on causal knowledge, time and space (Marcus, Pearl)
 3. AI as developing true understanding (see Searle's Chinese room argument)
 
-See [video discussion](https://www.youtube.com/watch?v=e1M41otUtNg) on the paper, as well.
+- (RWL) [video discussion](https://www.youtube.com/watch?v=e1M41otUtNg) on the paper, as well.
 
 ## Google Deep Mind Tim Nguyen and Varufakis
 
@@ -27,7 +27,7 @@ Nguyen had no answer!
 
 See [video](https://www.youtube.com/watch?v=5dMIuCdLL7Y)
 
-## The Chiense Room coming back
+## The Chinese Room coming back
 
 What's also striking is that Nguyen, in a [blog post](https://timothynguyen.org/2025/08/21/a-summer-of-ai-debates-and-talks/), reports of a conversatio with Mark Bishop and he writes:
 
@@ -36,6 +36,15 @@ What's also striking is that Nguyen, in a [blog post](https://timothynguyen.org/
 > However, a fruitful outcome of our discussion was his suggestion that I read John Searle’s original Chinese Room argument paper. Though I was familiar with the argument from its prominence in scientific and philosophical circles, I had never read the paper myself. I’m glad to have now done so, and I can report that it has profoundly influenced my thinking – but the details of that will be for another debate or blog post
 
 Interesting. Philosophy is not so useless then! It is odd that Tim Nguyen who works at Google Deep Mind had to wait until 2025 to be influenced by Searle's paper! And it is odd that he had no response to Varufakis point about the socialization of AI. 
+
+## n-gram models and LLMs
+
+- (RWL) Timothy Nguyen - [Understanding Transformers via N gram Statistics](https://www.youtube.com/watch?v=tf4ZLcQBu1g)
+
+
+## Intro discussion to AI, LLMs etc.
+
+- (RWL) [How Does AI Work?](https://www.youtube.com/watch?v=OQXiOpG1Y1s&t=45s) | Robert Wright & Timothy Nguyen
 
 
 
