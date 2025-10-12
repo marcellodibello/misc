@@ -46,9 +46,13 @@ Interesting. Philosophy is not so useless then! It is odd that Tim Nguyen who wo
 - (RWL) [How Does AI Work?](https://www.youtube.com/watch?v=OQXiOpG1Y1s&t=45s) | Robert Wright & Timothy Nguyen
 
 - Word2Vec, simple mapping from words to vectors in several dimensions
-- transformer, more complex mapping that can take into account context, semantic ambiguity 
+- transformer (glorified Word2Vec), complex mapping that can take into account context, semantic ambiguity 
 
+## LLMs versus Reinforcement Learning
 
+- Richard Sutton – [Father of RL thinks LLMs are a dead end](https://www.youtube.com/watch?v=21EYKqUsPfg)
+
+- (The Bitter Lesson)[https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf]
 
 # Feb 20, 2025
 
