@@ -1,6 +1,17 @@
 
 *RWL = Read Watch Later*
 
+# Oct 25, 2025
+
+## LLM general intro
+
+- Andrej Karpathy, [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g])
+
+Very good overview of how LLM works and future development, back in 2023. The FIRST part talks about how LLMs work, SECOND the future of LLMs and THIRD securoty issues and adversarila attacks on LLMs. 
+
+- (RWL) Andrej Karpathy, [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+
+More detailed than previous video. ABSOLUTELY MUST WATCH!
 
 # Oct 12, 2025
 
